@@ -1,0 +1,2447 @@
+"fips","state","county","lat","lng","month.index","type","cases"
+2013,"AK","aleutians east borough",55.3665,-161.9813,12,"wild bird",1
+2013,"AK","aleutians east borough",55.3665,-161.9813,6,"wild bird",2
+2016,"AK","aleutians west census area",52.798,-106.6061,11,"wild bird",4
+2016,"AK","aleutians west census area",52.798,-106.6061,13,"wild bird",3
+2016,"AK","aleutians west census area",52.798,-106.6061,5,"wild bird",6
+2016,"AK","aleutians west census area",52.798,-106.6061,6,"wild bird",1
+2020,"AK","anchorage municipality",61.1508,-149.1091,10,"wild bird",1
+2020,"AK","anchorage municipality",61.1508,-149.1091,4,"captive wild bird",1
+2020,"AK","anchorage municipality",61.1508,-149.1091,5,"wild bird",8
+2020,"AK","anchorage municipality",61.1508,-149.1091,6,"wild bird",2
+2050,"AK","bethel census area",60.9131,-159.8186,6,"wild bird",9
+2050,"AK","bethel census area",60.9131,-159.8186,7,"wild bird",3
+2050,"AK","bethel census area",60.9131,-159.8186,8,"non-poultry",20
+2063,"AK","chugach census area",60.7228,-145.7754,6,"wild bird",1
+2066,"AK","copper river census area",61.8834,-143.968,6,"wild bird",2
+2090,"AK","fairbanks north star borough",64.8078,-146.5654,13,"wild bird",2
+2090,"AK","fairbanks north star borough",64.8078,-146.5654,5,"wild bird",1
+2100,"AK","haines borough",59.1199,-135.5,5,"wild bird",1
+2110,"AK","juneau city and borough",58.4546,-134.1739,10,"wild bird",16
+2110,"AK","juneau city and borough",58.4546,-134.1739,5,"wild bird",1
+2122,"AK","kenai peninsula borough",60.2654,-151.5652,11,"wild bird",1
+2122,"AK","kenai peninsula borough",60.2654,-151.5652,12,"wild bird",1
+2122,"AK","kenai peninsula borough",60.2654,-151.5652,5,"wild bird",2
+2122,"AK","kenai peninsula borough",60.2654,-151.5652,8,"wild bird",1
+2158,"AK","kusilvak census area",62.155,-163.3826,6,"wild bird",3
+2158,"AK","kusilvak census area",62.155,-163.3826,9,"wild bird",5
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,10,"non-poultry",40
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,10,"poultry",1010
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,11,"non-poultry",40
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,11,"wild bird",79
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,4,"non-poultry",30
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,5,"wild bird",1
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,6,"wild bird",3
+2170,"AK","matanuska-susitna borough",62.3155,-149.5728,8,"wild bird",1
+2180,"AK","nome census area",64.9111,-164.0273,10,"wild bird",1
+2180,"AK","nome census area",64.9111,-164.0273,7,"wild bird",1
+2180,"AK","nome census area",64.9111,-164.0273,8,"wild bird",1
+2185,"AK","north slope borough",69.3122,-153.4811,10,"wild bird",3
+2185,"AK","north slope borough",69.3122,-153.4811,7,"wild bird",7
+2185,"AK","north slope borough",69.3122,-153.4811,8,"wild bird",7
+2188,"AK","northwest arctic borough",67.053,-159.721,7,"wild bird",1
+2220,"AK","sitka city and borough",57.2401,-135.3152,11,"captive wild bird",3
+2220,"AK","sitka city and borough",57.2401,-135.3152,11,"wild bird",2
+2220,"AK","sitka city and borough",57.2401,-135.3152,12,"wild bird",3
+2220,"AK","sitka city and borough",57.2401,-135.3152,13,"captive wild bird",1
+2220,"AK","sitka city and borough",57.2401,-135.3152,5,"wild bird",2
+2220,"AK","sitka city and borough",57.2401,-135.3152,6,"wild bird",5
+2240,"AK","southeast fairbanks census area",63.8762,-143.213,10,"wild bird",2
+2240,"AK","southeast fairbanks census area",63.8762,-143.213,11,"wild bird",2
+2240,"AK","southeast fairbanks census area",63.8762,-143.213,13,"wild bird",2
+2240,"AK","southeast fairbanks census area",63.8762,-143.213,9,"wild bird",4
+2290,"AK","yukon-koyukuk census area",65.5087,-151.3896,9,"wild bird",3
+1025,"AL","clarke county",31.6767,-87.8308,13,"wild bird",1
+1043,"AL","cullman county",34.1319,-86.8676,12,"wild bird",1
+1043,"AL","cullman county",34.1319,-86.8676,13,"wild bird",1
+1051,"AL","elmore county",32.5966,-86.1491,11,"wild bird",2
+1071,"AL","jackson county",34.7795,-85.9993,12,"wild bird",4
+1071,"AL","jackson county",34.7795,-85.9993,13,"wild bird",1
+1075,"AL","lamar county",33.7792,-88.0969,12,"wild bird",2
+1079,"AL","lawrence county",34.5216,-87.311,12,"non-poultry",460
+1083,"AL","limestone county",34.8101,-86.9814,13,"wild bird",13
+1083,"AL","limestone county",34.8101,-86.9814,2,"wild bird",1
+1093,"AL","marion county",34.1366,-87.8871,13,"wild bird",1
+1101,"AL","montgomery county",32.2203,-86.2076,11,"wild bird",16
+1103,"AL","morgan county",34.4535,-86.8529,13,"wild bird",7
+1123,"AL","tallapoosa county",32.8624,-85.7975,12,"wild bird",1
+5001,"AR","arkansas county",34.2892,-91.3742,12,"non-poultry",20
+5001,"AR","arkansas county",34.2892,-91.3742,13,"wild bird",1
+5005,"AR","baxter county",36.2872,-92.3369,12,"wild bird",1
+5017,"AR","chicot county",33.267,-91.2937,12,"wild bird",1
+5023,"AR","cleburne county",35.5382,-92.0267,12,"wild bird",1
+5029,"AR","conway county",35.2624,-92.7015,12,"wild bird",1
+5031,"AR","craighead county",35.8308,-90.6328,12,"wild bird",3
+5031,"AR","craighead county",35.8308,-90.6328,13,"wild bird",2
+5037,"AR","cross county",35.2957,-90.7711,12,"wild bird",2
+5041,"AR","desha county",33.8309,-91.2551,12,"wild bird",3
+5053,"AR","grant county",34.29,-92.4236,12,"wild bird",1
+5053,"AR","grant county",34.29,-92.4236,13,"wild bird",1
+5055,"AR","greene county",36.1176,-90.559,12,"wild bird",1
+5055,"AR","greene county",36.1176,-90.559,13,"wild bird",4
+5067,"AR","jackson county",35.5992,-91.2145,12,"wild bird",1
+5069,"AR","jefferson county",34.2683,-91.9304,11,"wild bird",1
+5071,"AR","johnson county",35.5697,-93.4601,12,"wild bird",2
+5075,"AR","lawrence county",36.0412,-91.107,12,"wild bird",1
+5085,"AR","lonoke county",34.7543,-91.8888,12,"wild bird",5
+5085,"AR","lonoke county",34.7543,-91.8888,13,"wild bird",2
+5087,"AR","madison county",36.011,-93.7246,10,"poultry",56000
+5095,"AR","monroe county",34.6778,-91.2039,12,"wild bird",1
+5105,"AR","perry county",34.9476,-92.9312,13,"wild bird",1
+5111,"AR","poinsett county",35.574,-90.663,12,"wild bird",3
+5115,"AR","pope county",35.4478,-93.0345,10,"non-poultry",470
+5115,"AR","pope county",35.4478,-93.0345,12,"wild bird",1
+5117,"AR","prairie county",34.8298,-91.5528,12,"wild bird",3
+5119,"AR","pulaski county",34.77,-92.312,10,"wild bird",1
+5119,"AR","pulaski county",34.77,-92.312,12,"wild bird",1
+5125,"AR","saline county",34.6467,-92.6766,12,"wild bird",1
+5139,"AR","union county",33.1713,-92.5972,13,"wild bird",1
+5145,"AR","white county",35.2563,-91.7456,13,"wild bird",1
+4012,"AZ","la paz county",33.7294,-113.9815,13,"wild bird",1
+4013,"AZ","maricopa county",33.349,-112.4915,10,"wild bird",4
+4013,"AZ","maricopa county",33.349,-112.4915,11,"captive wild bird",2
+4013,"AZ","maricopa county",33.349,-112.4915,11,"wild bird",1
+4013,"AZ","maricopa county",33.349,-112.4915,12,"captive wild bird",5
+4013,"AZ","maricopa county",33.349,-112.4915,6,"wild bird",3
+4015,"AZ","mohave county",35.7041,-113.7579,12,"wild bird",1
+4025,"AZ","yavapai county",34.5998,-112.5537,11,"non-poultry",80
+6001,"CA","alameda county",37.6469,-121.8888,10,"wild bird",2
+6001,"CA","alameda county",37.6469,-121.8888,12,"wild bird",2
+6001,"CA","alameda county",37.6469,-121.8888,13,"wild bird",1
+6001,"CA","alameda county",37.6469,-121.8888,9,"wild bird",7
+6005,"CA","amador county",38.4464,-120.6511,12,"captive wild bird",2
+6007,"CA","butte county",39.6669,-121.6007,11,"wild bird",3
+6007,"CA","butte county",39.6669,-121.6007,12,"non-poultry",20
+6007,"CA","butte county",39.6669,-121.6007,12,"wild bird",4
+6007,"CA","butte county",39.6669,-121.6007,13,"wild bird",1
+6007,"CA","butte county",39.6669,-121.6007,8,"non-poultry",1100
+6007,"CA","butte county",39.6669,-121.6007,8,"wild bird",2
+6009,"CA","calaveras county",38.2046,-120.5541,10,"non-poultry",20
+6011,"CA","colusa county",39.1775,-122.237,12,"wild bird",1
+6011,"CA","colusa county",39.1775,-122.237,13,"wild bird",1
+6011,"CA","colusa county",39.1775,-122.237,7,"wild bird",3
+6011,"CA","colusa county",39.1775,-122.237,8,"wild bird",1
+6013,"CA","contra costa county",37.9191,-121.9277,11,"wild bird",2
+6013,"CA","contra costa county",37.9191,-121.9277,12,"wild bird",1
+6013,"CA","contra costa county",37.9191,-121.9277,13,"wild bird",3
+6013,"CA","contra costa county",37.9191,-121.9277,8,"non-poultry",60
+6015,"CA","del norte county",41.7431,-123.8972,10,"poultry",43000
+6015,"CA","del norte county",41.7431,-123.8972,12,"wild bird",1
+6017,"CA","el dorado county",38.7787,-120.5247,10,"wild bird",1
+6017,"CA","el dorado county",38.7787,-120.5247,13,"non-poultry",20
+6017,"CA","el dorado county",38.7787,-120.5247,13,"wild bird",2
+6017,"CA","el dorado county",38.7787,-120.5247,9,"non-poultry",150
+6017,"CA","el dorado county",38.7787,-120.5247,9,"wild bird",2
+6019,"CA","fresno county",36.7582,-119.6493,10,"captive wild bird",4
+6019,"CA","fresno county",36.7582,-119.6493,11,"captive wild bird",2
+6019,"CA","fresno county",36.7582,-119.6493,11,"poultry",34700
+6019,"CA","fresno county",36.7582,-119.6493,11,"wild bird",8
+6019,"CA","fresno county",36.7582,-119.6493,12,"wild bird",1
+6019,"CA","fresno county",36.7582,-119.6493,13,"wild bird",1
+6019,"CA","fresno county",36.7582,-119.6493,8,"poultry",68700
+6019,"CA","fresno county",36.7582,-119.6493,9,"non-poultry",100
+6019,"CA","fresno county",36.7582,-119.6493,9,"poultry",62700
+6019,"CA","fresno county",36.7582,-119.6493,9,"wild bird",1
+6021,"CA","glenn county",39.5983,-122.3921,11,"wild bird",1
+6021,"CA","glenn county",39.5983,-122.3921,12,"poultry",32000
+6021,"CA","glenn county",39.5983,-122.3921,12,"wild bird",5
+6021,"CA","glenn county",39.5983,-122.3921,13,"wild bird",4
+6021,"CA","glenn county",39.5983,-122.3921,7,"wild bird",4
+6023,"CA","humboldt county",40.6993,-123.8756,11,"wild bird",3
+6023,"CA","humboldt county",40.6993,-123.8756,12,"wild bird",3
+6023,"CA","humboldt county",40.6993,-123.8756,13,"wild bird",1
+6025,"CA","imperial county",33.0395,-115.3653,13,"wild bird",5
+6029,"CA","kern county",35.3426,-118.7301,11,"wild bird",1
+6029,"CA","kern county",35.3426,-118.7301,12,"wild bird",2
+6035,"CA","lassen county",40.6736,-120.5943,10,"wild bird",2
+6035,"CA","lassen county",40.6736,-120.5943,13,"wild bird",4
+6037,"CA","los angeles county",34.3209,-118.2247,10,"captive wild bird",2
+6037,"CA","los angeles county",34.3209,-118.2247,10,"wild bird",11
+6037,"CA","los angeles county",34.3209,-118.2247,11,"wild bird",9
+6037,"CA","los angeles county",34.3209,-118.2247,12,"wild bird",5
+6037,"CA","los angeles county",34.3209,-118.2247,13,"wild bird",2
+6041,"CA","marin county",38.0735,-122.7235,10,"wild bird",1
+6041,"CA","marin county",38.0735,-122.7235,12,"wild bird",2
+6041,"CA","marin county",38.0735,-122.7235,13,"wild bird",3
+6045,"CA","mendocino county",39.4402,-123.3915,12,"non-poultry",20
+6045,"CA","mendocino county",39.4402,-123.3915,13,"wild bird",3
+6045,"CA","mendocino county",39.4402,-123.3915,8,"wild bird",1
+6047,"CA","merced county",37.1919,-120.7177,11,"wild bird",3
+6047,"CA","merced county",37.1919,-120.7177,12,"wild bird",1
+6047,"CA","merced county",37.1919,-120.7177,13,"wild bird",7
+6053,"CA","monterey county",36.2171,-121.2388,10,"poultry",15100
+6053,"CA","monterey county",36.2171,-121.2388,10,"wild bird",2
+6053,"CA","monterey county",36.2171,-121.2388,12,"wild bird",2
+6053,"CA","monterey county",36.2171,-121.2388,9,"wild bird",4
+6055,"CA","napa county",38.5065,-122.3305,10,"captive wild bird",1
+6055,"CA","napa county",38.5065,-122.3305,10,"wild bird",1
+6055,"CA","napa county",38.5065,-122.3305,11,"wild bird",1
+6055,"CA","napa county",38.5065,-122.3305,13,"wild bird",1
+6055,"CA","napa county",38.5065,-122.3305,8,"wild bird",1
+6055,"CA","napa county",38.5065,-122.3305,9,"wild bird",1
+6059,"CA","orange county",33.7031,-117.7609,10,"wild bird",10
+6061,"CA","placer county",39.0634,-120.7177,13,"wild bird",2
+6061,"CA","placer county",39.0634,-120.7177,8,"wild bird",1
+6063,"CA","plumas county",40.0047,-120.8386,8,"wild bird",1
+6065,"CA","riverside county",33.7437,-115.9938,10,"wild bird",3
+6065,"CA","riverside county",33.7437,-115.9938,11,"wild bird",1
+6067,"CA","sacramento county",38.4493,-121.3443,11,"wild bird",1
+6067,"CA","sacramento county",38.4493,-121.3443,12,"wild bird",1
+6067,"CA","sacramento county",38.4493,-121.3443,7,"wild bird",1
+6067,"CA","sacramento county",38.4493,-121.3443,8,"non-poultry",40
+6067,"CA","sacramento county",38.4493,-121.3443,8,"poultry",97000
+6067,"CA","sacramento county",38.4493,-121.3443,8,"wild bird",3
+6067,"CA","sacramento county",38.4493,-121.3443,9,"non-poultry",20
+6067,"CA","sacramento county",38.4493,-121.3443,9,"wild bird",1
+6069,"CA","san benito county",36.6057,-121.075,10,"wild bird",1
+6071,"CA","san bernardino county",34.8414,-116.1785,11,"wild bird",2
+6073,"CA","san diego county",33.0343,-116.735,10,"captive wild bird",1
+6073,"CA","san diego county",33.0343,-116.735,10,"wild bird",2
+6073,"CA","san diego county",33.0343,-116.735,11,"captive wild bird",10
+6073,"CA","san diego county",33.0343,-116.735,11,"poultry",150
+6073,"CA","san diego county",33.0343,-116.735,11,"wild bird",2
+6073,"CA","san diego county",33.0343,-116.735,12,"captive wild bird",6
+6073,"CA","san diego county",33.0343,-116.735,12,"wild bird",1
+6073,"CA","san diego county",33.0343,-116.735,13,"wild bird",2
+6075,"CA","san francisco county",37.7558,-122.4449,11,"wild bird",1
+6075,"CA","san francisco county",37.7558,-122.4449,12,"wild bird",2
+6075,"CA","san francisco county",37.7558,-122.4449,13,"wild bird",1
+6075,"CA","san francisco county",37.7558,-122.4449,9,"wild bird",4
+6077,"CA","san joaquin county",37.9348,-121.2714,13,"non-poultry",10
+6077,"CA","san joaquin county",37.9348,-121.2714,13,"wild bird",7
+6079,"CA","san luis obispo county",35.3871,-120.4044,10,"wild bird",2
+6079,"CA","san luis obispo county",35.3871,-120.4044,12,"wild bird",7
+6081,"CA","san mateo county",37.4229,-122.329,11,"captive wild bird",1
+6081,"CA","san mateo county",37.4229,-122.329,12,"captive wild bird",1
+6081,"CA","san mateo county",37.4229,-122.329,12,"wild bird",5
+6081,"CA","san mateo county",37.4229,-122.329,13,"wild bird",4
+6081,"CA","san mateo county",37.4229,-122.329,9,"wild bird",3
+6085,"CA","santa clara county",37.2318,-121.6951,10,"wild bird",3
+6085,"CA","santa clara county",37.2318,-121.6951,12,"wild bird",2
+6085,"CA","santa clara county",37.2318,-121.6951,8,"wild bird",3
+6085,"CA","santa clara county",37.2318,-121.6951,9,"wild bird",11
+6087,"CA","santa cruz county",37.0562,-122.0018,10,"wild bird",2
+6087,"CA","santa cruz county",37.0562,-122.0018,9,"wild bird",2
+6089,"CA","shasta county",40.7637,-122.0405,11,"wild bird",1
+6089,"CA","shasta county",40.7637,-122.0405,13,"wild bird",1
+6093,"CA","siskiyou county",41.5927,-122.5404,11,"wild bird",2
+6093,"CA","siskiyou county",41.5927,-122.5404,12,"wild bird",1
+6093,"CA","siskiyou county",41.5927,-122.5404,8,"wild bird",1
+6095,"CA","solano county",38.27,-121.9329,10,"captive wild bird",1
+6095,"CA","solano county",38.27,-121.9329,13,"wild bird",9
+6095,"CA","solano county",38.27,-121.9329,7,"wild bird",3
+6095,"CA","solano county",38.27,-121.9329,8,"captive wild bird",1
+6097,"CA","sonoma county",38.5289,-122.8881,13,"non-poultry",26
+6097,"CA","sonoma county",38.5289,-122.8881,13,"wild bird",3
+6097,"CA","sonoma county",38.5289,-122.8881,7,"wild bird",5
+6097,"CA","sonoma county",38.5289,-122.8881,8,"wild bird",3
+6099,"CA","stanislaus county",37.5591,-120.9977,10,"poultry",105900
+6099,"CA","stanislaus county",37.5591,-120.9977,8,"wild bird",4
+6101,"CA","sutter county",39.0346,-121.6948,12,"wild bird",2
+6101,"CA","sutter county",39.0346,-121.6948,13,"wild bird",1
+6103,"CA","tehama county",40.1257,-122.234,13,"poultry",23700
+6105,"CA","trinity county",40.6507,-123.1126,9,"wild bird",1
+6109,"CA","tuolumne county",38.0276,-119.9548,8,"poultry",260100
+6109,"CA","tuolumne county",38.0276,-119.9548,9,"poultry",30800
+6111,"CA","ventura county",34.4561,-119.0836,10,"wild bird",1
+6111,"CA","ventura county",34.4561,-119.0836,11,"wild bird",2
+6111,"CA","ventura county",34.4561,-119.0836,12,"wild bird",1
+6111,"CA","ventura county",34.4561,-119.0836,13,"wild bird",3
+6113,"CA","yolo county",38.6866,-121.9016,11,"wild bird",2
+6113,"CA","yolo county",38.6866,-121.9016,13,"wild bird",7
+6113,"CA","yolo county",38.6866,-121.9016,8,"wild bird",1
+6115,"CA","yuba county",39.269,-121.3513,12,"wild bird",4
+8001,"CO","adams county",39.8737,-104.3379,10,"wild bird",1
+8001,"CO","adams county",39.8737,-104.3379,12,"wild bird",3
+8001,"CO","adams county",39.8737,-104.3379,4,"wild bird",1
+8005,"CO","arapahoe county",39.6498,-104.3392,13,"wild bird",1
+8009,"CO","baca county",37.3192,-102.5604,12,"wild bird",1
+8013,"CO","boulder county",40.0925,-105.3577,10,"captive wild bird",4
+8013,"CO","boulder county",40.0925,-105.3577,10,"poultry",600
+8013,"CO","boulder county",40.0925,-105.3577,11,"captive wild bird",2
+8013,"CO","boulder county",40.0925,-105.3577,12,"captive wild bird",14
+8013,"CO","boulder county",40.0925,-105.3577,12,"wild bird",1
+8013,"CO","boulder county",40.0925,-105.3577,13,"captive wild bird",2
+8013,"CO","boulder county",40.0925,-105.3577,13,"wild bird",1
+8013,"CO","boulder county",40.0925,-105.3577,9,"captive wild bird",4
+8014,"CO","broomfield county",39.9542,-105.0526,12,"wild bird",1
+8031,"CO","denver county",39.762,-104.8758,10,"captive wild bird",10
+8031,"CO","denver county",39.762,-104.8758,11,"captive wild bird",1
+8031,"CO","denver county",39.762,-104.8758,12,"wild bird",2
+8031,"CO","denver county",39.762,-104.8758,13,"wild bird",4
+8031,"CO","denver county",39.762,-104.8758,4,"wild bird",5
+8031,"CO","denver county",39.762,-104.8758,5,"wild bird",1
+8035,"CO","douglas county",39.3297,-104.9296,10,"captive wild bird",2
+8035,"CO","douglas county",39.3297,-104.9296,12,"captive wild bird",2
+8035,"CO","douglas county",39.3297,-104.9296,12,"wild bird",1
+8035,"CO","douglas county",39.3297,-104.9296,13,"captive wild bird",3
+8041,"CO","el paso county",38.8321,-104.5255,10,"wild bird",1
+8041,"CO","el paso county",38.8321,-104.5255,13,"wild bird",1
+8041,"CO","el paso county",38.8321,-104.5255,4,"wild bird",6
+8049,"CO","grand county",40.1026,-106.1183,5,"wild bird",2
+8057,"CO","jackson county",40.6664,-106.3428,5,"wild bird",2
+8059,"CO","jefferson county",39.5864,-105.2505,10,"poultry",50
+8059,"CO","jefferson county",39.5864,-105.2505,12,"wild bird",1
+8059,"CO","jefferson county",39.5864,-105.2505,13,"wild bird",1
+8059,"CO","jefferson county",39.5864,-105.2505,5,"non-poultry",10
+8059,"CO","jefferson county",39.5864,-105.2505,5,"wild bird",1
+8067,"CO","la plata county",37.2866,-107.8433,10,"non-poultry",60
+8067,"CO","la plata county",37.2866,-107.8433,10,"wild bird",1
+8067,"CO","la plata county",37.2866,-107.8433,4,"poultry",40
+8069,"CO","larimer county",40.6664,-105.4612,10,"captive wild bird",2
+8069,"CO","larimer county",40.6664,-105.4612,10,"non-poultry",20
+8069,"CO","larimer county",40.6664,-105.4612,10,"wild bird",5
+8069,"CO","larimer county",40.6664,-105.4612,11,"captive wild bird",4
+8069,"CO","larimer county",40.6664,-105.4612,11,"wild bird",1
+8069,"CO","larimer county",40.6664,-105.4612,12,"captive wild bird",19
+8069,"CO","larimer county",40.6664,-105.4612,12,"non-poultry",2
+8069,"CO","larimer county",40.6664,-105.4612,13,"captive wild bird",4
+8069,"CO","larimer county",40.6664,-105.4612,13,"non-poultry",70
+8069,"CO","larimer county",40.6664,-105.4612,13,"wild bird",2
+8069,"CO","larimer county",40.6664,-105.4612,4,"captive wild bird",1
+8069,"CO","larimer county",40.6664,-105.4612,5,"captive wild bird",2
+8069,"CO","larimer county",40.6664,-105.4612,9,"wild bird",1
+8075,"CO","logan county",40.7247,-103.1101,13,"wild bird",1
+8077,"CO","mesa county",39.0183,-108.4665,13,"wild bird",2
+8077,"CO","mesa county",39.0183,-108.4665,5,"wild bird",2
+8077,"CO","mesa county",39.0183,-108.4665,8,"wild bird",1
+8077,"CO","mesa county",39.0183,-108.4665,9,"non-poultry",40
+8083,"CO","montezuma county",37.3386,-108.5966,6,"wild bird",1
+8085,"CO","montrose county",38.4022,-108.2694,13,"wild bird",1
+8085,"CO","montrose county",38.4022,-108.2694,4,"poultry",58000
+8087,"CO","morgan county",40.2628,-103.8098,11,"wild bird",1
+8087,"CO","morgan county",40.2628,-103.8098,12,"wild bird",3
+8087,"CO","morgan county",40.2628,-103.8098,4,"wild bird",2
+8089,"CO","otero county",37.9026,-103.7164,12,"wild bird",1
+8097,"CO","pitkin county",39.2171,-106.9166,4,"poultry",30
+8099,"CO","prowers county",37.9552,-102.3934,12,"poultry",11000
+8099,"CO","prowers county",37.9552,-102.3934,12,"wild bird",5
+8101,"CO","pueblo county",38.1735,-104.5127,12,"wild bird",1
+8101,"CO","pueblo county",38.1735,-104.5127,13,"wild bird",2
+8105,"CO","rio grande county",37.5825,-106.3832,12,"wild bird",1
+8107,"CO","routt county",40.4851,-106.9912,4,"wild bird",1
+8109,"CO","saguache county",38.0806,-106.2815,12,"wild bird",1
+8109,"CO","saguache county",38.0806,-106.2815,13,"wild bird",1
+8115,"CO","sedgwick county",40.8759,-102.3518,11,"wild bird",1
+8115,"CO","sedgwick county",40.8759,-102.3518,3,"wild bird",6
+8123,"CO","weld county",40.5548,-104.3925,10,"non-poultry",40
+8123,"CO","weld county",40.5548,-104.3925,12,"poultry",1530700
+8123,"CO","weld county",40.5548,-104.3925,12,"wild bird",2
+8123,"CO","weld county",40.5548,-104.3925,13,"non-poultry",40
+8123,"CO","weld county",40.5548,-104.3925,4,"poultry",1366200
+8123,"CO","weld county",40.5548,-104.3925,6,"poultry",2141800
+8123,"CO","weld county",40.5548,-104.3925,9,"poultry",1150000
+8125,"CO","yuma county",40.0029,-102.4243,13,"wild bird",2
+9003,"CT","hartford county",41.8064,-72.7329,10,"wild bird",3
+9003,"CT","hartford county",41.8064,-72.7329,12,"wild bird",2
+9007,"CT","middlesex county",41.4632,-72.5351,10,"wild bird",2
+9007,"CT","middlesex county",41.4632,-72.5351,2,"wild bird",20
+9007,"CT","middlesex county",41.4632,-72.5351,5,"captive wild bird",1
+9009,"CT","new haven county",41.4106,-72.9321,10,"non-poultry",50
+9009,"CT","new haven county",41.4106,-72.9321,10,"wild bird",1
+9009,"CT","new haven county",41.4106,-72.9321,2,"wild bird",9
+9009,"CT","new haven county",41.4106,-72.9321,3,"captive wild bird",1
+9011,"CT","new london county",41.4867,-72.1014,10,"wild bird",1
+9011,"CT","new london county",41.4867,-72.1014,2,"wild bird",1
+9011,"CT","new london county",41.4867,-72.1014,3,"non-poultry",160
+9011,"CT","new london county",41.4867,-72.1014,3,"wild bird",2
+9013,"CT","tolland county",41.855,-72.3365,10,"wild bird",1
+11001,"DC","district of columbia",38.9047,-77.0163,6,"wild bird",2
+10001,"DE","kent county",39.086,-75.5686,13,"wild bird",1
+10001,"DE","kent county",39.086,-75.5686,2,"captive wild bird",1
+10001,"DE","kent county",39.086,-75.5686,2,"wild bird",9
+10001,"DE","kent county",39.086,-75.5686,3,"poultry",147800
+10001,"DE","kent county",39.086,-75.5686,9,"captive wild bird",1
+10001,"DE","kent county",39.086,-75.5686,9,"non-poultry",40
+10003,"DE","new castle county",39.5768,-75.6527,2,"poultry",1046900
+10003,"DE","new castle county",39.5768,-75.6527,3,"poultry",243900
+12001,"FL","alachua county",29.6748,-82.3577,13,"wild bird",1
+12001,"FL","alachua county",29.6748,-82.3577,4,"wild bird",2
+12001,"FL","alachua county",29.6748,-82.3577,5,"wild bird",2
+12001,"FL","alachua county",29.6748,-82.3577,7,"wild bird",1
+12001,"FL","alachua county",29.6748,-82.3577,9,"wild bird",2
+12009,"FL","brevard county",28.2936,-80.7323,10,"wild bird",16
+12009,"FL","brevard county",28.2936,-80.7323,11,"wild bird",9
+12009,"FL","brevard county",28.2936,-80.7323,12,"wild bird",8
+12009,"FL","brevard county",28.2936,-80.7323,2,"captive wild bird",1
+12009,"FL","brevard county",28.2936,-80.7323,2,"wild bird",8
+12009,"FL","brevard county",28.2936,-80.7323,3,"captive wild bird",2
+12009,"FL","brevard county",28.2936,-80.7323,3,"wild bird",27
+12009,"FL","brevard county",28.2936,-80.7323,4,"captive wild bird",1
+12009,"FL","brevard county",28.2936,-80.7323,4,"wild bird",9
+12009,"FL","brevard county",28.2936,-80.7323,5,"wild bird",7
+12009,"FL","brevard county",28.2936,-80.7323,6,"wild bird",7
+12009,"FL","brevard county",28.2936,-80.7323,7,"wild bird",35
+12009,"FL","brevard county",28.2936,-80.7323,8,"wild bird",29
+12009,"FL","brevard county",28.2936,-80.7323,9,"wild bird",10
+12011,"FL","broward county",26.1523,-80.4871,10,"non-poultry",40
+12011,"FL","broward county",26.1523,-80.4871,10,"poultry",300
+12011,"FL","broward county",26.1523,-80.4871,11,"non-poultry",100
+12011,"FL","broward county",26.1523,-80.4871,11,"wild bird",4
+12011,"FL","broward county",26.1523,-80.4871,12,"captive wild bird",3
+12011,"FL","broward county",26.1523,-80.4871,7,"wild bird",1
+12015,"FL","charlotte county",26.9055,-81.9123,12,"wild bird",2
+12015,"FL","charlotte county",26.9055,-81.9123,3,"captive wild bird",1
+12015,"FL","charlotte county",26.9055,-81.9123,3,"wild bird",1
+12017,"FL","citrus county",28.8489,-82.4794,4,"wild bird",5
+12019,"FL","clay county",29.9831,-81.8579,4,"wild bird",4
+12021,"FL","collier county",26.1107,-81.3475,4,"wild bird",2
+12021,"FL","collier county",26.1107,-81.3475,5,"wild bird",1
+12023,"FL","columbia county",30.2242,-82.6215,5,"wild bird",2
+12029,"FL","dixie county",29.6082,-83.1588,3,"wild bird",3
+12029,"FL","dixie county",29.6082,-83.1588,4,"wild bird",3
+12031,"FL","duval county",30.3316,-81.6708,11,"non-poultry",30
+12031,"FL","duval county",30.3316,-81.6708,11,"wild bird",4
+12031,"FL","duval county",30.3316,-81.6708,12,"captive wild bird",2
+12031,"FL","duval county",30.3316,-81.6708,12,"non-poultry",10
+12031,"FL","duval county",30.3316,-81.6708,13,"captive wild bird",1
+12031,"FL","duval county",30.3316,-81.6708,3,"wild bird",3
+12031,"FL","duval county",30.3316,-81.6708,4,"wild bird",10
+12031,"FL","duval county",30.3316,-81.6708,5,"wild bird",2
+12035,"FL","flagler county",29.4614,-81.3136,9,"wild bird",2
+12057,"FL","hillsborough county",27.9292,-82.3092,10,"non-poultry",40
+12057,"FL","hillsborough county",27.9292,-82.3092,11,"non-poultry",100
+12057,"FL","hillsborough county",27.9292,-82.3092,4,"wild bird",3
+12057,"FL","hillsborough county",27.9292,-82.3092,5,"wild bird",1
+12061,"FL","indian river county",27.6943,-80.6062,10,"captive wild bird",1
+12061,"FL","indian river county",27.6943,-80.6062,10,"non-poultry",390
+12061,"FL","indian river county",27.6943,-80.6062,10,"poultry",50
+12063,"FL","jackson county",30.7954,-85.2155,11,"wild bird",2
+12069,"FL","lake county",28.7615,-81.7113,10,"non-poultry",9
+12071,"FL","lee county",26.5779,-81.8337,9,"wild bird",1
+12073,"FL","leon county",30.458,-84.2779,11,"wild bird",3
+12073,"FL","leon county",30.458,-84.2779,3,"captive wild bird",1
+12075,"FL","levy county",29.3184,-82.7436,12,"wild bird",1
+12079,"FL","madison county",30.4441,-83.4701,10,"wild bird",1
+12081,"FL","manatee county",27.4719,-82.3153,4,"wild bird",2
+12085,"FL","martin county",27.0775,-80.4315,10,"non-poultry",80
+12085,"FL","martin county",27.0775,-80.4315,3,"captive wild bird",1
+12085,"FL","martin county",27.0775,-80.4315,5,"captive wild bird",1
+12086,"FL","miami-dade county",25.6149,-80.5623,4,"wild bird",2
+12091,"FL","okaloosa county",30.6913,-86.5917,5,"wild bird",1
+12093,"FL","okeechobee county",27.3864,-80.8886,10,"non-poultry",2
+12095,"FL","orange county",28.5144,-81.3235,10,"wild bird",1
+12095,"FL","orange county",28.5144,-81.3235,11,"wild bird",2
+12095,"FL","orange county",28.5144,-81.3235,3,"captive wild bird",3
+12095,"FL","orange county",28.5144,-81.3235,3,"wild bird",4
+12095,"FL","orange county",28.5144,-81.3235,4,"wild bird",10
+12095,"FL","orange county",28.5144,-81.3235,5,"wild bird",5
+12095,"FL","orange county",28.5144,-81.3235,6,"wild bird",2
+12095,"FL","orange county",28.5144,-81.3235,7,"wild bird",1
+12095,"FL","orange county",28.5144,-81.3235,8,"wild bird",15
+12097,"FL","osceola county",28.0626,-81.1495,10,"non-poultry",20
+12097,"FL","osceola county",28.0626,-81.1495,10,"wild bird",2
+12097,"FL","osceola county",28.0626,-81.1495,4,"wild bird",1
+12097,"FL","osceola county",28.0626,-81.1495,8,"non-poultry",10
+12099,"FL","palm beach county",26.6476,-80.4655,10,"wild bird",1
+12099,"FL","palm beach county",26.6476,-80.4655,11,"wild bird",2
+12099,"FL","palm beach county",26.6476,-80.4655,12,"wild bird",7
+12099,"FL","palm beach county",26.6476,-80.4655,2,"wild bird",2
+12099,"FL","palm beach county",26.6476,-80.4655,4,"wild bird",5
+12099,"FL","palm beach county",26.6476,-80.4655,5,"wild bird",2
+12099,"FL","palm beach county",26.6476,-80.4655,6,"wild bird",2
+12101,"FL","pasco county",28.3091,-82.3932,10,"non-poultry",40
+12101,"FL","pasco county",28.3091,-82.3932,11,"captive wild bird",1
+12101,"FL","pasco county",28.3091,-82.3932,4,"wild bird",2
+12103,"FL","pinellas county",27.9199,-82.7256,10,"captive wild bird",1
+12103,"FL","pinellas county",27.9199,-82.7256,6,"wild bird",3
+12103,"FL","pinellas county",27.9199,-82.7256,9,"captive wild bird",1
+12105,"FL","polk county",27.9489,-81.6977,11,"captive wild bird",1
+12105,"FL","polk county",27.9489,-81.6977,3,"wild bird",1
+12107,"FL","putnam county",29.6086,-81.7443,9,"wild bird",1
+12115,"FL","sarasota county",27.1845,-82.3315,11,"wild bird",2
+12117,"FL","seminole county",28.717,-81.2363,11,"poultry",100
+12117,"FL","seminole county",28.717,-81.2363,3,"wild bird",2
+12117,"FL","seminole county",28.717,-81.2363,5,"captive wild bird",1
+12117,"FL","seminole county",28.717,-81.2363,6,"wild bird",1
+12117,"FL","seminole county",28.717,-81.2363,7,"non-poultry",160
+12117,"FL","seminole county",28.717,-81.2363,8,"captive wild bird",1
+12117,"FL","seminole county",28.717,-81.2363,8,"wild bird",1
+12109,"FL","st. johns county",29.9016,-81.4407,11,"wild bird",2
+12109,"FL","st. johns county",29.9016,-81.4407,12,"wild bird",15
+12109,"FL","st. johns county",29.9016,-81.4407,4,"wild bird",1
+12111,"FL","st. lucie county",27.3772,-80.472,10,"non-poultry",6
+12119,"FL","sumter county",28.7048,-82.081,12,"wild bird",1
+12119,"FL","sumter county",28.7048,-82.081,4,"wild bird",2
+12121,"FL","suwannee county",30.1956,-82.9915,10,"wild bird",1
+12121,"FL","suwannee county",30.1956,-82.9915,5,"wild bird",3
+12127,"FL","volusia county",29.0583,-81.1819,2,"captive wild bird",3
+12127,"FL","volusia county",29.0583,-81.1819,3,"captive wild bird",2
+12127,"FL","volusia county",29.0583,-81.1819,3,"wild bird",11
+12127,"FL","volusia county",29.0583,-81.1819,7,"wild bird",2
+12129,"FL","wakulla county",30.1673,-84.4007,11,"wild bird",2
+13013,"GA","barrow county",33.9932,-83.7127,11,"wild bird",2
+13035,"GA","butts county",33.2879,-83.9572,9,"wild bird",2
+13039,"GA","camden county",30.9306,-81.6699,3,"wild bird",5
+13051,"GA","chatham county",32.0043,-81.1329,3,"wild bird",1
+13051,"GA","chatham county",32.0043,-81.1329,6,"wild bird",1
+13057,"GA","cherokee county",34.2439,-84.4762,9,"wild bird",1
+13063,"GA","clayton county",33.5419,-84.3577,9,"wild bird",4
+13073,"GA","columbia county",33.5441,-82.2641,9,"wild bird",1
+13089,"GA","dekalb county",33.7715,-84.2264,11,"wild bird",1
+13089,"GA","dekalb county",33.7715,-84.2264,9,"wild bird",3
+13095,"GA","dougherty county",31.5334,-84.2163,7,"wild bird",1
+13117,"GA","forsyth county",34.2255,-84.1251,10,"wild bird",2
+13117,"GA","forsyth county",34.2255,-84.1251,9,"wild bird",2
+13119,"GA","franklin county",34.3754,-83.2291,11,"wild bird",1
+13127,"GA","glynn county",31.2309,-81.5407,3,"wild bird",2
+13133,"GA","greene county",33.5788,-83.1667,11,"wild bird",2
+13135,"GA","gwinnett county",33.9617,-84.0236,10,"wild bird",1
+13135,"GA","gwinnett county",33.9617,-84.0236,9,"wild bird",1
+13147,"GA","hart county",34.3509,-82.9642,12,"wild bird",1
+13147,"GA","hart county",34.3509,-82.9642,2,"wild bird",2
+13151,"GA","henry county",33.453,-84.1542,8,"non-poultry",80
+13151,"GA","henry county",33.453,-84.1542,8,"wild bird",2
+13151,"GA","henry county",33.453,-84.1542,9,"wild bird",3
+13153,"GA","houston county",32.459,-83.6662,11,"wild bird",1
+13159,"GA","jasper county",33.3164,-83.6881,9,"wild bird",3
+13165,"GA","jenkins county",32.7925,-81.9635,10,"wild bird",4
+13171,"GA","lamar county",33.0765,-84.1394,10,"wild bird",1
+13177,"GA","lee county",31.7795,-84.1411,10,"wild bird",3
+13179,"GA","liberty county",31.8282,-81.4949,3,"wild bird",1
+13189,"GA","mcduffie county",33.4828,-82.4814,11,"wild bird",1
+13191,"GA","mcintosh county",31.4963,-81.4103,12,"wild bird",26
+13191,"GA","mcintosh county",31.4963,-81.4103,13,"wild bird",5
+13217,"GA","newton county",33.555,-83.8502,11,"wild bird",5
+13219,"GA","oconee county",33.8349,-83.4371,10,"wild bird",1
+13225,"GA","peach county",32.5688,-83.8269,10,"wild bird",1
+13225,"GA","peach county",32.5688,-83.8269,13,"wild bird",1
+13247,"GA","rockdale county",33.6543,-84.0266,11,"wild bird",1
+13255,"GA","spalding county",33.2609,-84.2841,9,"wild bird",2
+13259,"GA","stewart county",32.0785,-84.8352,11,"wild bird",1
+13267,"GA","tattnall county",32.0458,-82.0582,8,"wild bird",1
+13279,"GA","toombs county",32.1217,-82.3313,6,"non-poultry",490
+13279,"GA","toombs county",32.1217,-82.3313,6,"wild bird",3
+13317,"GA","wilkes county",33.7819,-82.7432,10,"wild bird",2
+19001,"IA","adair county",41.3307,-94.4709,3,"wild bird",1
+19005,"IA","allamakee county",43.2843,-91.3781,4,"wild bird",1
+19011,"IA","benton county",42.0802,-92.0657,4,"captive wild bird",1
+19017,"IA","bremer county",42.7746,-92.318,10,"wild bird",1
+19017,"IA","bremer county",42.7746,-92.318,4,"poultry",29200
+19017,"IA","bremer county",42.7746,-92.318,5,"non-poultry",50
+19019,"IA","buchanan county",42.4708,-91.8379,12,"wild bird",1
+19019,"IA","buchanan county",42.4708,-91.8379,5,"wild bird",2
+19021,"IA","buena vista county",42.7355,-95.1511,12,"poultry",91900
+19021,"IA","buena vista county",42.7355,-95.1511,13,"poultry",27700
+19021,"IA","buena vista county",42.7355,-95.1511,13,"wild bird",1
+19021,"IA","buena vista county",42.7355,-95.1511,3,"poultry",5486700
+19033,"IA","cerro gordo county",43.0816,-93.2608,12,"wild bird",1
+19033,"IA","cerro gordo county",43.0816,-93.2608,13,"wild bird",1
+19033,"IA","cerro gordo county",43.0816,-93.2608,3,"wild bird",1
+19033,"IA","cerro gordo county",43.0816,-93.2608,5,"wild bird",1
+19035,"IA","cherokee county",42.7356,-95.6238,12,"poultry",155000
+19035,"IA","cherokee county",42.7356,-95.6238,3,"poultry",88000
+19041,"IA","clay county",43.0826,-95.1509,10,"wild bird",5
+19041,"IA","clay county",43.0826,-95.1509,11,"wild bird",5
+19045,"IA","clinton county",41.898,-90.532,7,"wild bird",2
+19049,"IA","dallas county",41.6849,-94.0398,10,"non-poultry",50
+19059,"IA","dickinson county",43.378,-95.1508,10,"wild bird",7
+19059,"IA","dickinson county",43.378,-95.1508,3,"wild bird",4
+19069,"IA","franklin county",42.7325,-93.2625,3,"poultry",250200
+19077,"IA","guthrie county",41.6838,-94.5011,10,"wild bird",69
+19077,"IA","guthrie county",41.6838,-94.5011,3,"poultry",1460000
+19079,"IA","hamilton county",42.3838,-93.7068,3,"poultry",25800
+19079,"IA","hamilton county",42.3838,-93.7068,4,"poultry",8100
+19083,"IA","hardin county",42.3839,-93.2404,4,"poultry",46000
+19085,"IA","harrison county",41.6829,-95.8168,3,"wild bird",3
+19091,"IA","humboldt county",42.7764,-94.2072,4,"poultry",15300
+19093,"IA","ida county",42.3869,-95.5135,12,"poultry",90000
+19097,"IA","jackson county",42.1717,-90.5742,10,"wild bird",2
+19097,"IA","jackson county",42.1717,-90.5742,11,"wild bird",13
+19103,"IA","johnson county",41.6715,-91.5881,9,"wild bird",2
+19109,"IA","kossuth county",43.2041,-94.2067,4,"non-poultry",4
+19113,"IA","linn county",42.079,-91.599,4,"wild bird",2
+19115,"IA","louisa county",41.2185,-91.2596,10,"wild bird",2
+19115,"IA","louisa county",41.2185,-91.2596,11,"non-poultry",20
+19115,"IA","louisa county",41.2185,-91.2596,11,"wild bird",1
+19115,"IA","louisa county",41.2185,-91.2596,4,"wild bird",1
+19117,"IA","lucas county",41.0294,-93.3277,4,"wild bird",8
+19121,"IA","madison county",41.3307,-94.0156,12,"wild bird",1
+19125,"IA","marion county",41.3344,-93.0994,10,"wild bird",8
+19131,"IA","mitchell county",43.3564,-92.789,5,"wild bird",1
+19133,"IA","monona county",42.0517,-95.9599,11,"wild bird",1
+19133,"IA","monona county",42.0517,-95.9599,12,"wild bird",2
+19133,"IA","monona county",42.0517,-95.9599,3,"wild bird",2
+19135,"IA","monroe county",41.0298,-92.869,10,"wild bird",1
+19143,"IA","osceola county",43.3786,-95.6237,3,"poultry",5011700
+19145,"IA","page county",40.7391,-95.1502,3,"wild bird",9
+19149,"IA","plymouth county",42.7378,-96.2141,3,"wild bird",4
+19153,"IA","polk county",41.6855,-93.5735,3,"captive wild bird",1
+19153,"IA","polk county",41.6855,-93.5735,3,"wild bird",1
+19153,"IA","polk county",41.6855,-93.5735,4,"wild bird",1
+19153,"IA","polk county",41.6855,-93.5735,5,"wild bird",1
+19155,"IA","pottawattamie county",41.3366,-95.5423,3,"non-poultry",40
+19161,"IA","sac county",42.3863,-95.1054,12,"poultry",90000
+19161,"IA","sac county",42.3863,-95.1054,4,"poultry",37200
+19163,"IA","scott county",41.6371,-90.6233,10,"wild bird",1
+19165,"IA","shelby county",41.6851,-95.3102,12,"wild bird",1
+19169,"IA","story county",42.0362,-93.465,13,"wild bird",1
+19169,"IA","story county",42.0362,-93.465,4,"wild bird",1
+19169,"IA","story county",42.0362,-93.465,5,"wild bird",1
+19173,"IA","taylor county",40.7374,-94.6964,3,"poultry",915900
+19181,"IA","warren county",41.3344,-93.5614,3,"non-poultry",10
+19187,"IA","webster county",42.4279,-94.1818,13,"wild bird",1
+19193,"IA","woodbury county",42.3897,-96.0448,10,"wild bird",3
+19193,"IA","woodbury county",42.3897,-96.0448,12,"wild bird",5
+19193,"IA","woodbury county",42.3897,-96.0448,3,"wild bird",2
+19193,"IA","woodbury county",42.3897,-96.0448,9,"wild bird",3
+19197,"IA","wright county",42.7331,-93.7351,10,"poultry",1100000
+19197,"IA","wright county",42.7331,-93.7351,11,"poultry",1022800
+16001,"ID","ada county",43.4511,-116.2412,11,"wild bird",1
+16001,"ID","ada county",43.4511,-116.2412,13,"wild bird",1
+16001,"ID","ada county",43.4511,-116.2412,5,"non-poultry",167
+16001,"ID","ada county",43.4511,-116.2412,5,"poultry",149
+16001,"ID","ada county",43.4511,-116.2412,5,"wild bird",7
+16001,"ID","ada county",43.4511,-116.2412,6,"wild bird",4
+16001,"ID","ada county",43.4511,-116.2412,7,"wild bird",2
+16005,"ID","bannock county",42.6685,-112.2246,9,"wild bird",2
+16007,"ID","bear lake county",42.2848,-111.3297,5,"wild bird",1
+16019,"ID","bonneville county",43.3877,-111.6148,5,"wild bird",3
+16019,"ID","bonneville county",43.3877,-111.6148,9,"wild bird",2
+16027,"ID","canyon county",43.6251,-116.7093,11,"wild bird",6
+16027,"ID","canyon county",43.6251,-116.7093,12,"wild bird",1
+16027,"ID","canyon county",43.6251,-116.7093,13,"wild bird",1
+16027,"ID","canyon county",43.6251,-116.7093,5,"non-poultry",89
+16027,"ID","canyon county",43.6251,-116.7093,5,"poultry",276
+16027,"ID","canyon county",43.6251,-116.7093,5,"wild bird",2
+16029,"ID","caribou county",42.7705,-111.5623,4,"non-poultry",7
+16029,"ID","caribou county",42.7705,-111.5623,5,"wild bird",2
+16037,"ID","custer county",44.2411,-114.2817,5,"wild bird",1
+16039,"ID","elmore county",43.3539,-115.4693,12,"wild bird",6
+16043,"ID","fremont county",44.2288,-111.4819,12,"wild bird",2
+16043,"ID","fremont county",44.2288,-111.4819,5,"wild bird",1
+16045,"ID","gem county",44.0616,-116.3975,12,"non-poultry",80
+16047,"ID","gooding county",42.971,-114.8116,11,"wild bird",1
+16047,"ID","gooding county",42.971,-114.8116,12,"wild bird",1
+16047,"ID","gooding county",42.971,-114.8116,4,"non-poultry",80
+16047,"ID","gooding county",42.971,-114.8116,4,"poultry",20
+16047,"ID","gooding county",42.971,-114.8116,9,"poultry",9000
+16051,"ID","jefferson county",43.8201,-112.3113,10,"wild bird",15
+16051,"ID","jefferson county",43.8201,-112.3113,11,"wild bird",3
+16051,"ID","jefferson county",43.8201,-112.3113,5,"wild bird",2
+16053,"ID","jerome county",42.6899,-114.264,11,"wild bird",1
+16065,"ID","madison county",43.7841,-111.6592,4,"poultry",200
+16065,"ID","madison county",43.7841,-111.6592,5,"wild bird",3
+16075,"ID","payette county",44.0067,-116.7608,5,"wild bird",1
+16081,"ID","teton county",43.7594,-111.2076,5,"wild bird",4
+16083,"ID","twin falls county",42.356,-114.6672,5,"wild bird",2
+16083,"ID","twin falls county",42.356,-114.6672,9,"non-poultry",40
+16085,"ID","valley county",44.7666,-115.5663,10,"non-poultry",20
+17007,"IL","boone county",42.3231,-88.8234,5,"non-poultry",20
+17015,"IL","carroll county",42.0688,-89.9343,3,"non-poultry",40
+17015,"IL","carroll county",42.0688,-89.9343,7,"wild bird",2
+17019,"IL","champaign county",40.1401,-88.1992,11,"wild bird",4
+17019,"IL","champaign county",40.1401,-88.1992,3,"wild bird",2
+17027,"IL","clinton county",38.6065,-89.4225,12,"wild bird",2
+17031,"IL","cook county",41.8401,-87.8168,10,"wild bird",1
+17031,"IL","cook county",41.8401,-87.8168,4,"wild bird",8
+17031,"IL","cook county",41.8401,-87.8168,5,"wild bird",3
+17031,"IL","cook county",41.8401,-87.8168,6,"wild bird",3
+17031,"IL","cook county",41.8401,-87.8168,9,"captive wild bird",2
+17051,"IL","fayette county",39.0002,-89.0241,9,"wild bird",17
+17057,"IL","fulton county",40.4728,-90.2075,3,"wild bird",1
+17057,"IL","fulton county",40.4728,-90.2075,4,"wild bird",3
+17063,"IL","grundy county",41.2851,-88.4185,11,"poultry",8800
+17081,"IL","jefferson county",38.3005,-88.924,12,"wild bird",2
+17089,"IL","kane county",41.9388,-88.4286,5,"non-poultry",50
+17097,"IL","lake county",42.3233,-88.0037,5,"wild bird",3
+17097,"IL","lake county",42.3233,-88.0037,9,"captive wild bird",1
+17105,"IL","livingston county",40.8916,-88.5577,11,"wild bird",2
+17119,"IL","madison county",38.8297,-89.9049,12,"wild bird",1
+17119,"IL","madison county",38.8297,-89.9049,9,"wild bird",2
+17113,"IL","mclean county",40.4909,-88.8473,3,"non-poultry",40
+17113,"IL","mclean county",40.4909,-88.8473,6,"wild bird",2
+17143,"IL","peoria county",40.788,-89.76,5,"wild bird",1
+17145,"IL","perry county",38.0837,-89.367,12,"wild bird",2
+17157,"IL","randolph county",38.0521,-89.8252,12,"wild bird",10
+17167,"IL","sangamon county",39.7582,-89.6589,3,"wild bird",1
+17163,"IL","st. clair county",38.4703,-89.9284,12,"non-poultry",60
+17183,"IL","vermilion county",40.1834,-87.7328,11,"wild bird",1
+17197,"IL","will county",41.445,-87.9786,11,"wild bird",3
+17197,"IL","will county",41.445,-87.9786,3,"wild bird",3
+17197,"IL","will county",41.445,-87.9786,4,"wild bird",1
+17199,"IL","williamson county",37.7303,-88.9299,10,"wild bird",1
+18003,"IN","allen county",41.0909,-85.0666,5,"non-poultry",7
+18003,"IN","allen county",41.0909,-85.0666,5,"wild bird",3
+18003,"IN","allen county",41.0909,-85.0666,6,"non-poultry",40
+18003,"IN","allen county",41.0909,-85.0666,6,"poultry",110
+18003,"IN","allen county",41.0909,-85.0666,6,"wild bird",1
+18027,"IN","daviess county",38.7024,-87.0721,12,"poultry",11400
+18037,"IN","dubois county",38.3643,-86.8798,2,"poultry",91600
+18037,"IN","dubois county",38.3643,-86.8798,3,"poultry",16500
+18037,"IN","dubois county",38.3643,-86.8798,3,"wild bird",1
+18039,"IN","elkhart county",41.5974,-85.8587,4,"poultry",17700
+18039,"IN","elkhart county",41.5974,-85.8587,9,"poultry",260
+18043,"IN","floyd county",38.3188,-85.907,11,"wild bird",1
+18051,"IN","gibson county",38.3119,-87.5846,12,"wild bird",15
+18055,"IN","greene county",39.0363,-86.962,11,"wild bird",1
+18055,"IN","greene county",39.0363,-86.962,13,"wild bird",2
+18055,"IN","greene county",39.0363,-86.962,2,"poultry",63600
+18055,"IN","greene county",39.0363,-86.962,9,"wild bird",10
+18059,"IN","hancock county",39.8236,-85.7732,6,"wild bird",1
+18073,"IN","jasper county",41.023,-87.1161,11,"wild bird",4
+18073,"IN","jasper county",41.023,-87.1161,9,"wild bird",2
+18081,"IN","johnson county",39.49,-86.1016,4,"non-poultry",40
+18081,"IN","johnson county",39.49,-86.1016,4,"wild bird",1
+18081,"IN","johnson county",39.49,-86.1016,5,"wild bird",1
+18089,"IN","lake county",41.4167,-87.3821,10,"wild bird",1
+18089,"IN","lake county",41.4167,-87.3821,5,"wild bird",1
+18089,"IN","lake county",41.4167,-87.3821,9,"wild bird",1
+18097,"IN","marion county",39.7817,-86.1385,6,"wild bird",2
+18097,"IN","marion county",39.7817,-86.1385,7,"wild bird",1
+18103,"IN","miami county",40.7695,-86.045,4,"wild bird",1
+18105,"IN","monroe county",39.1609,-86.5231,13,"wild bird",1
+18111,"IN","newton county",40.9558,-87.3976,11,"wild bird",1
+18111,"IN","newton county",40.9558,-87.3976,5,"wild bird",1
+18145,"IN","shelby county",39.5237,-85.7917,5,"wild bird",1
+18149,"IN","starke county",41.2809,-86.6476,4,"wild bird",1
+18157,"IN","tippecanoe county",40.3886,-86.8941,12,"wild bird",1
+20003,"KS","anderson county",38.2142,-95.2933,13,"poultry",8900
+20009,"KS","barton county",38.479,-98.7565,3,"wild bird",5
+20013,"KS","brown county",39.8265,-95.5642,6,"wild bird",1
+20015,"KS","butler county",37.7813,-96.8391,12,"wild bird",1
+20027,"KS","clay county",39.3497,-97.1652,3,"wild bird",1
+20031,"KS","coffey county",38.2369,-95.7341,12,"wild bird",1
+20041,"KS","dickinson county",38.8665,-97.1527,3,"poultry",250
+20045,"KS","douglas county",38.8847,-95.2926,12,"wild bird",1
+20049,"KS","elk county",37.4537,-96.2441,12,"non-poultry",30
+20055,"KS","finney county",38.0443,-100.737,12,"wild bird",6
+20057,"KS","ford county",37.6917,-99.888,12,"wild bird",2
+20059,"KS","franklin county",38.5645,-95.286,3,"poultry",260
+20075,"KS","hamilton county",37.9991,-101.7912,12,"wild bird",2
+20087,"KS","jefferson county",39.2358,-95.3834,3,"wild bird",1
+20089,"KS","jewell county",39.7847,-98.2183,12,"wild bird",1
+20089,"KS","jewell county",39.7847,-98.2183,3,"wild bird",6
+20089,"KS","jewell county",39.7847,-98.2183,4,"wild bird",1
+20091,"KS","johnson county",38.8838,-94.8223,10,"poultry",6
+20091,"KS","johnson county",38.8838,-94.8223,10,"wild bird",1
+20093,"KS","kearny county",38.0002,-101.3199,12,"wild bird",3
+20095,"KS","kingman county",37.5589,-98.1363,12,"wild bird",1
+20105,"KS","lincoln county",39.0453,-98.2077,12,"wild bird",1
+20111,"KS","lyon county",38.4562,-96.1526,6,"wild bird",1
+20115,"KS","marion county",38.3589,-97.0969,13,"wild bird",4
+20113,"KS","mcpherson county",38.3917,-97.648,10,"wild bird",1
+20113,"KS","mcpherson county",38.3917,-97.648,4,"poultry",6900
+20123,"KS","mitchell county",39.3933,-98.2094,12,"wild bird",4
+20123,"KS","mitchell county",39.3933,-98.2094,13,"poultry",6900
+20123,"KS","mitchell county",39.3933,-98.2094,3,"non-poultry",20
+20123,"KS","mitchell county",39.3933,-98.2094,3,"wild bird",3
+20125,"KS","montgomery county",37.1925,-95.7429,11,"wild bird",2
+20133,"KS","neosho county",37.5585,-95.3068,10,"poultry",2000
+20133,"KS","neosho county",37.5585,-95.3068,11,"wild bird",4
+20133,"KS","neosho county",37.5585,-95.3068,12,"wild bird",1
+20133,"KS","neosho county",37.5585,-95.3068,13,"wild bird",1
+20137,"KS","norton county",39.7844,-99.9035,3,"wild bird",2
+20147,"KS","phillips county",39.7846,-99.347,12,"wild bird",3
+20149,"KS","pottawatomie county",39.379,-96.3424,12,"wild bird",8
+20153,"KS","rawlins county",39.7852,-101.0757,4,"wild bird",1
+20155,"KS","reno county",37.9529,-98.086,10,"captive wild bird",1
+20157,"KS","republic county",39.8278,-97.6506,4,"poultry",110
+20161,"KS","riley county",39.2966,-96.7352,3,"wild bird",1
+20163,"KS","rooks county",39.3502,-99.325,12,"wild bird",2
+20165,"KS","rush county",38.5232,-99.3092,12,"wild bird",7
+20173,"KS","sedgwick county",37.6848,-97.461,3,"non-poultry",6
+20177,"KS","shawnee county",39.0415,-95.7565,10,"poultry",120
+20181,"KS","sherman county",39.3514,-101.72,12,"wild bird",2
+20185,"KS","stafford county",38.031,-98.7174,11,"wild bird",1
+20197,"KS","wabaunsee county",38.9533,-96.205,13,"wild bird",1
+21007,"KY","ballard county",37.0585,-88.9994,2,"wild bird",2
+21007,"KY","ballard county",37.0585,-88.9994,3,"wild bird",2
+21027,"KY","breckinridge county",37.7732,-86.4293,2,"wild bird",4
+21067,"KY","fayette county",38.0423,-84.4587,10,"poultry",150
+21067,"KY","fayette county",38.0423,-84.4587,12,"wild bird",1
+21075,"KY","fulton county",36.554,-89.1874,2,"poultry",231400
+21075,"KY","fulton county",36.554,-89.1874,3,"wild bird",2
+21083,"KY","graves county",36.7231,-88.6512,12,"wild bird",1
+21101,"KY","henderson county",37.7958,-87.573,2,"wild bird",4
+21111,"KY","jefferson county",38.1872,-85.6591,10,"wild bird",3
+21111,"KY","jefferson county",38.1872,-85.6591,12,"wild bird",1
+21141,"KY","logan county",36.8597,-86.8789,10,"non-poultry",190
+21149,"KY","mclean county",37.5292,-87.2636,7,"wild bird",1
+21221,"KY","trigg county",36.8064,-87.8733,12,"wild bird",1
+21227,"KY","warren county",36.9936,-86.4238,12,"wild bird",1
+21233,"KY","webster county",37.5184,-87.6831,2,"poultry",53300
+22009,"LA","avoyelles parish",31.0763,-92.0014,12,"wild bird",3
+22019,"LA","calcasieu parish",30.2293,-93.358,12,"wild bird",1
+22023,"LA","cameron parish",29.8754,-93.1937,10,"wild bird",19
+22023,"LA","cameron parish",29.8754,-93.1937,11,"wild bird",16
+22023,"LA","cameron parish",29.8754,-93.1937,12,"wild bird",3
+22023,"LA","cameron parish",29.8754,-93.1937,13,"wild bird",3
+22025,"LA","catahoula parish",31.6662,-91.847,10,"captive wild bird",2
+22053,"LA","jefferson davis parish",30.2677,-92.8141,10,"wild bird",3
+22059,"LA","lasalle parish",31.6768,-92.1604,12,"wild bird",2
+22059,"LA","lasalle parish",31.6768,-92.1604,13,"wild bird",12
+22067,"LA","morehouse parish",32.8202,-91.8018,12,"wild bird",4
+22067,"LA","morehouse parish",32.8202,-91.8018,13,"wild bird",18
+22073,"LA","ouachita parish",32.4784,-92.1549,12,"wild bird",1
+22083,"LA","richland parish",32.4178,-91.7635,12,"wild bird",5
+25001,"MA","barnstable county",41.7244,-70.2904,3,"wild bird",12
+25001,"MA","barnstable county",41.7244,-70.2904,4,"captive wild bird",7
+25001,"MA","barnstable county",41.7244,-70.2904,4,"wild bird",1
+25001,"MA","barnstable county",41.7244,-70.2904,6,"wild bird",4
+25001,"MA","barnstable county",41.7244,-70.2904,7,"wild bird",8
+25001,"MA","barnstable county",41.7244,-70.2904,8,"captive wild bird",1
+25003,"MA","berkshire county",42.3707,-73.2064,10,"wild bird",5
+25003,"MA","berkshire county",42.3707,-73.2064,3,"non-poultry",260
+25005,"MA","bristol county",41.7972,-71.1144,9,"non-poultry",50
+25009,"MA","essex county",42.6732,-70.952,11,"captive wild bird",3
+25009,"MA","essex county",42.6732,-70.952,4,"captive wild bird",2
+25009,"MA","essex county",42.6732,-70.952,6,"wild bird",7
+25009,"MA","essex county",42.6732,-70.952,7,"wild bird",17
+25009,"MA","essex county",42.6732,-70.952,8,"captive wild bird",1
+25009,"MA","essex county",42.6732,-70.952,9,"wild bird",7
+25013,"MA","hampden county",42.1351,-72.6316,13,"captive wild bird",1
+25017,"MA","middlesex county",42.4856,-71.3918,11,"non-poultry",20
+25017,"MA","middlesex county",42.4856,-71.3918,3,"captive wild bird",15
+25017,"MA","middlesex county",42.4856,-71.3918,3,"wild bird",1
+25019,"MA","nantucket county",41.2831,-70.0692,6,"wild bird",6
+25023,"MA","plymouth county",41.9512,-70.8114,11,"captive wild bird",2
+25023,"MA","plymouth county",41.9512,-70.8114,4,"captive wild bird",1
+25023,"MA","plymouth county",41.9512,-70.8114,6,"wild bird",2
+25023,"MA","plymouth county",41.9512,-70.8114,7,"captive wild bird",1
+25023,"MA","plymouth county",41.9512,-70.8114,7,"wild bird",1
+25025,"MA","suffolk county",42.3334,-71.0719,11,"captive wild bird",2
+25025,"MA","suffolk county",42.3334,-71.0719,6,"wild bird",1
+25025,"MA","suffolk county",42.3334,-71.0719,7,"wild bird",1
+25027,"MA","worcester county",42.3514,-71.9077,11,"captive wild bird",1
+25027,"MA","worcester county",42.3514,-71.9077,13,"wild bird",1
+24003,"MD","anne arundel county",39.0065,-76.6051,10,"wild bird",1
+24003,"MD","anne arundel county",39.0065,-76.6051,5,"wild bird",1
+24003,"MD","anne arundel county",39.0065,-76.6051,9,"non-poultry",4
+24015,"MD","cecil county",39.5712,-75.9407,3,"poultry",1622800
+24017,"MD","charles county",38.5073,-76.9922,13,"wild bird",2
+24019,"MD","dorchester county",38.4829,-76.0125,12,"wild bird",1
+24019,"MD","dorchester county",38.4829,-76.0125,13,"wild bird",6
+24025,"MD","harford county",39.5611,-76.3171,4,"wild bird",1
+24025,"MD","harford county",39.5611,-76.3171,5,"wild bird",1
+24025,"MD","harford county",39.5611,-76.3171,8,"wild bird",1
+24027,"MD","howard county",39.2507,-76.9312,5,"wild bird",2
+24029,"MD","kent county",39.2545,-76.0399,2,"wild bird",1
+24035,"MD","queen anne's county",39.0673,-76.0208,3,"poultry",139300
+24043,"MD","washington county",39.6036,-77.814,11,"poultry",24600
+23005,"ME","cumberland county",43.8465,-70.399,3,"poultry",250
+23005,"ME","cumberland county",43.8465,-70.399,6,"non-poultry",20
+23009,"ME","hancock county",44.6643,-68.3585,13,"non-poultry",40
+23009,"ME","hancock county",44.6643,-68.3585,7,"wild bird",16
+23009,"ME","hancock county",44.6643,-68.3585,8,"wild bird",1
+23013,"ME","knox county",44.141,-69.1686,2,"non-poultry",130
+23013,"ME","knox county",44.141,-69.1686,3,"non-poultry",60
+23013,"ME","knox county",44.141,-69.1686,7,"wild bird",3
+23015,"ME","lincoln county",44.0664,-69.5435,3,"non-poultry",133
+23015,"ME","lincoln county",44.0664,-69.5435,4,"wild bird",1
+23019,"ME","penobscot county",45.4006,-68.6495,10,"wild bird",1
+23019,"ME","penobscot county",45.4006,-68.6495,12,"wild bird",17
+23019,"ME","penobscot county",45.4006,-68.6495,13,"wild bird",2
+23019,"ME","penobscot county",45.4006,-68.6495,9,"wild bird",4
+23023,"ME","sagadahoc county",43.9598,-69.8546,7,"wild bird",2
+23027,"ME","waldo county",44.5028,-69.1454,4,"captive wild bird",1
+23027,"ME","waldo county",44.5028,-69.1454,4,"non-poultry",50
+23027,"ME","waldo county",44.5028,-69.1454,7,"captive wild bird",2
+23029,"ME","washington county",45.0307,-67.6287,11,"non-poultry",90
+23029,"ME","washington county",45.0307,-67.6287,2,"wild bird",6
+23029,"ME","washington county",45.0307,-67.6287,3,"non-poultry",20
+23029,"ME","washington county",45.0307,-67.6287,7,"wild bird",2
+23029,"ME","washington county",45.0307,-67.6287,8,"wild bird",1
+23031,"ME","york county",43.4782,-70.7144,11,"wild bird",9
+23031,"ME","york county",43.4782,-70.7144,3,"non-poultry",250
+23031,"ME","york county",43.4782,-70.7144,3,"wild bird",1
+23031,"ME","york county",43.4782,-70.7144,4,"wild bird",1
+23031,"ME","york county",43.4782,-70.7144,7,"wild bird",2
+23031,"ME","york county",43.4782,-70.7144,8,"wild bird",1
+26003,"MI","alger county",46.4086,-86.604,6,"wild bird",1
+26005,"MI","allegan county",42.5913,-85.8884,10,"wild bird",1
+26005,"MI","allegan county",42.5913,-85.8884,5,"wild bird",1
+26007,"MI","alpena county",45.0348,-83.6277,5,"wild bird",2
+26007,"MI","alpena county",45.0348,-83.6277,6,"wild bird",1
+26009,"MI","antrim county",44.9991,-85.1403,4,"wild bird",1
+26009,"MI","antrim county",44.9991,-85.1403,9,"wild bird",1
+26011,"MI","arenac county",44.0656,-83.8952,5,"wild bird",1
+26013,"MI","baraga county",46.6626,-88.3652,11,"wild bird",1
+26013,"MI","baraga county",46.6626,-88.3652,6,"wild bird",1
+26017,"MI","bay county",43.7074,-83.9921,10,"wild bird",6
+26017,"MI","bay county",43.7074,-83.9921,4,"wild bird",6
+26019,"MI","benzie county",44.6387,-86.0155,5,"wild bird",1
+26021,"MI","berrien county",41.9547,-86.4123,5,"wild bird",1
+26023,"MI","branch county",41.9161,-85.059,4,"non-poultry",20
+26023,"MI","branch county",41.9161,-85.059,7,"wild bird",1
+26027,"MI","cass county",41.9154,-85.9935,7,"wild bird",1
+26029,"MI","charlevoix county",45.3014,-85.1259,5,"wild bird",1
+26029,"MI","charlevoix county",45.3014,-85.1259,6,"wild bird",2
+26031,"MI","cheboygan county",45.4463,-84.4999,5,"wild bird",1
+26033,"MI","chippewa county",46.3053,-84.578,4,"wild bird",1
+26033,"MI","chippewa county",46.3053,-84.578,5,"wild bird",2
+26037,"MI","clinton county",42.9437,-84.6015,12,"wild bird",1
+26037,"MI","clinton county",42.9437,-84.6015,4,"wild bird",1
+26037,"MI","clinton county",42.9437,-84.6015,9,"wild bird",2
+26039,"MI","crawford county",44.6836,-84.6103,3,"wild bird",1
+26041,"MI","delta county",45.9192,-86.9241,10,"wild bird",1
+26041,"MI","delta county",45.9192,-86.9241,5,"wild bird",1
+26041,"MI","delta county",45.9192,-86.9241,6,"wild bird",3
+26041,"MI","delta county",45.9192,-86.9241,8,"wild bird",1
+26041,"MI","delta county",45.9192,-86.9241,9,"wild bird",1
+26043,"MI","dickinson county",46.0092,-87.8703,5,"wild bird",1
+26043,"MI","dickinson county",46.0092,-87.8703,6,"wild bird",1
+26045,"MI","eaton county",42.5961,-84.8383,12,"wild bird",1
+26045,"MI","eaton county",42.5961,-84.8383,5,"captive wild bird",4
+26045,"MI","eaton county",42.5961,-84.8383,6,"wild bird",2
+26045,"MI","eaton county",42.5961,-84.8383,9,"captive wild bird",1
+26049,"MI","genesee county",43.0217,-83.7067,10,"non-poultry",20
+26051,"MI","gladwin county",43.9907,-84.3883,4,"wild bird",1
+26051,"MI","gladwin county",43.9907,-84.3883,5,"wild bird",1
+26053,"MI","gogebic county",46.4087,-89.6944,6,"wild bird",1
+26055,"MI","grand traverse county",44.6688,-85.5605,10,"captive wild bird",1
+26055,"MI","grand traverse county",44.6688,-85.5605,10,"wild bird",1
+26055,"MI","grand traverse county",44.6688,-85.5605,5,"captive wild bird",1
+26055,"MI","grand traverse county",44.6688,-85.5605,5,"wild bird",2
+26055,"MI","grand traverse county",44.6688,-85.5605,6,"wild bird",3
+26055,"MI","grand traverse county",44.6688,-85.5605,7,"wild bird",1
+26055,"MI","grand traverse county",44.6688,-85.5605,9,"captive wild bird",1
+26059,"MI","hillsdale county",41.8878,-84.5929,4,"wild bird",1
+26059,"MI","hillsdale county",41.8878,-84.5929,9,"wild bird",1
+26061,"MI","houghton county",46.8978,-88.6875,11,"wild bird",1
+26063,"MI","huron county",43.8333,-83.019,6,"wild bird",1
+26065,"MI","ingham county",42.5971,-84.3735,8,"wild bird",16
+26065,"MI","ingham county",42.5971,-84.3735,9,"poultry",20
+26065,"MI","ingham county",42.5971,-84.3735,9,"wild bird",13
+26067,"MI","ionia county",42.9451,-85.0746,9,"wild bird",3
+26069,"MI","iosco county",44.3559,-83.6359,4,"wild bird",2
+26069,"MI","iosco county",44.3559,-83.6359,6,"wild bird",2
+26071,"MI","iron county",46.2087,-88.5306,12,"wild bird",1
+26071,"MI","iron county",46.2087,-88.5306,5,"wild bird",1
+26077,"MI","kalamazoo county",42.2455,-85.5312,2,"non-poultry",30
+26077,"MI","kalamazoo county",42.2455,-85.5312,3,"captive wild bird",2
+26077,"MI","kalamazoo county",42.2455,-85.5312,6,"wild bird",1
+26077,"MI","kalamazoo county",42.2455,-85.5312,9,"wild bird",2
+26081,"MI","kent county",43.0322,-85.5493,4,"wild bird",1
+26081,"MI","kent county",43.0322,-85.5493,9,"wild bird",1
+26087,"MI","lapeer county",43.0901,-83.2218,10,"poultry",140
+26087,"MI","lapeer county",43.0901,-83.2218,11,"poultry",990
+26093,"MI","livingston county",42.6029,-83.9115,4,"non-poultry",20
+26093,"MI","livingston county",42.6029,-83.9115,4,"wild bird",1
+26097,"MI","mackinac county",46.0805,-85.0867,6,"wild bird",3
+26097,"MI","mackinac county",46.0805,-85.0867,8,"wild bird",1
+26097,"MI","mackinac county",46.0805,-85.0867,9,"wild bird",1
+26099,"MI","macomb county",42.6957,-82.9323,3,"non-poultry",70
+26099,"MI","macomb county",42.6957,-82.9323,3,"wild bird",2
+26099,"MI","macomb county",42.6957,-82.9323,4,"non-poultry",40
+26099,"MI","macomb county",42.6957,-82.9323,6,"wild bird",1
+26099,"MI","macomb county",42.6957,-82.9323,9,"non-poultry",40
+26099,"MI","macomb county",42.6957,-82.9323,9,"wild bird",1
+26101,"MI","manistee county",44.333,-86.0568,5,"wild bird",1
+26101,"MI","manistee county",44.333,-86.0568,6,"wild bird",1
+26105,"MI","mason county",43.9952,-86.25,6,"wild bird",2
+26107,"MI","mecosta county",43.6408,-85.3246,8,"wild bird",1
+26109,"MI","menominee county",45.5801,-87.5566,4,"non-poultry",140
+26109,"MI","menominee county",45.5801,-87.5566,4,"poultry",350
+26109,"MI","menominee county",45.5801,-87.5566,5,"wild bird",1
+26111,"MI","midland county",43.6468,-84.3881,10,"wild bird",1
+26111,"MI","midland county",43.6468,-84.3881,6,"wild bird",1
+26113,"MI","missaukee county",44.3374,-85.0947,6,"wild bird",2
+26115,"MI","monroe county",41.9291,-83.5394,11,"wild bird",2
+26115,"MI","monroe county",41.9291,-83.5394,3,"captive wild bird",1
+26115,"MI","monroe county",41.9291,-83.5394,3,"wild bird",1
+26119,"MI","montmorency county",45.0276,-84.1272,5,"wild bird",2
+26121,"MI","muskegon county",43.2912,-86.152,5,"poultry",35100
+26121,"MI","muskegon county",43.2912,-86.152,6,"wild bird",2
+26123,"MI","newaygo county",43.5542,-85.8009,11,"wild bird",1
+26123,"MI","newaygo county",43.5542,-85.8009,9,"wild bird",1
+26125,"MI","oakland county",42.6604,-83.3858,4,"wild bird",5
+26125,"MI","oakland county",42.6604,-83.3858,5,"non-poultry",50
+26129,"MI","ogemaw county",44.3349,-84.1264,6,"wild bird",1
+26131,"MI","ontonagon county",46.6644,-89.3148,6,"wild bird",1
+26133,"MI","osceola county",43.9898,-85.3252,6,"wild bird",1
+26137,"MI","otsego county",45.0214,-84.599,3,"wild bird",1
+26137,"MI","otsego county",45.0214,-84.599,6,"wild bird",1
+26139,"MI","ottawa county",42.9598,-85.9961,6,"wild bird",1
+26139,"MI","ottawa county",42.9598,-85.9961,9,"wild bird",5
+26141,"MI","presque isle county",45.3401,-83.918,4,"wild bird",1
+26141,"MI","presque isle county",45.3401,-83.918,5,"wild bird",1
+26143,"MI","roscommon county",44.3356,-84.6116,4,"wild bird",1
+26143,"MI","roscommon county",44.3356,-84.6116,6,"wild bird",3
+26145,"MI","saginaw county",43.335,-84.0532,4,"non-poultry",80
+26145,"MI","saginaw county",43.335,-84.0532,4,"wild bird",1
+26145,"MI","saginaw county",43.335,-84.0532,5,"wild bird",3
+26145,"MI","saginaw county",43.335,-84.0532,6,"wild bird",2
+26151,"MI","sanilac county",43.4236,-82.8203,12,"non-poultry",30
+26153,"MI","schoolcraft county",46.1966,-86.1995,4,"wild bird",1
+26155,"MI","shiawassee county",42.9537,-84.1467,4,"wild bird",1
+26147,"MI","st. clair county",42.9341,-82.6806,10,"wild bird",5
+26147,"MI","st. clair county",42.9341,-82.6806,3,"wild bird",23
+26157,"MI","tuscola county",43.4641,-83.4167,10,"poultry",140
+26157,"MI","tuscola county",43.4641,-83.4167,4,"wild bird",3
+26161,"MI","washtenaw county",42.2532,-83.8388,9,"wild bird",1
+26163,"MI","wayne county",42.2819,-83.2822,6,"wild bird",1
+26165,"MI","wexford county",44.3384,-85.5784,4,"poultry",70
+26165,"MI","wexford county",44.3384,-85.5784,5,"wild bird",1
+27001,"MN","aitkin county",46.6083,-93.4154,10,"wild bird",1
+27001,"MN","aitkin county",46.6083,-93.4154,5,"wild bird",2
+27003,"MN","anoka county",45.2733,-93.2465,10,"wild bird",1
+27003,"MN","anoka county",45.2733,-93.2465,11,"captive wild bird",1
+27003,"MN","anoka county",45.2733,-93.2465,13,"captive wild bird",1
+27003,"MN","anoka county",45.2733,-93.2465,4,"captive wild bird",9
+27003,"MN","anoka county",45.2733,-93.2465,4,"wild bird",15
+27003,"MN","anoka county",45.2733,-93.2465,5,"captive wild bird",11
+27003,"MN","anoka county",45.2733,-93.2465,5,"non-poultry",10
+27003,"MN","anoka county",45.2733,-93.2465,6,"captive wild bird",1
+27003,"MN","anoka county",45.2733,-93.2465,9,"captive wild bird",4
+27005,"MN","becker county",46.9346,-95.674,4,"poultry",44700
+27005,"MN","becker county",46.9346,-95.674,5,"non-poultry",40
+27005,"MN","becker county",46.9346,-95.674,9,"poultry",17100
+27007,"MN","beltrami county",47.9738,-94.9377,5,"wild bird",4
+27009,"MN","benton county",45.6991,-93.9988,4,"non-poultry",137
+27011,"MN","big stone county",45.4261,-96.4109,10,"captive wild bird",1
+27011,"MN","big stone county",45.4261,-96.4109,10,"wild bird",7
+27011,"MN","big stone county",45.4261,-96.4109,4,"poultry",49500
+27013,"MN","blue earth county",44.0346,-94.067,10,"captive wild bird",1
+27013,"MN","blue earth county",44.0346,-94.067,4,"poultry",49100
+27013,"MN","blue earth county",44.0346,-94.067,4,"wild bird",1
+27015,"MN","brown county",44.2421,-94.7276,5,"wild bird",1
+27015,"MN","brown county",44.2421,-94.7276,9,"poultry",86700
+27017,"MN","carlton county",46.5924,-92.677,10,"wild bird",3
+27017,"MN","carlton county",46.5924,-92.677,5,"wild bird",1
+27019,"MN","carver county",44.8207,-93.8026,4,"captive wild bird",1
+27019,"MN","carver county",44.8207,-93.8026,4,"non-poultry",20
+27019,"MN","carver county",44.8207,-93.8026,4,"wild bird",2
+27019,"MN","carver county",44.8207,-93.8026,5,"captive wild bird",4
+27019,"MN","carver county",44.8207,-93.8026,5,"non-poultry",30
+27019,"MN","carver county",44.8207,-93.8026,6,"captive wild bird",1
+27021,"MN","cass county",46.9496,-94.3254,10,"wild bird",1
+27021,"MN","cass county",46.9496,-94.3254,11,"captive wild bird",1
+27021,"MN","cass county",46.9496,-94.3254,4,"captive wild bird",1
+27021,"MN","cass county",46.9496,-94.3254,4,"wild bird",1
+27021,"MN","cass county",46.9496,-94.3254,5,"captive wild bird",2
+27021,"MN","cass county",46.9496,-94.3254,6,"wild bird",14
+27023,"MN","chippewa county",45.0223,-95.5667,4,"wild bird",1
+27025,"MN","chisago county",45.5025,-92.9084,10,"wild bird",2
+27025,"MN","chisago county",45.5025,-92.9084,4,"captive wild bird",1
+27025,"MN","chisago county",45.5025,-92.9084,4,"non-poultry",90
+27025,"MN","chisago county",45.5025,-92.9084,4,"wild bird",1
+27025,"MN","chisago county",45.5025,-92.9084,5,"captive wild bird",6
+27025,"MN","chisago county",45.5025,-92.9084,5,"non-poultry",70
+27025,"MN","chisago county",45.5025,-92.9084,5,"poultry",160
+27025,"MN","chisago county",45.5025,-92.9084,5,"wild bird",1
+27027,"MN","clay county",46.8923,-96.4907,5,"non-poultry",20
+27027,"MN","clay county",46.8923,-96.4907,5,"wild bird",1
+27031,"MN","cook county",47.9026,-90.5351,6,"wild bird",1
+27035,"MN","crow wing county",46.4824,-94.0709,11,"wild bird",5
+27035,"MN","crow wing county",46.4824,-94.0709,5,"captive wild bird",2
+27035,"MN","crow wing county",46.4824,-94.0709,5,"poultry",150
+27035,"MN","crow wing county",46.4824,-94.0709,5,"wild bird",3
+27035,"MN","crow wing county",46.4824,-94.0709,6,"captive wild bird",2
+27035,"MN","crow wing county",46.4824,-94.0709,9,"captive wild bird",1
+27037,"MN","dakota county",44.6719,-93.0654,11,"captive wild bird",2
+27037,"MN","dakota county",44.6719,-93.0654,12,"captive wild bird",1
+27037,"MN","dakota county",44.6719,-93.0654,3,"captive wild bird",1
+27037,"MN","dakota county",44.6719,-93.0654,3,"wild bird",1
+27037,"MN","dakota county",44.6719,-93.0654,4,"captive wild bird",8
+27037,"MN","dakota county",44.6719,-93.0654,5,"captive wild bird",7
+27037,"MN","dakota county",44.6719,-93.0654,5,"poultry",54400
+27037,"MN","dakota county",44.6719,-93.0654,9,"captive wild bird",2
+27039,"MN","dodge county",44.0226,-92.862,12,"poultry",10000
+27039,"MN","dodge county",44.0226,-92.862,4,"poultry",20000
+27041,"MN","douglas county",45.9338,-95.4535,5,"wild bird",1
+27043,"MN","faribault county",43.6739,-93.948,5,"captive wild bird",1
+27045,"MN","fillmore county",43.674,-92.0902,4,"wild bird",1
+27047,"MN","freeborn county",43.6738,-93.3488,4,"wild bird",1
+27047,"MN","freeborn county",43.6738,-93.3488,5,"wild bird",1
+27047,"MN","freeborn county",43.6738,-93.3488,9,"non-poultry",320
+27049,"MN","goodhue county",44.4097,-92.7229,4,"captive wild bird",4
+27049,"MN","goodhue county",44.4097,-92.7229,5,"captive wild bird",2
+27049,"MN","goodhue county",44.4097,-92.7229,9,"non-poultry",80
+27051,"MN","grant county",45.934,-96.0122,4,"wild bird",1
+27051,"MN","grant county",45.934,-96.0122,5,"non-poultry",310
+27053,"MN","hennepin county",45.0045,-93.477,10,"captive wild bird",4
+27053,"MN","hennepin county",45.0045,-93.477,10,"wild bird",10
+27053,"MN","hennepin county",45.0045,-93.477,12,"captive wild bird",1
+27053,"MN","hennepin county",45.0045,-93.477,13,"captive wild bird",1
+27053,"MN","hennepin county",45.0045,-93.477,13,"wild bird",4
+27053,"MN","hennepin county",45.0045,-93.477,4,"captive wild bird",22
+27053,"MN","hennepin county",45.0045,-93.477,4,"wild bird",3
+27053,"MN","hennepin county",45.0045,-93.477,5,"captive wild bird",23
+27053,"MN","hennepin county",45.0045,-93.477,6,"captive wild bird",1
+27053,"MN","hennepin county",45.0045,-93.477,8,"wild bird",3
+27053,"MN","hennepin county",45.0045,-93.477,9,"captive wild bird",6
+27053,"MN","hennepin county",45.0045,-93.477,9,"non-poultry",10
+27053,"MN","hennepin county",45.0045,-93.477,9,"wild bird",2
+27055,"MN","houston county",43.6714,-91.4929,4,"wild bird",1
+27055,"MN","houston county",43.6714,-91.4929,6,"captive wild bird",1
+27057,"MN","hubbard county",47.1086,-94.9167,5,"captive wild bird",1
+27057,"MN","hubbard county",47.1086,-94.9167,5,"wild bird",1
+27057,"MN","hubbard county",47.1086,-94.9167,6,"captive wild bird",1
+27059,"MN","isanti county",45.5615,-93.2951,4,"captive wild bird",1
+27059,"MN","isanti county",45.5615,-93.2951,4,"wild bird",1
+27059,"MN","isanti county",45.5615,-93.2951,5,"captive wild bird",1
+27059,"MN","isanti county",45.5615,-93.2951,9,"non-poultry",4
+27061,"MN","itasca county",47.5095,-93.6319,10,"non-poultry",40
+27061,"MN","itasca county",47.5095,-93.6319,4,"wild bird",1
+27065,"MN","kanabec county",45.9452,-93.2934,10,"wild bird",2
+27065,"MN","kanabec county",45.9452,-93.2934,9,"captive wild bird",1
+27067,"MN","kandiyohi county",45.1524,-95.0047,3,"poultry",39500
+27067,"MN","kandiyohi county",45.1524,-95.0047,3,"wild bird",1
+27067,"MN","kandiyohi county",45.1524,-95.0047,4,"captive wild bird",1
+27067,"MN","kandiyohi county",45.1524,-95.0047,4,"poultry",239700
+27067,"MN","kandiyohi county",45.1524,-95.0047,5,"poultry",4700
+27069,"MN","kittson county",48.7766,-96.7829,5,"wild bird",1
+27073,"MN","lac qui parle county",44.9955,-96.1735,3,"poultry",22500
+27079,"MN","le sueur county",44.3714,-93.7301,10,"poultry",20100
+27079,"MN","le sueur county",44.3714,-93.7301,4,"poultry",57400
+27079,"MN","le sueur county",44.3714,-93.7301,5,"captive wild bird",2
+27081,"MN","lincoln county",44.4126,-96.2671,12,"wild bird",2
+27083,"MN","lyon county",44.4135,-95.839,4,"wild bird",2
+27083,"MN","lyon county",44.4135,-95.839,5,"poultry",120300
+27083,"MN","lyon county",44.4135,-95.839,9,"captive wild bird",1
+27087,"MN","mahnomen county",47.3253,-95.8091,4,"wild bird",1
+27089,"MN","marshall county",48.3581,-96.3685,10,"wild bird",52
+27089,"MN","marshall county",48.3581,-96.3685,11,"wild bird",4
+27089,"MN","marshall county",48.3581,-96.3685,7,"wild bird",1
+27089,"MN","marshall county",48.3581,-96.3685,9,"wild bird",25
+27091,"MN","martin county",43.6744,-94.5511,4,"captive wild bird",1
+27085,"MN","mcleod county",44.8236,-94.2724,10,"captive wild bird",1
+27085,"MN","mcleod county",44.8236,-94.2724,4,"wild bird",1
+27085,"MN","mcleod county",44.8236,-94.2724,5,"captive wild bird",1
+27093,"MN","meeker county",45.1231,-94.5273,3,"poultry",287500
+27093,"MN","meeker county",45.1231,-94.5273,4,"poultry",254700
+27093,"MN","meeker county",45.1231,-94.5273,5,"captive wild bird",1
+27093,"MN","meeker county",45.1231,-94.5273,8,"poultry",178400
+27093,"MN","meeker county",45.1231,-94.5273,9,"poultry",95600
+27095,"MN","mille lacs county",45.938,-93.6301,4,"captive wild bird",1
+27095,"MN","mille lacs county",45.938,-93.6301,5,"captive wild bird",1
+27095,"MN","mille lacs county",45.938,-93.6301,5,"wild bird",1
+27095,"MN","mille lacs county",45.938,-93.6301,7,"captive wild bird",1
+27097,"MN","morrison county",46.0126,-94.2684,3,"poultry",52600
+27097,"MN","morrison county",46.0126,-94.2684,4,"captive wild bird",1
+27097,"MN","morrison county",46.0126,-94.2684,4,"non-poultry",50
+27097,"MN","morrison county",46.0126,-94.2684,4,"poultry",624900
+27097,"MN","morrison county",46.0126,-94.2684,5,"captive wild bird",2
+27097,"MN","morrison county",46.0126,-94.2684,9,"captive wild bird",1
+27097,"MN","morrison county",46.0126,-94.2684,9,"poultry",50200
+27099,"MN","mower county",43.6715,-92.7525,3,"non-poultry",20
+27101,"MN","murray county",44.0221,-95.7633,5,"wild bird",1
+27103,"MN","nicollet county",44.3499,-94.2474,4,"wild bird",3
+27103,"MN","nicollet county",44.3499,-94.2474,5,"captive wild bird",1
+27103,"MN","nicollet county",44.3499,-94.2474,6,"wild bird",1
+27103,"MN","nicollet county",44.3499,-94.2474,9,"wild bird",3
+27105,"MN","nobles county",43.6742,-95.7534,5,"wild bird",1
+27109,"MN","olmsted county",44.0038,-92.4018,5,"captive wild bird",2
+27109,"MN","olmsted county",44.0038,-92.4018,5,"wild bird",3
+27111,"MN","otter tail county",46.4088,-95.708,11,"poultry",28200
+27111,"MN","otter tail county",46.4088,-95.708,4,"poultry",122600
+27111,"MN","otter tail county",46.4088,-95.708,5,"captive wild bird",1
+27111,"MN","otter tail county",46.4088,-95.708,9,"poultry",13800
+27115,"MN","pine county",46.1208,-92.7413,4,"wild bird",1
+27115,"MN","pine county",46.1208,-92.7413,5,"captive wild bird",2
+27119,"MN","polk county",47.7739,-96.4018,5,"captive wild bird",2
+27119,"MN","polk county",47.7739,-96.4018,5,"non-poultry",50
+27119,"MN","polk county",47.7739,-96.4018,5,"wild bird",2
+27121,"MN","pope county",45.586,-95.4445,10,"non-poultry",30
+27121,"MN","pope county",45.586,-95.4445,4,"wild bird",1
+27123,"MN","ramsey county",45.0171,-93.0996,10,"captive wild bird",5
+27123,"MN","ramsey county",45.0171,-93.0996,11,"captive wild bird",2
+27123,"MN","ramsey county",45.0171,-93.0996,12,"captive wild bird",1
+27123,"MN","ramsey county",45.0171,-93.0996,3,"captive wild bird",1
+27123,"MN","ramsey county",45.0171,-93.0996,4,"captive wild bird",23
+27123,"MN","ramsey county",45.0171,-93.0996,5,"captive wild bird",33
+27123,"MN","ramsey county",45.0171,-93.0996,5,"wild bird",1
+27123,"MN","ramsey county",45.0171,-93.0996,7,"captive wild bird",1
+27123,"MN","ramsey county",45.0171,-93.0996,9,"captive wild bird",16
+27125,"MN","red lake county",47.8717,-96.0953,5,"wild bird",1
+27127,"MN","redwood county",44.4037,-95.2538,12,"non-poultry",40
+27129,"MN","renville county",44.7268,-94.9471,4,"poultry",76400
+27131,"MN","rice county",44.3543,-93.2967,11,"captive wild bird",1
+27131,"MN","rice county",44.3543,-93.2967,4,"non-poultry",90
+27131,"MN","rice county",44.3543,-93.2967,5,"captive wild bird",2
+27135,"MN","roseau county",48.7751,-95.8108,10,"wild bird",2
+27135,"MN","roseau county",48.7751,-95.8108,5,"wild bird",1
+27135,"MN","roseau county",48.7751,-95.8108,6,"captive wild bird",1
+27135,"MN","roseau county",48.7751,-95.8108,9,"poultry",116000
+27139,"MN","scott county",44.6485,-93.5359,10,"captive wild bird",2
+27139,"MN","scott county",44.6485,-93.5359,10,"wild bird",3
+27139,"MN","scott county",44.6485,-93.5359,12,"captive wild bird",4
+27139,"MN","scott county",44.6485,-93.5359,4,"captive wild bird",2
+27139,"MN","scott county",44.6485,-93.5359,4,"wild bird",1
+27139,"MN","scott county",44.6485,-93.5359,5,"captive wild bird",1
+27141,"MN","sherburne county",45.4439,-93.7746,4,"captive wild bird",2
+27141,"MN","sherburne county",45.4439,-93.7746,5,"captive wild bird",3
+27137,"MN","st. louis county",47.6032,-92.4707,10,"wild bird",1
+27137,"MN","st. louis county",47.6032,-92.4707,5,"wild bird",2
+27137,"MN","st. louis county",47.6032,-92.4707,9,"captive wild bird",1
+27145,"MN","stearns county",45.5521,-94.613,10,"poultry",75000
+27145,"MN","stearns county",45.5521,-94.613,10,"wild bird",8
+27145,"MN","stearns county",45.5521,-94.613,11,"poultry",8500
+27145,"MN","stearns county",45.5521,-94.613,3,"non-poultry",150
+27145,"MN","stearns county",45.5521,-94.613,3,"poultry",23500
+27145,"MN","stearns county",45.5521,-94.613,4,"captive wild bird",1
+27145,"MN","stearns county",45.5521,-94.613,4,"poultry",253500
+27145,"MN","stearns county",45.5521,-94.613,9,"poultry",134000
+27147,"MN","steele county",44.0223,-93.226,5,"wild bird",2
+27151,"MN","swift county",45.2827,-95.6815,10,"poultry",79400
+27151,"MN","swift county",45.2827,-95.6815,4,"non-poultry",20
+27151,"MN","swift county",45.2827,-95.6815,4,"poultry",289900
+27153,"MN","todd county",46.0706,-94.8976,11,"poultry",44500
+27153,"MN","todd county",46.0706,-94.8976,4,"poultry",117100
+27153,"MN","todd county",46.0706,-94.8976,5,"captive wild bird",1
+27153,"MN","todd county",46.0706,-94.8976,5,"non-poultry",50
+27153,"MN","todd county",46.0706,-94.8976,9,"non-poultry",50
+27159,"MN","wadena county",46.5857,-94.9694,12,"poultry",298100
+27159,"MN","wadena county",46.5857,-94.9694,5,"wild bird",1
+27161,"MN","waseca county",44.0221,-93.5873,4,"poultry",63700
+27163,"MN","washington county",45.0388,-92.8838,10,"captive wild bird",1
+27163,"MN","washington county",45.0388,-92.8838,11,"captive wild bird",1
+27163,"MN","washington county",45.0388,-92.8838,13,"captive wild bird",1
+27163,"MN","washington county",45.0388,-92.8838,4,"captive wild bird",4
+27163,"MN","washington county",45.0388,-92.8838,4,"wild bird",2
+27163,"MN","washington county",45.0388,-92.8838,5,"captive wild bird",14
+27165,"MN","watonwan county",43.9784,-94.6141,5,"wild bird",1
+27167,"MN","wilkin county",46.357,-96.4683,4,"wild bird",2
+27169,"MN","winona county",43.9868,-91.7792,5,"captive wild bird",1
+27169,"MN","winona county",43.9868,-91.7792,5,"wild bird",3
+27171,"MN","wright county",45.1739,-93.9631,10,"wild bird",12
+27171,"MN","wright county",45.1739,-93.9631,11,"captive wild bird",3
+27171,"MN","wright county",45.1739,-93.9631,4,"captive wild bird",2
+27171,"MN","wright county",45.1739,-93.9631,4,"wild bird",1
+27171,"MN","wright county",45.1739,-93.9631,6,"captive wild bird",1
+27171,"MN","wright county",45.1739,-93.9631,6,"wild bird",3
+27173,"MN","yellow medicine county",44.7163,-95.8684,4,"poultry",94300
+29011,"MO","barton county",37.5023,-94.3471,4,"wild bird",1
+29013,"MO","bates county",38.2573,-94.34,12,"non-poultry",30
+29013,"MO","bates county",38.2573,-94.34,12,"wild bird",2
+29013,"MO","bates county",38.2573,-94.34,3,"non-poultry",50
+29017,"MO","bollinger county",37.3222,-90.0259,12,"wild bird",1
+29019,"MO","boone county",38.9906,-92.3097,12,"wild bird",2
+29021,"MO","buchanan county",39.6598,-94.8059,3,"wild bird",2
+29021,"MO","buchanan county",39.6598,-94.8059,4,"wild bird",1
+29027,"MO","callaway county",38.8355,-91.926,4,"wild bird",1
+29041,"MO","chariton county",39.5151,-92.9626,10,"wild bird",18
+29041,"MO","chariton county",39.5151,-92.9626,11,"wild bird",15
+29041,"MO","chariton county",39.5151,-92.9626,3,"wild bird",25
+29041,"MO","chariton county",39.5151,-92.9626,4,"wild bird",3
+29047,"MO","clay county",39.3105,-94.4209,13,"wild bird",1
+29047,"MO","clay county",39.3105,-94.4209,3,"wild bird",1
+29047,"MO","clay county",39.3105,-94.4209,4,"wild bird",1
+29057,"MO","dade county",37.432,-93.8503,12,"non-poultry",30
+29057,"MO","dade county",37.432,-93.8503,4,"poultry",14000
+29069,"MO","dunklin county",36.2721,-90.0909,12,"wild bird",3
+29071,"MO","franklin county",38.4111,-91.075,12,"wild bird",2
+29075,"MO","gentry county",40.2121,-94.4099,3,"non-poultry",140
+29075,"MO","gentry county",40.2121,-94.4099,4,"wild bird",1
+29081,"MO","harrison county",40.3547,-93.9921,12,"non-poultry",30
+29087,"MO","holt county",40.0944,-95.2155,12,"wild bird",3
+29087,"MO","holt county",40.0944,-95.2155,3,"wild bird",3
+29087,"MO","holt county",40.0944,-95.2155,4,"wild bird",1
+29089,"MO","howard county",39.1425,-92.6963,4,"wild bird",1
+29091,"MO","howell county",36.774,-91.8865,12,"wild bird",1
+29095,"MO","jackson county",39.0085,-94.3461,10,"non-poultry",40
+29095,"MO","jackson county",39.0085,-94.3461,11,"wild bird",4
+29095,"MO","jackson county",39.0085,-94.3461,12,"non-poultry",30
+29095,"MO","jackson county",39.0085,-94.3461,4,"wild bird",2
+29097,"MO","jasper county",37.2035,-94.3406,3,"poultry",25000
+29097,"MO","jasper county",37.2035,-94.3406,4,"poultry",35300
+29101,"MO","johnson county",38.7441,-93.8064,13,"non-poultry",30
+29109,"MO","lawrence county",37.1064,-93.8329,3,"poultry",37800
+29109,"MO","lawrence county",37.1064,-93.8329,4,"poultry",27600
+29111,"MO","lewis county",40.0969,-91.7221,4,"wild bird",1
+29113,"MO","lincoln county",39.058,-90.96,4,"wild bird",1
+29131,"MO","miller county",38.2145,-92.4284,4,"wild bird",1
+29135,"MO","moniteau county",38.6328,-92.5831,12,"wild bird",1
+29137,"MO","monroe county",39.4955,-92.0007,4,"wild bird",1
+29143,"MO","new madrid county",36.5946,-89.6517,12,"wild bird",1
+29147,"MO","nodaway county",40.3608,-94.8834,12,"wild bird",1
+29151,"MO","osage county",38.4604,-91.8618,12,"poultry",19700
+29155,"MO","pemiscot county",36.2114,-89.7854,12,"wild bird",1
+29157,"MO","perry county",37.7072,-89.8244,12,"wild bird",1
+29159,"MO","pettis county",38.7283,-93.2851,3,"wild bird",1
+29165,"MO","platte county",39.3803,-94.7738,12,"wild bird",4
+29165,"MO","platte county",39.3803,-94.7738,4,"wild bird",1
+29173,"MO","ralls county",39.5277,-91.522,3,"non-poultry",100
+29175,"MO","randolph county",39.4402,-92.4971,3,"wild bird",1
+29175,"MO","randolph county",39.4402,-92.4971,4,"wild bird",1
+29201,"MO","scott county",37.053,-89.5686,4,"wild bird",1
+29183,"MO","st. charles county",38.782,-90.6749,10,"wild bird",2
+29183,"MO","st. charles county",38.782,-90.6749,12,"wild bird",2
+29183,"MO","st. charles county",38.782,-90.6749,4,"wild bird",1
+29185,"MO","st. clair county",38.0372,-93.776,4,"wild bird",1
+29189,"MO","st. louis county",38.6407,-90.4434,10,"wild bird",1
+29189,"MO","st. louis county",38.6407,-90.4434,12,"wild bird",3
+29189,"MO","st. louis county",38.6407,-90.4434,13,"captive wild bird",1
+29189,"MO","st. louis county",38.6407,-90.4434,13,"wild bird",1
+29189,"MO","st. louis county",38.6407,-90.4434,3,"wild bird",1
+29189,"MO","st. louis county",38.6407,-90.4434,4,"wild bird",3
+29207,"MO","stoddard county",36.8556,-89.9443,12,"wild bird",1
+29207,"MO","stoddard county",36.8556,-89.9443,3,"poultry",294800
+29217,"MO","vernon county",37.8506,-94.3424,12,"wild bird",1
+29217,"MO","vernon county",37.8506,-94.3424,4,"wild bird",6
+29225,"MO","webster county",37.2809,-92.8759,11,"poultry",24200
+29225,"MO","webster county",37.2809,-92.8759,12,"wild bird",2
+28003,"MS","alcorn county",34.8808,-88.5803,12,"wild bird",1
+28023,"MS","clarke county",32.0414,-88.6894,12,"wild bird",1
+28025,"MS","clay county",33.6557,-88.7816,13,"wild bird",10
+28033,"MS","desoto county",34.8753,-89.9912,12,"wild bird",1
+28055,"MS","issaquena county",32.7414,-90.9892,12,"wild bird",7
+28055,"MS","issaquena county",32.7414,-90.9892,13,"wild bird",1
+28055,"MS","issaquena county",32.7414,-90.9892,9,"wild bird",7
+28061,"MS","jasper county",32.0191,-89.1189,13,"wild bird",20
+28067,"MS","jones county",31.6226,-89.1688,13,"wild bird",10
+28071,"MS","lafayette county",34.3568,-89.485,12,"wild bird",1
+28077,"MS","lawrence county",31.5502,-90.107,11,"poultry",34400
+28077,"MS","lawrence county",31.5502,-90.107,12,"wild bird",1
+28083,"MS","leflore county",33.5505,-90.3011,12,"wild bird",11
+28087,"MS","lowndes county",33.4729,-88.4433,11,"non-poultry",0
+28087,"MS","lowndes county",33.4729,-88.4433,12,"wild bird",17
+28089,"MS","madison county",32.6347,-90.0337,12,"wild bird",7
+28095,"MS","monroe county",33.8923,-88.4805,12,"wild bird",1
+28103,"MS","noxubee county",33.1101,-88.5697,12,"wild bird",20
+28105,"MS","oktibbeha county",33.4249,-88.8793,12,"wild bird",5
+28107,"MS","panola county",34.3639,-89.9506,12,"wild bird",1
+28121,"MS","rankin county",32.2641,-89.9458,13,"wild bird",1
+28123,"MS","scott county",32.4064,-89.5376,12,"wild bird",1
+28135,"MS","tallahatchie county",33.9505,-90.1733,12,"wild bird",60
+28151,"MS","washington county",33.2838,-90.9474,12,"wild bird",1
+28151,"MS","washington county",33.2838,-90.9474,9,"wild bird",1
+28159,"MS","winston county",33.0885,-89.0344,13,"wild bird",1
+28163,"MS","yazoo county",32.7803,-90.3964,12,"wild bird",1
+30001,"MT","beaverhead county",45.1327,-112.8988,5,"wild bird",1
+30001,"MT","beaverhead county",45.1327,-112.8988,9,"wild bird",1
+30003,"MT","big horn county",45.4234,-107.4897,12,"wild bird",8
+30007,"MT","broadwater county",46.3324,-111.4955,5,"wild bird",4
+30013,"MT","cascade county",47.308,-111.347,12,"wild bird",1
+30013,"MT","cascade county",47.308,-111.347,13,"non-poultry",10
+30013,"MT","cascade county",47.308,-111.347,13,"wild bird",2
+30013,"MT","cascade county",47.308,-111.347,4,"poultry",22000
+30013,"MT","cascade county",47.308,-111.347,5,"wild bird",3
+30017,"MT","custer county",46.2527,-105.5717,5,"wild bird",1
+30021,"MT","dawson county",47.2664,-104.8995,5,"wild bird",1
+30023,"MT","deer lodge county",46.0608,-113.0678,5,"wild bird",1
+30027,"MT","fergus county",47.2636,-109.2245,4,"non-poultry",110
+30027,"MT","fergus county",47.2636,-109.2245,5,"non-poultry",20
+30027,"MT","fergus county",47.2636,-109.2245,5,"wild bird",3
+30029,"MT","flathead county",48.2951,-114.0497,12,"non-poultry",0
+30029,"MT","flathead county",48.2951,-114.0497,7,"non-poultry",7
+30029,"MT","flathead county",48.2951,-114.0497,7,"wild bird",1
+30029,"MT","flathead county",48.2951,-114.0497,9,"wild bird",2
+30031,"MT","gallatin county",45.5404,-111.1704,10,"wild bird",3
+30031,"MT","gallatin county",45.5404,-111.1704,13,"wild bird",1
+30031,"MT","gallatin county",45.5404,-111.1704,4,"non-poultry",20
+30031,"MT","gallatin county",45.5404,-111.1704,4,"wild bird",3
+30031,"MT","gallatin county",45.5404,-111.1704,5,"wild bird",8
+30031,"MT","gallatin county",45.5404,-111.1704,6,"wild bird",1
+30033,"MT","garfield county",47.2776,-106.9929,12,"wild bird",1
+30035,"MT","glacier county",48.7051,-112.9948,10,"non-poultry",1100
+30035,"MT","glacier county",48.7051,-112.9948,4,"poultry",54200
+30039,"MT","granite county",46.4045,-113.4404,11,"poultry",40
+30041,"MT","hill county",48.6282,-110.1112,10,"non-poultry",60
+30041,"MT","hill county",48.6282,-110.1112,10,"wild bird",1
+30045,"MT","judith basin county",47.0455,-110.266,4,"non-poultry",20
+30047,"MT","lake county",47.6459,-114.0894,10,"wild bird",14
+30047,"MT","lake county",47.6459,-114.0894,12,"wild bird",3
+30047,"MT","lake county",47.6459,-114.0894,5,"wild bird",1
+30049,"MT","lewis and clark county",47.1224,-112.3905,11,"captive wild bird",1
+30049,"MT","lewis and clark county",47.1224,-112.3905,4,"wild bird",1
+30057,"MT","madison county",45.3007,-111.9203,5,"wild bird",3
+30061,"MT","mineral county",47.1472,-114.9983,5,"wild bird",1
+30063,"MT","missoula county",47.0365,-113.9237,12,"wild bird",1
+30063,"MT","missoula county",47.0365,-113.9237,4,"non-poultry",70
+30063,"MT","missoula county",47.0365,-113.9237,6,"wild bird",1
+30063,"MT","missoula county",47.0365,-113.9237,9,"wild bird",1
+30067,"MT","park county",45.4884,-110.5267,5,"wild bird",1
+30073,"MT","pondera county",48.2279,-112.2267,4,"non-poultry",2000
+30073,"MT","pondera county",48.2279,-112.2267,5,"wild bird",2
+30081,"MT","ravalli county",46.0817,-114.1207,10,"wild bird",1
+30081,"MT","ravalli county",46.0817,-114.1207,13,"wild bird",1
+30081,"MT","ravalli county",46.0817,-114.1207,5,"wild bird",2
+30081,"MT","ravalli county",46.0817,-114.1207,6,"wild bird",2
+30081,"MT","ravalli county",46.0817,-114.1207,9,"wild bird",1
+30093,"MT","silver bow county",45.9024,-112.6567,5,"wild bird",1
+30099,"MT","teton county",47.8372,-112.2406,10,"wild bird",11
+30099,"MT","teton county",47.8372,-112.2406,11,"wild bird",2
+30099,"MT","teton county",47.8372,-112.2406,4,"wild bird",1
+30099,"MT","teton county",47.8372,-112.2406,5,"wild bird",6
+30099,"MT","teton county",47.8372,-112.2406,9,"poultry",2800
+30101,"MT","toole county",48.6554,-111.6957,12,"wild bird",1
+30101,"MT","toole county",48.6554,-111.6957,4,"non-poultry",20
+30111,"MT","yellowstone county",45.9373,-108.2744,12,"wild bird",1
+30111,"MT","yellowstone county",45.9373,-108.2744,13,"wild bird",1
+30111,"MT","yellowstone county",45.9373,-108.2744,4,"captive wild bird",1
+30111,"MT","yellowstone county",45.9373,-108.2744,4,"wild bird",2
+37013,"NC","beaufort county",35.494,-76.8598,1,"wild bird",9
+37013,"NC","beaufort county",35.494,-76.8598,11,"wild bird",5
+37013,"NC","beaufort county",35.494,-76.8598,2,"wild bird",4
+37013,"NC","beaufort county",35.494,-76.8598,3,"wild bird",1
+37017,"NC","bladen county",34.6146,-78.5637,2,"wild bird",4
+37019,"NC","brunswick county",34.071,-78.2377,3,"wild bird",1
+37031,"NC","carteret county",34.8357,-76.6589,11,"wild bird",1
+37031,"NC","carteret county",34.8357,-76.6589,2,"wild bird",1
+37031,"NC","carteret county",34.8357,-76.6589,9,"wild bird",1
+37037,"NC","chatham county",35.7026,-79.2553,11,"wild bird",1
+37049,"NC","craven county",35.1249,-77.0939,2,"wild bird",1
+37049,"NC","craven county",35.1249,-77.0939,4,"wild bird",1
+37053,"NC","currituck county",36.4031,-76.0059,2,"wild bird",11
+37053,"NC","currituck county",36.4031,-76.0059,4,"wild bird",1
+37055,"NC","dare county",35.7805,-75.7982,13,"wild bird",2
+37055,"NC","dare county",35.7805,-75.7982,3,"wild bird",1
+37057,"NC","davidson county",35.7933,-80.2128,3,"wild bird",1
+37063,"NC","durham county",36.036,-78.8766,11,"non-poultry",30
+37063,"NC","durham county",36.036,-78.8766,11,"wild bird",1
+37063,"NC","durham county",36.036,-78.8766,4,"wild bird",1
+37077,"NC","granville county",36.304,-78.6527,11,"wild bird",1
+37081,"NC","guilford county",36.0795,-79.7889,12,"wild bird",1
+37087,"NC","haywood county",35.556,-82.9822,11,"wild bird",1
+37095,"NC","hyde county",35.5305,-76.2509,1,"wild bird",7
+37095,"NC","hyde county",35.5305,-76.2509,12,"wild bird",8
+37095,"NC","hyde county",35.5305,-76.2509,13,"wild bird",4
+37095,"NC","hyde county",35.5305,-76.2509,2,"wild bird",26
+37101,"NC","johnston county",35.5178,-78.3657,12,"wild bird",2
+37101,"NC","johnston county",35.5178,-78.3657,3,"poultry",32100
+37101,"NC","johnston county",35.5178,-78.3657,4,"poultry",28400
+37133,"NC","onslow county",34.7321,-77.4321,11,"wild bird",1
+37133,"NC","onslow county",34.7321,-77.4321,12,"non-poultry",60
+37133,"NC","onslow county",34.7321,-77.4321,12,"wild bird",1
+37135,"NC","orange county",36.0611,-79.1207,11,"wild bird",2
+37137,"NC","pamlico county",35.1435,-76.7407,1,"wild bird",38
+37137,"NC","pamlico county",35.1435,-76.7407,12,"wild bird",1
+37137,"NC","pamlico county",35.1435,-76.7407,2,"wild bird",36
+37137,"NC","pamlico county",35.1435,-76.7407,3,"wild bird",1
+37137,"NC","pamlico county",35.1435,-76.7407,4,"wild bird",1
+37159,"NC","rowan county",35.6394,-80.5248,13,"non-poultry",2
+37161,"NC","rutherford county",35.4026,-81.9198,11,"wild bird",3
+37179,"NC","union county",34.9884,-80.5307,11,"captive wild bird",1
+37179,"NC","union county",34.9884,-80.5307,11,"non-poultry",50
+37179,"NC","union county",34.9884,-80.5307,12,"non-poultry",9
+37183,"NC","wake county",35.7903,-78.6503,10,"captive wild bird",2
+37183,"NC","wake county",35.7903,-78.6503,10,"non-poultry",170
+37183,"NC","wake county",35.7903,-78.6503,11,"captive wild bird",1
+37183,"NC","wake county",35.7903,-78.6503,11,"wild bird",3
+37183,"NC","wake county",35.7903,-78.6503,12,"captive wild bird",1
+37183,"NC","wake county",35.7903,-78.6503,13,"captive wild bird",1
+37183,"NC","wake county",35.7903,-78.6503,3,"wild bird",1
+37187,"NC","washington county",35.8226,-76.5775,12,"wild bird",1
+37187,"NC","washington county",35.8226,-76.5775,13,"wild bird",1
+37191,"NC","wayne county",35.364,-78.004,4,"poultry",420900
+38003,"ND","barnes county",46.9361,-98.0715,4,"poultry",90
+38005,"ND","benson county",48.0694,-99.366,10,"wild bird",1
+38005,"ND","benson county",48.0694,-99.366,5,"wild bird",7
+38005,"ND","benson county",48.0694,-99.366,6,"wild bird",1
+38009,"ND","bottineau county",48.7922,-100.8333,11,"poultry",130
+38009,"ND","bottineau county",48.7922,-100.8333,4,"wild bird",5
+38009,"ND","bottineau county",48.7922,-100.8333,5,"wild bird",4
+38013,"ND","burke county",48.791,-102.5182,5,"non-poultry",50
+38015,"ND","burleigh county",46.9775,-100.4687,10,"wild bird",4
+38015,"ND","burleigh county",46.9775,-100.4687,12,"wild bird",1
+38015,"ND","burleigh county",46.9775,-100.4687,3,"wild bird",1
+38015,"ND","burleigh county",46.9775,-100.4687,4,"wild bird",1
+38015,"ND","burleigh county",46.9775,-100.4687,5,"wild bird",5
+38017,"ND","cass county",46.933,-97.248,11,"wild bird",1
+38017,"ND","cass county",46.933,-97.248,4,"non-poultry",110
+38017,"ND","cass county",46.933,-97.248,4,"wild bird",1
+38017,"ND","cass county",46.933,-97.248,5,"wild bird",2
+38017,"ND","cass county",46.933,-97.248,9,"non-poultry",6
+38017,"ND","cass county",46.933,-97.248,9,"wild bird",1
+38021,"ND","dickey county",46.1102,-98.5047,3,"poultry",30
+38021,"ND","dickey county",46.1102,-98.5047,4,"poultry",60700
+38021,"ND","dickey county",46.1102,-98.5047,4,"wild bird",1
+38021,"ND","dickey county",46.1102,-98.5047,5,"wild bird",2
+38023,"ND","divide county",48.8149,-103.4872,5,"wild bird",3
+38025,"ND","dunn county",47.3568,-102.6182,9,"wild bird",30
+38029,"ND","emmons county",46.2851,-100.2387,4,"wild bird",25
+38031,"ND","foster county",47.4571,-98.883,3,"wild bird",21
+38031,"ND","foster county",47.4571,-98.883,4,"wild bird",2
+38035,"ND","grand forks county",47.9219,-97.4569,4,"wild bird",1
+38035,"ND","grand forks county",47.9219,-97.4569,8,"wild bird",1
+38037,"ND","grant county",46.3583,-101.6397,4,"wild bird",1
+38037,"ND","grant county",46.3583,-101.6397,5,"wild bird",1
+38041,"ND","hettinger county",46.4325,-102.4603,5,"wild bird",2
+38043,"ND","kidder county",46.9801,-99.7801,3,"poultry",30
+38043,"ND","kidder county",46.9801,-99.7801,9,"wild bird",1
+38045,"ND","lamoure county",46.4569,-98.5355,3,"wild bird",1
+38045,"ND","lamoure county",46.4569,-98.5355,4,"non-poultry",10
+38045,"ND","lamoure county",46.4569,-98.5355,4,"poultry",78300
+38045,"ND","lamoure county",46.4569,-98.5355,5,"wild bird",4
+38047,"ND","logan county",46.4573,-99.4774,10,"wild bird",6
+38049,"ND","mchenry county",48.2346,-100.6363,4,"wild bird",14
+38049,"ND","mchenry county",48.2346,-100.6363,5,"wild bird",1
+38049,"ND","mchenry county",48.2346,-100.6363,6,"poultry",30
+38053,"ND","mckenzie county",47.7402,-103.3953,10,"wild bird",1
+38055,"ND","mclean county",47.6069,-101.3218,4,"wild bird",1
+38057,"ND","mercer county",47.3092,-101.8315,4,"wild bird",3
+38057,"ND","mercer county",47.3092,-101.8315,5,"wild bird",1
+38059,"ND","morton county",46.7161,-101.2811,5,"wild bird",1
+38061,"ND","mountrail county",48.2013,-102.3557,11,"non-poultry",40
+38063,"ND","nelson county",47.9217,-98.192,9,"non-poultry",50
+38063,"ND","nelson county",47.9217,-98.192,9,"wild bird",1
+38069,"ND","pierce county",48.2496,-99.9718,4,"wild bird",4
+38069,"ND","pierce county",48.2496,-99.9718,5,"wild bird",1
+38071,"ND","ramsey county",48.2689,-98.7201,10,"wild bird",4
+38071,"ND","ramsey county",48.2689,-98.7201,4,"wild bird",1
+38071,"ND","ramsey county",48.2689,-98.7201,5,"wild bird",3
+38073,"ND","ransom county",46.4562,-97.6574,4,"wild bird",1
+38073,"ND","ransom county",46.4562,-97.6574,9,"poultry",69100
+38075,"ND","renville county",48.719,-101.6578,3,"wild bird",2
+38075,"ND","renville county",48.719,-101.6578,4,"non-poultry",70
+38075,"ND","renville county",48.719,-101.6578,4,"wild bird",6
+38077,"ND","richland county",46.2646,-96.9483,4,"poultry",27520
+38079,"ND","rolette county",48.7725,-99.8409,4,"captive wild bird",1
+38081,"ND","sargent county",46.1078,-97.6306,4,"wild bird",6
+38083,"ND","sheridan county",47.5755,-100.3456,4,"non-poultry",30
+38083,"ND","sheridan county",47.5755,-100.3456,4,"wild bird",7
+38087,"ND","slope county",46.4472,-103.4599,5,"wild bird",1
+38089,"ND","stark county",46.8107,-102.6551,5,"wild bird",2
+38091,"ND","steele county",47.4562,-97.7246,5,"wild bird",1
+38093,"ND","stutsman county",46.9793,-98.9588,10,"wild bird",5
+38093,"ND","stutsman county",46.9793,-98.9588,3,"wild bird",6
+38093,"ND","stutsman county",46.9793,-98.9588,4,"poultry",60
+38093,"ND","stutsman county",46.9793,-98.9588,4,"wild bird",19
+38093,"ND","stutsman county",46.9793,-98.9588,5,"wild bird",16
+38093,"ND","stutsman county",46.9793,-98.9588,6,"wild bird",2
+38095,"ND","towner county",48.6855,-99.2458,4,"wild bird",23
+38095,"ND","towner county",48.6855,-99.2458,5,"wild bird",19
+38097,"ND","traill county",47.4542,-97.1616,10,"non-poultry",90
+38101,"ND","ward county",48.2217,-101.5418,11,"poultry",20
+38101,"ND","ward county",48.2217,-101.5418,4,"wild bird",9
+38101,"ND","ward county",48.2217,-101.5418,9,"poultry",60
+38103,"ND","wells county",47.5875,-99.6609,4,"wild bird",6
+38105,"ND","williams county",48.3437,-103.4802,5,"wild bird",1
+31013,"NE","box butte county",42.2198,-103.0857,10,"non-poultry",100
+31013,"NE","box butte county",42.2198,-103.0857,12,"wild bird",5
+31017,"NE","brown county",42.43,-99.9295,3,"wild bird",1
+31023,"NE","butler county",41.2261,-97.1318,3,"poultry",988500
+31027,"NE","cedar county",42.5993,-97.2524,3,"wild bird",1
+31033,"NE","cheyenne county",41.2197,-102.995,13,"wild bird",1
+31037,"NE","colfax county",41.574,-97.0865,12,"wild bird",3
+31045,"NE","dawes county",42.7198,-103.1354,9,"non-poultry",40
+31049,"NE","deuel county",41.1116,-102.3339,12,"wild bird",2
+31051,"NE","dixon county",42.4931,-96.8677,11,"poultry",1700000
+31051,"NE","dixon county",42.4931,-96.8677,4,"poultry",1746900
+31055,"NE","douglas county",41.2954,-96.1543,10,"wild bird",1
+31055,"NE","douglas county",41.2954,-96.1543,12,"wild bird",2
+31055,"NE","douglas county",41.2954,-96.1543,13,"wild bird",1
+31055,"NE","douglas county",41.2954,-96.1543,3,"wild bird",1
+31055,"NE","douglas county",41.2954,-96.1543,4,"wild bird",1
+31089,"NE","holt county",42.4557,-98.7838,3,"non-poultry",50
+31107,"NE","knox county",42.6368,-97.8919,12,"non-poultry",10
+31107,"NE","knox county",42.6368,-97.8919,12,"poultry",160
+31107,"NE","knox county",42.6368,-97.8919,4,"poultry",2118000
+31109,"NE","lancaster county",40.7842,-96.6878,12,"wild bird",1
+31109,"NE","lancaster county",40.7842,-96.6878,3,"wild bird",1
+31109,"NE","lancaster county",40.7842,-96.6878,4,"wild bird",2
+31109,"NE","lancaster county",40.7842,-96.6878,5,"wild bird",1
+31111,"NE","lincoln county",41.0478,-100.7452,13,"wild bird",2
+31121,"NE","merrick county",41.169,-98.038,3,"non-poultry",90
+31131,"NE","otoe county",40.6485,-96.1348,3,"wild bird",1
+31145,"NE","red willow county",40.1758,-100.4769,12,"wild bird",2
+31153,"NE","sarpy county",41.1129,-96.1119,5,"wild bird",1
+31157,"NE","scotts bluff county",41.8505,-103.708,13,"non-poultry",7
+31157,"NE","scotts bluff county",41.8505,-103.708,4,"non-poultry",30
+31157,"NE","scotts bluff county",41.8505,-103.708,4,"wild bird",2
+31177,"NE","washington county",41.5311,-96.222,4,"non-poultry",50
+31185,"NE","york county",40.8727,-97.5971,10,"poultry",174400
+31185,"NE","york county",40.8727,-97.5971,11,"wild bird",1
+33001,"NH","belknap county",43.5179,-71.4227,13,"non-poultry",40
+33001,"NH","belknap county",43.5179,-71.4227,4,"wild bird",2
+33009,"NH","grafton county",43.9407,-71.8208,2,"wild bird",3
+33009,"NH","grafton county",43.9407,-71.8208,7,"wild bird",1
+33011,"NH","hillsborough county",42.9153,-71.7161,9,"wild bird",1
+33013,"NH","merrimack county",43.2975,-71.6802,5,"wild bird",1
+33013,"NH","merrimack county",43.2975,-71.6802,9,"poultry",250
+33013,"NH","merrimack county",43.2975,-71.6802,9,"wild bird",10
+33015,"NH","rockingham county",42.9876,-71.1254,2,"wild bird",46
+33015,"NH","rockingham county",42.9876,-71.1254,3,"non-poultry",150
+33015,"NH","rockingham county",42.9876,-71.1254,3,"wild bird",2
+33015,"NH","rockingham county",42.9876,-71.1254,4,"wild bird",1
+33015,"NH","rockingham county",42.9876,-71.1254,7,"wild bird",4
+33017,"NH","strafford county",43.297,-71.0289,3,"wild bird",3
+33019,"NH","sullivan county",43.3614,-72.2222,5,"wild bird",1
+34003,"NJ","bergen county",40.9597,-74.0742,11,"non-poultry",60
+34009,"NJ","cape may county",39.1496,-74.8002,2,"wild bird",21
+34021,"NJ","mercer county",40.2834,-74.7018,12,"wild bird",2
+34025,"NJ","monmouth county",40.2603,-74.2213,5,"poultry",60
+34025,"NJ","monmouth county",40.2603,-74.2213,5,"wild bird",14
+34029,"NJ","ocean county",39.8855,-74.2813,10,"non-poultry",90
+34029,"NJ","ocean county",39.8855,-74.2813,10,"wild bird",3
+34033,"NJ","salem county",39.5876,-75.3491,12,"wild bird",1
+34033,"NJ","salem county",39.5876,-75.3491,5,"wild bird",5
+34033,"NJ","salem county",39.5876,-75.3491,7,"wild bird",1
+34037,"NJ","sussex county",41.1393,-74.6908,10,"wild bird",11
+34037,"NJ","sussex county",41.1393,-74.6908,8,"wild bird",5
+34041,"NJ","warren county",40.8572,-74.9973,10,"non-poultry",6
+34041,"NJ","warren county",40.8572,-74.9973,10,"wild bird",1
+34041,"NJ","warren county",40.8572,-74.9973,9,"wild bird",3
+35001,"NM","bernalillo county",35.0514,-106.6702,10,"captive wild bird",1
+35001,"NM","bernalillo county",35.0514,-106.6702,10,"non-poultry",40
+35049,"NM","santa fe county",35.5069,-105.9763,13,"wild bird",1
+35053,"NM","socorro county",34.0072,-106.9304,12,"wild bird",3
+32510,"NV","carson city",39.1511,-119.7476,10,"wild bird",1
+32510,"NV","carson city",39.1511,-119.7476,7,"non-poultry",40
+32001,"NV","churchill county",39.5808,-118.3358,11,"wild bird",7
+32001,"NV","churchill county",39.5808,-118.3358,12,"wild bird",1
+32001,"NV","churchill county",39.5808,-118.3358,8,"wild bird",10
+32001,"NV","churchill county",39.5808,-118.3358,9,"wild bird",2
+32003,"NV","clark county",36.2152,-115.0135,10,"wild bird",2
+32005,"NV","douglas county",38.9123,-119.6162,8,"wild bird",1
+32005,"NV","douglas county",38.9123,-119.6162,9,"captive wild bird",1
+32007,"NV","elko county",41.1458,-115.3577,10,"wild bird",3
+32013,"NV","humboldt county",41.4068,-118.112,11,"wild bird",1
+32013,"NV","humboldt county",41.4068,-118.112,12,"wild bird",1
+32019,"NV","lyon county",39.0206,-119.189,10,"wild bird",6
+32019,"NV","lyon county",39.0206,-119.189,13,"wild bird",1
+32021,"NV","mineral county",38.5386,-118.435,11,"wild bird",2
+32021,"NV","mineral county",38.5386,-118.435,12,"wild bird",4
+32023,"NV","nye county",38.0424,-116.472,10,"poultry",1600
+32027,"NV","pershing county",40.4403,-118.4045,12,"wild bird",1
+32031,"NV","washoe county",40.6656,-119.6643,10,"wild bird",3
+32031,"NV","washoe county",40.6656,-119.6643,9,"wild bird",12
+36001,"NY","albany county",42.6002,-73.9736,10,"wild bird",5
+36001,"NY","albany county",42.6002,-73.9736,13,"wild bird",1
+36001,"NY","albany county",42.6002,-73.9736,4,"wild bird",1
+36001,"NY","albany county",42.6002,-73.9736,5,"wild bird",1
+36001,"NY","albany county",42.6002,-73.9736,9,"wild bird",10
+36005,"NY","bronx county",40.85,-73.8661,9,"captive wild bird",5
+36009,"NY","cattaraugus county",42.2486,-78.6788,5,"wild bird",1
+36011,"NY","cayuga county",42.9175,-76.5545,13,"wild bird",1
+36011,"NY","cayuga county",42.9175,-76.5545,3,"wild bird",5
+36011,"NY","cayuga county",42.9175,-76.5545,4,"wild bird",1
+36013,"NY","chautauqua county",42.2281,-79.3663,5,"wild bird",1
+36013,"NY","chautauqua county",42.2281,-79.3663,6,"wild bird",1
+36015,"NY","chemung county",42.1412,-76.76,9,"wild bird",1
+36019,"NY","clinton county",44.7462,-73.6782,12,"wild bird",1
+36019,"NY","clinton county",44.7462,-73.6782,13,"wild bird",3
+36019,"NY","clinton county",44.7462,-73.6782,4,"wild bird",2
+36019,"NY","clinton county",44.7462,-73.6782,5,"wild bird",1
+36019,"NY","clinton county",44.7462,-73.6782,9,"wild bird",1
+36021,"NY","columbia county",42.2501,-73.6318,10,"wild bird",2
+36023,"NY","cortland county",42.595,-76.0703,9,"wild bird",2
+36027,"NY","dutchess county",41.7651,-73.7429,10,"wild bird",2
+36027,"NY","dutchess county",41.7651,-73.7429,13,"wild bird",1
+36027,"NY","dutchess county",41.7651,-73.7429,2,"non-poultry",200
+36027,"NY","dutchess county",41.7651,-73.7429,7,"wild bird",1
+36029,"NY","erie county",42.7639,-78.7323,12,"wild bird",1
+36029,"NY","erie county",42.7639,-78.7323,5,"wild bird",1
+36031,"NY","essex county",44.1172,-73.7726,12,"wild bird",3
+36033,"NY","franklin county",44.5929,-74.3038,13,"wild bird",3
+36033,"NY","franklin county",44.5929,-74.3038,6,"wild bird",1
+36035,"NY","fulton county",43.1138,-74.4222,4,"non-poultry",4
+36037,"NY","genesee county",43.0009,-78.1937,10,"wild bird",21
+36045,"NY","jefferson county",44.0495,-75.9208,11,"wild bird",1
+36045,"NY","jefferson county",44.0495,-75.9208,6,"wild bird",1
+36045,"NY","jefferson county",44.0495,-75.9208,7,"wild bird",2
+36047,"NY","kings county",40.6395,-73.9385,11,"wild bird",1
+36051,"NY","livingston county",42.7281,-77.7755,11,"wild bird",1
+36051,"NY","livingston county",42.7281,-77.7755,4,"wild bird",1
+36051,"NY","livingston county",42.7281,-77.7755,5,"wild bird",2
+36051,"NY","livingston county",42.7281,-77.7755,6,"wild bird",1
+36053,"NY","madison county",42.9128,-75.6697,10,"wild bird",1
+36055,"NY","monroe county",43.1464,-77.6961,11,"wild bird",2
+36055,"NY","monroe county",43.1464,-77.6961,3,"poultry",400
+36055,"NY","monroe county",43.1464,-77.6961,4,"wild bird",1
+36055,"NY","monroe county",43.1464,-77.6961,5,"wild bird",3
+36055,"NY","monroe county",43.1464,-77.6961,9,"wild bird",2
+36059,"NY","nassau county",40.7328,-73.5865,10,"wild bird",2
+36059,"NY","nassau county",40.7328,-73.5865,11,"wild bird",1
+36059,"NY","nassau county",40.7328,-73.5865,12,"wild bird",1
+36059,"NY","nassau county",40.7328,-73.5865,13,"wild bird",1
+36059,"NY","nassau county",40.7328,-73.5865,4,"wild bird",1
+36059,"NY","nassau county",40.7328,-73.5865,9,"wild bird",1
+36065,"NY","oneida county",43.2417,-75.4358,7,"wild bird",2
+36065,"NY","oneida county",43.2417,-75.4358,9,"wild bird",23
+36067,"NY","onondaga county",43.0058,-76.1946,10,"captive wild bird",1
+36067,"NY","onondaga county",43.0058,-76.1946,13,"wild bird",4
+36067,"NY","onondaga county",43.0058,-76.1946,3,"captive wild bird",2
+36067,"NY","onondaga county",43.0058,-76.1946,4,"wild bird",2
+36067,"NY","onondaga county",43.0058,-76.1946,7,"wild bird",1
+36071,"NY","orange county",41.4021,-74.3056,10,"wild bird",2
+36071,"NY","orange county",41.4021,-74.3056,12,"wild bird",2
+36071,"NY","orange county",41.4021,-74.3056,5,"wild bird",1
+36071,"NY","orange county",41.4021,-74.3056,6,"wild bird",1
+36071,"NY","orange county",41.4021,-74.3056,9,"wild bird",1
+36073,"NY","orleans county",43.2521,-78.2312,4,"poultry",30
+36075,"NY","oswego county",43.4269,-76.1413,5,"wild bird",1
+36081,"NY","queens county",40.7023,-73.8203,11,"poultry",170
+36083,"NY","rensselaer county",42.7111,-73.5097,11,"wild bird",1
+36083,"NY","rensselaer county",42.7111,-73.5097,13,"wild bird",1
+36083,"NY","rensselaer county",42.7111,-73.5097,6,"wild bird",1
+36087,"NY","rockland county",41.1524,-74.0241,5,"wild bird",1
+36087,"NY","rockland county",41.1524,-74.0241,9,"wild bird",4
+36091,"NY","saratoga county",43.1074,-73.8639,11,"wild bird",2
+36091,"NY","saratoga county",43.1074,-73.8639,13,"wild bird",1
+36091,"NY","saratoga county",43.1074,-73.8639,5,"wild bird",1
+36091,"NY","saratoga county",43.1074,-73.8639,6,"wild bird",1
+36093,"NY","schenectady county",42.8181,-74.0586,5,"wild bird",1
+36095,"NY","schoharie county",42.5882,-74.4421,5,"wild bird",2
+36099,"NY","seneca county",42.781,-76.8238,11,"wild bird",1
+36099,"NY","seneca county",42.781,-76.8238,12,"wild bird",16
+36099,"NY","seneca county",42.781,-76.8238,13,"wild bird",1
+36099,"NY","seneca county",42.781,-76.8238,3,"wild bird",3
+36099,"NY","seneca county",42.781,-76.8238,5,"wild bird",1
+36099,"NY","seneca county",42.781,-76.8238,7,"wild bird",1
+36099,"NY","seneca county",42.781,-76.8238,9,"wild bird",8
+36089,"NY","st. lawrence county",44.4964,-75.069,4,"wild bird",1
+36089,"NY","st. lawrence county",44.4964,-75.069,6,"wild bird",3
+36101,"NY","steuben county",42.2678,-77.3838,10,"wild bird",1
+36103,"NY","suffolk county",40.8686,-72.8448,12,"wild bird",2
+36103,"NY","suffolk county",40.8686,-72.8448,13,"non-poultry",10
+36103,"NY","suffolk county",40.8686,-72.8448,13,"wild bird",2
+36103,"NY","suffolk county",40.8686,-72.8448,2,"non-poultry",8
+36103,"NY","suffolk county",40.8686,-72.8448,2,"wild bird",1
+36103,"NY","suffolk county",40.8686,-72.8448,3,"poultry",8790
+36103,"NY","suffolk county",40.8686,-72.8448,3,"wild bird",3
+36103,"NY","suffolk county",40.8686,-72.8448,4,"wild bird",6
+36103,"NY","suffolk county",40.8686,-72.8448,5,"captive wild bird",4
+36103,"NY","suffolk county",40.8686,-72.8448,5,"wild bird",2
+36103,"NY","suffolk county",40.8686,-72.8448,6,"wild bird",1
+36105,"NY","sullivan county",41.7164,-74.7681,11,"non-poultry",110
+36105,"NY","sullivan county",41.7164,-74.7681,12,"wild bird",1
+36105,"NY","sullivan county",41.7164,-74.7681,9,"wild bird",3
+36109,"NY","tompkins county",42.452,-76.4736,12,"wild bird",1
+36109,"NY","tompkins county",42.452,-76.4736,13,"wild bird",1
+36109,"NY","tompkins county",42.452,-76.4736,9,"wild bird",1
+36111,"NY","ulster county",41.8881,-74.2586,11,"wild bird",1
+36111,"NY","ulster county",41.8881,-74.2586,2,"non-poultry",70
+36113,"NY","warren county",43.561,-73.846,5,"wild bird",1
+36115,"NY","washington county",43.3137,-73.4308,5,"wild bird",1
+36115,"NY","washington county",43.3137,-73.4308,9,"wild bird",1
+36117,"NY","wayne county",43.1566,-77.0294,11,"non-poultry",10
+36117,"NY","wayne county",43.1566,-77.0294,3,"wild bird",2
+36117,"NY","wayne county",43.1566,-77.0294,4,"wild bird",3
+36119,"NY","westchester county",41.1624,-73.7561,10,"wild bird",1
+36119,"NY","westchester county",41.1624,-73.7561,11,"wild bird",1
+36121,"NY","wyoming county",42.7024,-78.2244,9,"wild bird",1
+36123,"NY","yates county",42.6335,-77.1055,10,"wild bird",18
+36123,"NY","yates county",42.6335,-77.1055,12,"wild bird",1
+36123,"NY","yates county",42.6335,-77.1055,4,"wild bird",1
+36123,"NY","yates county",42.6335,-77.1055,9,"wild bird",2
+39003,"OH","allen county",40.7715,-84.1058,9,"non-poultry",2
+39005,"OH","ashland county",40.846,-82.2707,9,"non-poultry",640
+39011,"OH","auglaize county",40.5609,-84.2218,4,"wild bird",1
+39017,"OH","butler county",39.4386,-84.5756,11,"poultry",150
+39025,"OH","clermont county",39.0476,-84.1517,11,"wild bird",1
+39027,"OH","clinton county",39.4149,-83.8084,4,"wild bird",1
+39035,"OH","cuyahoga county",41.4243,-81.6586,10,"wild bird",3
+39035,"OH","cuyahoga county",41.4243,-81.6586,3,"wild bird",2
+39035,"OH","cuyahoga county",41.4243,-81.6586,5,"wild bird",1
+39039,"OH","defiance county",41.3239,-84.4905,9,"poultry",3748500
+39041,"OH","delaware county",40.2784,-83.0049,9,"captive wild bird",7
+39043,"OH","erie county",41.3641,-82.6194,3,"wild bird",1
+39049,"OH","franklin county",39.9695,-83.0093,10,"captive wild bird",1
+39049,"OH","franklin county",39.9695,-83.0093,3,"non-poultry",8
+39059,"OH","guernsey county",40.052,-81.4942,3,"wild bird",1
+39089,"OH","licking county",40.0916,-82.4831,13,"non-poultry",30
+39113,"OH","montgomery county",39.7547,-84.2907,4,"wild bird",1
+39123,"OH","ottawa county",41.5379,-83.1434,10,"wild bird",43
+39123,"OH","ottawa county",41.5379,-83.1434,3,"wild bird",26
+39123,"OH","ottawa county",41.5379,-83.1434,4,"wild bird",1
+39133,"OH","portage county",41.1677,-81.1974,10,"non-poultry",50
+39143,"OH","sandusky county",41.3562,-83.1464,3,"captive wild bird",1
+39153,"OH","summit county",41.126,-81.5322,9,"non-poultry",6
+39153,"OH","summit county",41.126,-81.5322,9,"wild bird",1
+39171,"OH","williams county",41.5603,-84.5882,9,"non-poultry",60
+40027,"OK","cleveland county",35.2031,-97.3265,10,"non-poultry",30
+40037,"OK","creek county",35.9026,-96.3708,10,"non-poultry",50
+40109,"OK","oklahoma county",35.5515,-97.4072,10,"wild bird",2
+40117,"OK","pawnee county",36.3169,-96.6992,12,"non-poultry",30
+40119,"OK","payne county",36.0773,-96.9756,10,"wild bird",3
+40119,"OK","payne county",36.0773,-96.9756,3,"wild bird",1
+40131,"OK","rogers county",36.3715,-95.6043,13,"wild bird",1
+40135,"OK","sequoyah county",35.4953,-94.7552,4,"poultry",13800
+40141,"OK","tillman county",34.3728,-98.9242,10,"wild bird",4
+40141,"OK","tillman county",34.3728,-98.9242,9,"wild bird",33
+40143,"OK","tulsa county",36.1211,-95.9415,10,"non-poultry",30
+41001,"OR","baker county",44.7092,-117.6753,9,"wild bird",2
+41003,"OR","benton county",44.4918,-123.4293,10,"wild bird",1
+41003,"OR","benton county",44.4918,-123.4293,11,"wild bird",2
+41003,"OR","benton county",44.4918,-123.4293,12,"wild bird",1
+41003,"OR","benton county",44.4918,-123.4293,7,"wild bird",3
+41005,"OR","clackamas county",45.188,-122.2209,10,"wild bird",1
+41005,"OR","clackamas county",45.188,-122.2209,11,"wild bird",1
+41005,"OR","clackamas county",45.188,-122.2209,12,"non-poultry",60
+41005,"OR","clackamas county",45.188,-122.2209,5,"wild bird",1
+41005,"OR","clackamas county",45.188,-122.2209,7,"wild bird",2
+41007,"OR","clatsop county",45.9949,-123.6557,10,"wild bird",6
+41007,"OR","clatsop county",45.9949,-123.6557,11,"wild bird",10
+41007,"OR","clatsop county",45.9949,-123.6557,13,"wild bird",4
+41007,"OR","clatsop county",45.9949,-123.6557,9,"wild bird",1
+41009,"OR","columbia county",45.9438,-123.0883,11,"non-poultry",30
+41009,"OR","columbia county",45.9438,-123.0883,11,"wild bird",73
+41009,"OR","columbia county",45.9438,-123.0883,12,"non-poultry",100
+41009,"OR","columbia county",45.9438,-123.0883,12,"wild bird",1
+41011,"OR","coos county",43.1742,-124.0594,11,"wild bird",1
+41011,"OR","coos county",43.1742,-124.0594,7,"non-poultry",20
+41013,"OR","crook county",44.1422,-120.3566,13,"wild bird",1
+41013,"OR","crook county",44.1422,-120.3566,8,"wild bird",3
+41017,"OR","deschutes county",43.915,-121.2282,11,"non-poultry",8
+41017,"OR","deschutes county",43.915,-121.2282,13,"wild bird",2
+41017,"OR","deschutes county",43.915,-121.2282,7,"non-poultry",210
+41017,"OR","deschutes county",43.915,-121.2282,7,"poultry",320
+41017,"OR","deschutes county",43.915,-121.2282,7,"wild bird",2
+41019,"OR","douglas county",43.2797,-123.1665,12,"wild bird",1
+41019,"OR","douglas county",43.2797,-123.1665,13,"non-poultry",0
+41019,"OR","douglas county",43.2797,-123.1665,8,"wild bird",1
+41019,"OR","douglas county",43.2797,-123.1665,9,"non-poultry",30
+41025,"OR","harney county",43.0641,-118.9679,6,"wild bird",1
+41025,"OR","harney county",43.0641,-118.9679,8,"wild bird",2
+41025,"OR","harney county",43.0641,-118.9679,9,"wild bird",2
+41029,"OR","jackson county",42.4322,-122.7285,10,"wild bird",3
+41029,"OR","jackson county",42.4322,-122.7285,13,"wild bird",1
+41029,"OR","jackson county",42.4322,-122.7285,9,"wild bird",1
+41033,"OR","josephine county",42.3655,-123.5555,10,"wild bird",2
+41033,"OR","josephine county",42.3655,-123.5555,13,"non-poultry",30
+41035,"OR","klamath county",42.6863,-121.6501,10,"wild bird",2
+41035,"OR","klamath county",42.6863,-121.6501,11,"wild bird",40
+41035,"OR","klamath county",42.6863,-121.6501,12,"wild bird",1
+41035,"OR","klamath county",42.6863,-121.6501,7,"wild bird",1
+41035,"OR","klamath county",42.6863,-121.6501,8,"wild bird",11
+41037,"OR","lake county",42.7935,-120.3874,11,"wild bird",20
+41037,"OR","lake county",42.7935,-120.3874,13,"wild bird",1
+41039,"OR","lane county",43.9387,-122.8479,10,"wild bird",2
+41039,"OR","lane county",43.9387,-122.8479,11,"wild bird",2
+41039,"OR","lane county",43.9387,-122.8479,12,"wild bird",7
+41039,"OR","lane county",43.9387,-122.8479,13,"wild bird",1
+41039,"OR","lane county",43.9387,-122.8479,5,"poultry",450
+41039,"OR","lane county",43.9387,-122.8479,5,"wild bird",6
+41039,"OR","lane county",43.9387,-122.8479,6,"wild bird",1
+41039,"OR","lane county",43.9387,-122.8479,7,"wild bird",2
+41041,"OR","lincoln county",44.642,-123.8682,11,"wild bird",1
+41041,"OR","lincoln county",44.642,-123.8682,12,"captive wild bird",1
+41041,"OR","lincoln county",44.642,-123.8682,12,"wild bird",1
+41041,"OR","lincoln county",44.642,-123.8682,13,"wild bird",1
+41043,"OR","linn county",44.4887,-122.5344,12,"non-poultry",20
+41043,"OR","linn county",44.4887,-122.5344,5,"non-poultry",90
+41043,"OR","linn county",44.4887,-122.5344,7,"non-poultry",40
+41045,"OR","malheur county",43.1934,-117.6231,10,"wild bird",1
+41045,"OR","malheur county",43.1934,-117.6231,12,"wild bird",1
+41047,"OR","marion county",44.9033,-122.5846,10,"wild bird",3
+41047,"OR","marion county",44.9033,-122.5846,11,"wild bird",1
+41047,"OR","marion county",44.9033,-122.5846,6,"wild bird",3
+41049,"OR","morrow county",45.419,-119.5844,10,"wild bird",35
+41049,"OR","morrow county",45.419,-119.5844,12,"wild bird",7
+41051,"OR","multnomah county",45.5468,-122.4148,10,"wild bird",1
+41051,"OR","multnomah county",45.5468,-122.4148,11,"wild bird",2
+41051,"OR","multnomah county",45.5468,-122.4148,13,"wild bird",3
+41051,"OR","multnomah county",45.5468,-122.4148,7,"wild bird",3
+41051,"OR","multnomah county",45.5468,-122.4148,8,"wild bird",4
+41053,"OR","polk county",44.9035,-123.4132,12,"non-poultry",90
+41053,"OR","polk county",44.9035,-123.4132,12,"wild bird",1
+41053,"OR","polk county",44.9035,-123.4132,13,"non-poultry",20
+41053,"OR","polk county",44.9035,-123.4132,6,"non-poultry",90
+41057,"OR","tillamook county",45.4637,-123.7127,10,"wild bird",1
+41057,"OR","tillamook county",45.4637,-123.7127,13,"wild bird",1
+41057,"OR","tillamook county",45.4637,-123.7127,9,"non-poultry",50
+41059,"OR","umatilla county",45.5919,-118.7369,12,"non-poultry",10
+41059,"OR","umatilla county",45.5919,-118.7369,12,"wild bird",2
+41059,"OR","umatilla county",45.5919,-118.7369,6,"wild bird",1
+41061,"OR","union county",45.3102,-118.0088,11,"wild bird",1
+41061,"OR","union county",45.3102,-118.0088,12,"wild bird",1
+41061,"OR","union county",45.3102,-118.0088,6,"wild bird",1
+41063,"OR","wallowa county",45.5799,-117.1811,10,"wild bird",1
+41067,"OR","washington county",45.5601,-123.0983,10,"wild bird",3
+41067,"OR","washington county",45.5601,-123.0983,11,"wild bird",1
+41067,"OR","washington county",45.5601,-123.0983,8,"wild bird",4
+41071,"OR","yamhill county",45.2327,-123.3081,11,"poultry",150
+42001,"PA","adams county",39.8715,-77.2179,10,"poultry",17900
+42001,"PA","adams county",39.8715,-77.2179,12,"wild bird",4
+42003,"PA","allegheny county",40.4688,-79.9812,11,"non-poultry",20
+42003,"PA","allegheny county",40.4688,-79.9812,12,"wild bird",1
+42011,"PA","berks county",40.4163,-75.926,10,"non-poultry",10
+42011,"PA","berks county",40.4163,-75.926,10,"wild bird",1
+42011,"PA","berks county",40.4163,-75.926,11,"non-poultry",30
+42011,"PA","berks county",40.4163,-75.926,12,"wild bird",2
+42011,"PA","berks county",40.4163,-75.926,13,"wild bird",3
+42011,"PA","berks county",40.4163,-75.926,5,"poultry",339600
+42011,"PA","berks county",40.4163,-75.926,6,"poultry",30100
+42017,"PA","bucks county",40.337,-75.1069,12,"wild bird",1
+42017,"PA","bucks county",40.337,-75.1069,5,"wild bird",1
+42017,"PA","bucks county",40.337,-75.1069,9,"wild bird",1
+42019,"PA","butler county",40.912,-79.9133,12,"wild bird",1
+42019,"PA","butler county",40.912,-79.9133,7,"wild bird",1
+42025,"PA","carbon county",40.9182,-75.7088,12,"wild bird",1
+42027,"PA","centre county",40.9193,-77.82,12,"wild bird",2
+42027,"PA","centre county",40.9193,-77.82,13,"wild bird",1
+42029,"PA","chester county",39.9731,-75.7484,12,"wild bird",4
+42029,"PA","chester county",39.9731,-75.7484,3,"wild bird",1
+42029,"PA","chester county",39.9731,-75.7484,5,"wild bird",1
+42029,"PA","chester county",39.9731,-75.7484,9,"wild bird",1
+42037,"PA","columbia county",41.0486,-76.4052,7,"wild bird",1
+42039,"PA","crawford county",41.6847,-80.1062,12,"wild bird",1
+42039,"PA","crawford county",41.6847,-80.1062,4,"wild bird",2
+42039,"PA","crawford county",41.6847,-80.1062,6,"wild bird",1
+42039,"PA","crawford county",41.6847,-80.1062,7,"wild bird",2
+42039,"PA","crawford county",41.6847,-80.1062,9,"wild bird",1
+42041,"PA","cumberland county",40.1636,-77.2655,11,"wild bird",4
+42043,"PA","dauphin county",40.4154,-76.7795,10,"captive wild bird",4
+42043,"PA","dauphin county",40.4154,-76.7795,11,"non-poultry",130
+42043,"PA","dauphin county",40.4154,-76.7795,6,"wild bird",7
+42043,"PA","dauphin county",40.4154,-76.7795,7,"wild bird",1
+42043,"PA","dauphin county",40.4154,-76.7795,8,"captive wild bird",1
+42045,"PA","delaware county",39.9167,-75.3991,6,"wild bird",1
+42049,"PA","erie county",41.9925,-80.0327,13,"wild bird",1
+42049,"PA","erie county",41.9925,-80.0327,7,"wild bird",2
+42055,"PA","franklin county",39.9274,-77.7213,13,"wild bird",1
+42055,"PA","franklin county",39.9274,-77.7213,4,"wild bird",1
+42055,"PA","franklin county",39.9274,-77.7213,5,"wild bird",3
+42055,"PA","franklin county",39.9274,-77.7213,7,"wild bird",1
+42069,"PA","lackawanna county",41.4367,-75.6093,12,"wild bird",1
+42069,"PA","lackawanna county",41.4367,-75.6093,9,"wild bird",5
+42071,"PA","lancaster county",40.0424,-76.2477,12,"wild bird",1
+42071,"PA","lancaster county",40.0424,-76.2477,13,"wild bird",1
+42071,"PA","lancaster county",40.0424,-76.2477,4,"poultry",3782700
+42071,"PA","lancaster county",40.0424,-76.2477,5,"poultry",72300
+42071,"PA","lancaster county",40.0424,-76.2477,5,"wild bird",3
+42071,"PA","lancaster county",40.0424,-76.2477,7,"wild bird",1
+42071,"PA","lancaster county",40.0424,-76.2477,9,"non-poultry",180
+42071,"PA","lancaster county",40.0424,-76.2477,9,"wild bird",2
+42075,"PA","lebanon county",40.3672,-76.4577,12,"wild bird",1
+42077,"PA","lehigh county",40.6127,-75.5924,11,"poultry",86560
+42077,"PA","lehigh county",40.6127,-75.5924,12,"wild bird",1
+42085,"PA","mercer county",41.3022,-80.2577,10,"wild bird",1
+42089,"PA","monroe county",41.0581,-75.3395,10,"non-poultry",40
+42089,"PA","monroe county",41.0581,-75.3395,12,"wild bird",2
+42091,"PA","montgomery county",40.2108,-75.3673,10,"wild bird",1
+42091,"PA","montgomery county",40.2108,-75.3673,6,"wild bird",2
+42091,"PA","montgomery county",40.2108,-75.3673,7,"wild bird",3
+42095,"PA","northampton county",40.7542,-75.3076,10,"wild bird",1
+42095,"PA","northampton county",40.7542,-75.3076,13,"wild bird",2
+42095,"PA","northampton county",40.7542,-75.3076,8,"poultry",90
+42095,"PA","northampton county",40.7542,-75.3076,8,"wild bird",1
+42105,"PA","potter county",41.7449,-77.8958,12,"wild bird",1
+42107,"PA","schuylkill county",40.7058,-76.2159,13,"wild bird",1
+42121,"PA","venango county",41.401,-79.758,12,"wild bird",1
+42121,"PA","venango county",41.401,-79.758,3,"wild bird",5
+42125,"PA","washington county",40.1894,-80.2483,9,"poultry",1800
+42129,"PA","westmoreland county",40.3109,-79.4668,10,"non-poultry",160
+42133,"PA","york county",39.92,-76.7265,7,"wild bird",1
+42133,"PA","york county",39.92,-76.7265,9,"poultry",25900
+44003,"RI","kent county",41.6721,-71.5931,10,"wild bird",1
+44003,"RI","kent county",41.6721,-71.5931,11,"wild bird",1
+44005,"RI","newport county",41.5566,-71.2365,10,"non-poultry",60
+44007,"RI","providence county",41.8721,-71.58,10,"wild bird",1
+44009,"RI","washington county",41.4697,-71.6225,11,"wild bird",2
+44009,"RI","washington county",41.4697,-71.6225,7,"wild bird",1
+44009,"RI","washington county",41.4697,-71.6225,9,"wild bird",3
+45003,"SC","aiken county",33.5443,-81.6347,11,"wild bird",4
+45013,"SC","beaufort county",32.3855,-80.7302,11,"non-poultry",170
+45015,"SC","berkeley county",33.1973,-79.9522,13,"wild bird",1
+45019,"SC","charleston county",32.8346,-79.9531,12,"wild bird",15
+45019,"SC","charleston county",32.8346,-79.9531,13,"wild bird",10
+45019,"SC","charleston county",32.8346,-79.9531,2,"captive wild bird",1
+45019,"SC","charleston county",32.8346,-79.9531,3,"captive wild bird",2
+45019,"SC","charleston county",32.8346,-79.9531,3,"wild bird",2
+45019,"SC","charleston county",32.8346,-79.9531,5,"wild bird",7
+45019,"SC","charleston county",32.8346,-79.9531,8,"wild bird",1
+45019,"SC","charleston county",32.8346,-79.9531,9,"wild bird",1
+45023,"SC","chester county",34.6921,-81.1595,12,"wild bird",1
+45027,"SC","clarendon county",33.6658,-80.2164,13,"wild bird",1
+45029,"SC","colleton county",32.8636,-80.6669,1,"wild bird",24
+45029,"SC","colleton county",32.8636,-80.6669,13,"wild bird",17
+45029,"SC","colleton county",32.8636,-80.6669,4,"wild bird",1
+45059,"SC","laurens county",34.4834,-82.0057,10,"captive wild bird",1
+45059,"SC","laurens county",34.4834,-82.0057,11,"captive wild bird",1
+45063,"SC","lexington county",33.9023,-81.2722,3,"wild bird",1
+45063,"SC","lexington county",33.9023,-81.2722,9,"wild bird",6
+45065,"SC","mccormick county",33.8995,-82.31,9,"wild bird",1
+45079,"SC","richland county",34.0218,-80.9031,8,"wild bird",2
+45083,"SC","spartanburg county",34.9309,-81.9908,11,"wild bird",2
+46003,"SD","aurora county",43.718,-98.5616,3,"wild bird",22
+46005,"SD","beadle county",44.4145,-98.2781,10,"poultry",71400
+46005,"SD","beadle county",44.4145,-98.2781,10,"wild bird",1
+46005,"SD","beadle county",44.4145,-98.2781,11,"poultry",147800
+46005,"SD","beadle county",44.4145,-98.2781,12,"wild bird",3
+46005,"SD","beadle county",44.4145,-98.2781,3,"poultry",79300
+46005,"SD","beadle county",44.4145,-98.2781,3,"wild bird",10
+46005,"SD","beadle county",44.4145,-98.2781,4,"poultry",55600
+46005,"SD","beadle county",44.4145,-98.2781,5,"poultry",56200
+46005,"SD","beadle county",44.4145,-98.2781,5,"wild bird",1
+46009,"SD","bon homme county",42.9885,-97.8846,3,"non-poultry",230
+46009,"SD","bon homme county",42.9885,-97.8846,3,"poultry",48200
+46011,"SD","brookings county",44.3697,-96.7904,12,"non-poultry",210
+46013,"SD","brown county",45.5898,-98.3516,11,"wild bird",2
+46013,"SD","brown county",45.5898,-98.3516,5,"wild bird",9
+46015,"SD","brule county",43.7181,-99.0809,10,"poultry",500
+46015,"SD","brule county",43.7181,-99.0809,11,"non-poultry",30
+46015,"SD","brule county",43.7181,-99.0809,3,"poultry",55100
+46019,"SD","butte county",44.9058,-103.508,13,"wild bird",1
+46023,"SD","charles mix county",43.2079,-98.5879,11,"poultry",75100
+46023,"SD","charles mix county",43.2079,-98.5879,12,"poultry",34100
+46023,"SD","charles mix county",43.2079,-98.5879,3,"poultry",135400
+46023,"SD","charles mix county",43.2079,-98.5879,3,"wild bird",4
+46023,"SD","charles mix county",43.2079,-98.5879,4,"poultry",81500
+46025,"SD","clark county",44.8583,-97.7295,11,"wild bird",1
+46025,"SD","clark county",44.8583,-97.7295,12,"non-poultry",40
+46025,"SD","clark county",44.8583,-97.7295,12,"poultry",24300
+46025,"SD","clark county",44.8583,-97.7295,12,"wild bird",3
+46025,"SD","clark county",44.8583,-97.7295,3,"poultry",43100
+46025,"SD","clark county",44.8583,-97.7295,4,"poultry",62700
+46025,"SD","clark county",44.8583,-97.7295,4,"wild bird",1
+46025,"SD","clark county",44.8583,-97.7295,9,"poultry",65600
+46029,"SD","codington county",44.9779,-97.1886,11,"wild bird",1
+46029,"SD","codington county",44.9779,-97.1886,13,"poultry",140
+46029,"SD","codington county",44.9779,-97.1886,3,"wild bird",1
+46029,"SD","codington county",44.9779,-97.1886,5,"poultry",80
+46035,"SD","davison county",43.6747,-98.146,12,"wild bird",2
+46037,"SD","day county",45.3671,-97.6074,3,"wild bird",1
+46037,"SD","day county",45.3671,-97.6074,5,"poultry",80
+46039,"SD","deuel county",44.7601,-96.668,4,"poultry",1400
+46045,"SD","edmunds county",45.4188,-99.2153,11,"poultry",34400
+46045,"SD","edmunds county",45.4188,-99.2153,3,"poultry",52700
+46045,"SD","edmunds county",45.4188,-99.2153,4,"poultry",67000
+46047,"SD","fall river county",43.2394,-103.5275,13,"wild bird",1
+46049,"SD","faulk county",45.071,-99.1453,11,"poultry",49900
+46049,"SD","faulk county",45.071,-99.1453,4,"poultry",48000
+46049,"SD","faulk county",45.071,-99.1453,4,"wild bird",2
+46051,"SD","grant county",45.1719,-96.7677,10,"non-poultry",50
+46053,"SD","gregory county",43.1924,-99.1856,10,"poultry",200
+46053,"SD","gregory county",43.1924,-99.1856,11,"poultry",3000
+46057,"SD","hamlin county",44.6738,-97.1883,10,"non-poultry",20
+46057,"SD","hamlin county",44.6738,-97.1883,11,"poultry",50000
+46057,"SD","hamlin county",44.6738,-97.1883,12,"poultry",58100
+46057,"SD","hamlin county",44.6738,-97.1883,5,"non-poultry",20
+46059,"SD","hand county",44.5478,-99.0049,11,"wild bird",1
+46059,"SD","hand county",44.5478,-99.0049,12,"wild bird",1
+46061,"SD","hanson county",43.6748,-97.7873,11,"poultry",71600
+46061,"SD","hanson county",43.6748,-97.7873,12,"poultry",55700
+46061,"SD","hanson county",43.6748,-97.7873,12,"wild bird",1
+46061,"SD","hanson county",43.6748,-97.7873,3,"poultry",114800
+46065,"SD","hughes county",44.389,-99.996,13,"wild bird",1
+46067,"SD","hutchinson county",43.3349,-97.7544,3,"poultry",135400
+46073,"SD","jerauld county",44.0663,-98.6296,3,"poultry",44000
+46077,"SD","kingsbury county",44.3696,-97.4915,12,"non-poultry",70
+46077,"SD","kingsbury county",44.3696,-97.4915,3,"poultry",159500
+46077,"SD","kingsbury county",44.3696,-97.4915,3,"wild bird",1
+46077,"SD","kingsbury county",44.3696,-97.4915,5,"wild bird",1
+46077,"SD","kingsbury county",44.3696,-97.4915,9,"non-poultry",250
+46079,"SD","lake county",44.022,-97.1294,12,"poultry",78000
+46079,"SD","lake county",44.022,-97.1294,4,"poultry",59000
+46079,"SD","lake county",44.022,-97.1294,4,"wild bird",1
+46083,"SD","lincoln county",43.2789,-96.7218,12,"wild bird",1
+46083,"SD","lincoln county",43.2789,-96.7218,4,"wild bird",1
+46087,"SD","mccook county",43.6743,-97.3685,12,"wild bird",3
+46089,"SD","mcpherson county",45.7664,-99.2214,3,"poultry",69900
+46089,"SD","mcpherson county",45.7664,-99.2214,4,"poultry",106900
+46089,"SD","mcpherson county",45.7664,-99.2214,5,"wild bird",1
+46089,"SD","mcpherson county",45.7664,-99.2214,9,"poultry",56900
+46093,"SD","meade county",44.5668,-102.7169,5,"wild bird",1
+46097,"SD","miner county",44.022,-97.6102,11,"wild bird",1
+46099,"SD","minnehaha county",43.6742,-96.7915,12,"wild bird",1
+46099,"SD","minnehaha county",43.6742,-96.7915,4,"wild bird",1
+46101,"SD","moody county",44.022,-96.6709,12,"poultry",1332100
+46103,"SD","pennington county",44.0037,-102.8238,10,"wild bird",2
+46103,"SD","pennington county",44.0037,-102.8238,13,"wild bird",4
+46105,"SD","perkins county",45.4905,-102.4757,9,"wild bird",2
+46109,"SD","roberts county",45.6296,-96.9461,10,"poultry",3600
+46115,"SD","spink county",44.938,-98.3462,10,"non-poultry",160
+46115,"SD","spink county",44.938,-98.3462,11,"poultry",88400
+46115,"SD","spink county",44.938,-98.3462,11,"wild bird",1
+46115,"SD","spink county",44.938,-98.3462,12,"poultry",280
+46115,"SD","spink county",44.938,-98.3462,3,"poultry",45900
+46115,"SD","spink county",44.938,-98.3462,4,"poultry",68100
+46117,"SD","stanley county",44.4123,-100.7359,11,"wild bird",2
+46117,"SD","stanley county",44.4123,-100.7359,3,"wild bird",4
+46125,"SD","turner county",43.3109,-97.1487,11,"non-poultry",210
+46135,"SD","yankton county",43.009,-97.3948,4,"poultry",76100
+47001,"TN","anderson county",36.1185,-84.1985,11,"wild bird",1
+47007,"TN","bledsoe county",35.5964,-85.2051,11,"poultry",20900
+47035,"TN","cumberland county",35.9504,-84.9984,11,"wild bird",1
+47037,"TN","davidson county",36.1695,-86.7847,11,"non-poultry",10
+47037,"TN","davidson county",36.1695,-86.7847,4,"wild bird",1
+47045,"TN","dyer county",36.0592,-89.4137,3,"wild bird",5
+47059,"TN","greene county",36.1753,-82.8458,12,"wild bird",2
+47063,"TN","hamblen county",36.2171,-83.2667,13,"wild bird",1
+47065,"TN","hamilton county",35.1808,-85.1648,13,"captive wild bird",1
+47073,"TN","hawkins county",36.4412,-82.9447,13,"wild bird",1
+47089,"TN","jefferson county",36.051,-83.4463,12,"wild bird",4
+47093,"TN","knox county",35.9932,-83.9371,5,"wild bird",1
+47095,"TN","lake county",36.3352,-89.4935,9,"wild bird",19
+47131,"TN","obion county",36.3582,-89.1488,3,"wild bird",2
+47131,"TN","obion county",36.3582,-89.1488,9,"poultry",130
+47147,"TN","robertson county",36.5255,-86.8706,12,"wild bird",1
+47157,"TN","shelby county",35.1842,-89.894,11,"captive wild bird",1
+47167,"TN","tipton county",35.4973,-89.7566,10,"non-poultry",90
+47183,"TN","weakley county",36.2983,-88.7178,12,"poultry",129300
+47183,"TN","weakley county",36.2983,-88.7178,13,"poultry",267800
+47189,"TN","wilson county",36.1549,-86.2977,13,"wild bird",1
+48035,"TX","bosque county",31.9004,-97.6343,5,"wild bird",1
+48065,"TX","carson county",35.4035,-101.3543,13,"wild bird",2
+48071,"TX","chambers county",29.7384,-94.6101,10,"wild bird",29
+48071,"TX","chambers county",29.7384,-94.6101,11,"wild bird",3
+48071,"TX","chambers county",29.7384,-94.6101,12,"wild bird",10
+48071,"TX","chambers county",29.7384,-94.6101,9,"wild bird",10
+48113,"TX","dallas county",32.7666,-96.7778,9,"non-poultry",60
+48121,"TX","denton county",33.2055,-97.1168,12,"non-poultry",40
+48141,"TX","el paso county",31.7686,-106.2348,10,"captive wild bird",1
+48143,"TX","erath county",32.2363,-98.218,4,"poultry",1700
+48161,"TX","freestone county",31.7049,-96.1491,10,"wild bird",29
+48161,"TX","freestone county",31.7049,-96.1491,13,"wild bird",2
+48189,"TX","hale county",34.0705,-101.8269,10,"wild bird",9
+48189,"TX","hale county",34.0705,-101.8269,12,"wild bird",8
+48189,"TX","hale county",34.0705,-101.8269,13,"wild bird",1
+48281,"TX","lampasas county",31.1962,-98.2414,13,"poultry",70
+48337,"TX","montague county",33.6757,-97.7246,12,"wild bird",1
+48361,"TX","orange county",30.1213,-93.8939,11,"wild bird",61
+48381,"TX","randall county",34.9659,-101.8969,12,"wild bird",4
+48387,"TX","red river county",33.6207,-95.0503,10,"wild bird",18
+48397,"TX","rockwall county",32.8978,-96.4079,10,"non-poultry",50
+48423,"TX","smith county",32.375,-95.2692,10,"wild bird",1
+48439,"TX","tarrant county",32.7719,-97.2911,12,"captive wild bird",1
+48439,"TX","tarrant county",32.7719,-97.2911,4,"captive wild bird",1
+48441,"TX","taylor county",32.3015,-99.8902,10,"wild bird",2
+48485,"TX","wichita county",33.988,-98.7036,5,"captive wild bird",1
+49003,"UT","box elder county",41.521,-113.0821,11,"wild bird",1
+49003,"UT","box elder county",41.521,-113.0821,8,"wild bird",6
+49003,"UT","box elder county",41.521,-113.0821,9,"wild bird",6
+49005,"UT","cache county",41.7224,-111.7436,10,"non-poultry",320
+49005,"UT","cache county",41.7224,-111.7436,4,"poultry",1501200
+49005,"UT","cache county",41.7224,-111.7436,5,"non-poultry",20
+49005,"UT","cache county",41.7224,-111.7436,5,"wild bird",9
+49007,"UT","carbon county",39.6481,-110.5888,5,"wild bird",3
+49007,"UT","carbon county",39.6481,-110.5888,8,"wild bird",1
+49011,"UT","davis county",40.99,-112.1115,11,"wild bird",3
+49011,"UT","davis county",40.99,-112.1115,8,"wild bird",4
+49011,"UT","davis county",40.99,-112.1115,9,"wild bird",30
+49013,"UT","duchesne county",40.2982,-110.4252,13,"wild bird",5
+49021,"UT","iron county",37.8592,-113.2895,11,"poultry",3000
+49027,"UT","millard county",39.0733,-113.1006,8,"wild bird",3
+49035,"UT","salt lake county",40.6673,-111.9236,10,"wild bird",10
+49035,"UT","salt lake county",40.6673,-111.9236,11,"wild bird",1
+49035,"UT","salt lake county",40.6673,-111.9236,5,"non-poultry",30
+49035,"UT","salt lake county",40.6673,-111.9236,5,"wild bird",3
+49035,"UT","salt lake county",40.6673,-111.9236,6,"non-poultry",70
+49035,"UT","salt lake county",40.6673,-111.9236,6,"wild bird",10
+49035,"UT","salt lake county",40.6673,-111.9236,7,"non-poultry",20
+49035,"UT","salt lake county",40.6673,-111.9236,7,"wild bird",5
+49035,"UT","salt lake county",40.6673,-111.9236,9,"wild bird",1
+49039,"UT","sanpete county",39.3739,-111.5763,10,"poultry",332500
+49039,"UT","sanpete county",39.3739,-111.5763,7,"poultry",51500
+49039,"UT","sanpete county",39.3739,-111.5763,8,"wild bird",4
+49039,"UT","sanpete county",39.3739,-111.5763,9,"poultry",317600
+49039,"UT","sanpete county",39.3739,-111.5763,9,"wild bird",1
+49045,"UT","tooele county",40.4488,-113.1311,9,"wild bird",1
+49049,"UT","utah county",40.1199,-111.6703,10,"wild bird",1
+49049,"UT","utah county",40.1199,-111.6703,11,"non-poultry",270
+49049,"UT","utah county",40.1199,-111.6703,12,"captive wild bird",1
+49049,"UT","utah county",40.1199,-111.6703,13,"wild bird",1
+49049,"UT","utah county",40.1199,-111.6703,4,"non-poultry",7
+49049,"UT","utah county",40.1199,-111.6703,5,"wild bird",3
+49057,"UT","weber county",41.2698,-111.9134,10,"wild bird",1
+49057,"UT","weber county",41.2698,-111.9134,11,"wild bird",3
+49057,"UT","weber county",41.2698,-111.9134,5,"wild bird",3
+49057,"UT","weber county",41.2698,-111.9134,6,"wild bird",5
+49057,"UT","weber county",41.2698,-111.9134,7,"wild bird",1
+49057,"UT","weber county",41.2698,-111.9134,8,"non-poultry",20
+49057,"UT","weber county",41.2698,-111.9134,8,"wild bird",3
+49057,"UT","weber county",41.2698,-111.9134,9,"wild bird",10
+51033,"VA","caroline county",38.0267,-77.3471,8,"non-poultry",110
+51041,"VA","chesterfield county",37.3785,-77.587,10,"wild bird",3
+51061,"VA","fauquier county",38.7387,-77.8092,2,"non-poultry",90
+51065,"VA","fluvanna county",37.8419,-78.2772,9,"wild bird",4
+51073,"VA","gloucester county",37.416,-76.5434,11,"non-poultry",80
+51650,"VA","hampton city",37.0551,-76.363,10,"non-poultry",40
+51087,"VA","henrico county",37.538,-77.4058,1,"wild bird",2
+51087,"VA","henrico county",37.538,-77.4058,12,"wild bird",3
+51087,"VA","henrico county",37.538,-77.4058,13,"wild bird",2
+51099,"VA","king george county",38.2733,-77.1572,4,"wild bird",1
+51101,"VA","king william county",37.7066,-77.0885,12,"wild bird",1
+51107,"VA","loudoun county",39.0907,-77.6357,7,"wild bird",3
+51710,"VA","norfolk city",36.8945,-76.259,9,"wild bird",4
+51137,"VA","orange county",38.2462,-78.0137,9,"wild bird",3
+51143,"VA","pittsylvania county",36.8213,-79.3971,10,"wild bird",1
+51161,"VA","roanoke county",37.2693,-80.068,12,"wild bird",1
+51165,"VA","rockingham county",38.512,-78.8758,13,"poultry",36000
+51175,"VA","southampton county",36.7204,-77.1061,10,"non-poultry",170
+51810,"VA","virginia beach city",36.7335,-76.0435,10,"non-poultry",10
+51810,"VA","virginia beach city",36.7335,-76.0435,2,"wild bird",2
+50001,"VT","addison county",44.0308,-73.1409,11,"wild bird",11
+50001,"VT","addison county",44.0308,-73.1409,5,"wild bird",1
+50001,"VT","addison county",44.0308,-73.1409,6,"wild bird",1
+50001,"VT","addison county",44.0308,-73.1409,9,"wild bird",24
+50003,"VT","bennington county",43.0354,-73.093,6,"wild bird",1
+50005,"VT","caledonia county",44.4647,-72.1021,4,"non-poultry",30
+50007,"VT","chittenden county",44.4608,-73.0808,3,"wild bird",1
+50007,"VT","chittenden county",44.4608,-73.0808,9,"wild bird",37
+50009,"VT","essex county",44.7275,-71.7359,6,"wild bird",1
+50011,"VT","franklin county",44.8578,-72.913,4,"wild bird",1
+50013,"VT","grand isle county",44.7968,-73.2949,3,"wild bird",1
+50015,"VT","lamoille county",44.607,-72.6418,12,"non-poultry",50
+50017,"VT","orange county",44.0056,-72.3769,5,"wild bird",1
+50019,"VT","orleans county",44.829,-72.2434,12,"wild bird",2
+50023,"VT","washington county",44.2734,-72.6148,4,"wild bird",2
+50023,"VT","washington county",44.2734,-72.6148,6,"wild bird",1
+53003,"WA","asotin county",46.1918,-117.203,5,"wild bird",2
+53005,"WA","benton county",46.2398,-119.5112,5,"wild bird",4
+53005,"WA","benton county",46.2398,-119.5112,6,"wild bird",3
+53005,"WA","benton county",46.2398,-119.5112,8,"wild bird",2
+53009,"WA","clallam county",48.0493,-123.928,11,"wild bird",1
+53009,"WA","clallam county",48.0493,-123.928,12,"wild bird",2
+53009,"WA","clallam county",48.0493,-123.928,5,"non-poultry",20
+53009,"WA","clallam county",48.0493,-123.928,8,"wild bird",1
+53009,"WA","clallam county",48.0493,-123.928,9,"wild bird",2
+53011,"WA","clark county",45.7791,-122.4826,11,"wild bird",2
+53011,"WA","clark county",45.7791,-122.4826,12,"wild bird",2
+53015,"WA","cowlitz county",46.1932,-122.681,8,"non-poultry",20
+53021,"WA","franklin county",46.5347,-118.8989,12,"poultry",1015500
+53021,"WA","franklin county",46.5347,-118.8989,13,"wild bird",1
+53021,"WA","franklin county",46.5347,-118.8989,5,"wild bird",1
+53021,"WA","franklin county",46.5347,-118.8989,6,"wild bird",1
+53025,"WA","grant county",47.2057,-119.4517,10,"wild bird",1
+53025,"WA","grant county",47.2057,-119.4517,12,"wild bird",3
+53025,"WA","grant county",47.2057,-119.4517,4,"wild bird",2
+53025,"WA","grant county",47.2057,-119.4517,5,"wild bird",1
+53027,"WA","grays harbor county",47.1502,-123.7736,12,"wild bird",1
+53029,"WA","island county",48.163,-122.5481,12,"wild bird",1
+53029,"WA","island county",48.163,-122.5481,5,"wild bird",1
+53029,"WA","island county",48.163,-122.5481,7,"wild bird",1
+53029,"WA","island county",48.163,-122.5481,9,"wild bird",1
+53031,"WA","jefferson county",47.7487,-123.596,7,"non-poultry",100
+53031,"WA","jefferson county",47.7487,-123.596,8,"wild bird",1
+53033,"WA","king county",47.4902,-121.8052,11,"wild bird",1
+53033,"WA","king county",47.4902,-121.8052,12,"wild bird",2
+53033,"WA","king county",47.4902,-121.8052,5,"non-poultry",207
+53033,"WA","king county",47.4902,-121.8052,5,"wild bird",3
+53033,"WA","king county",47.4902,-121.8052,6,"non-poultry",12
+53033,"WA","king county",47.4902,-121.8052,6,"poultry",50
+53033,"WA","king county",47.4902,-121.8052,6,"wild bird",12
+53033,"WA","king county",47.4902,-121.8052,7,"poultry",220
+53033,"WA","king county",47.4902,-121.8052,8,"wild bird",1
+53033,"WA","king county",47.4902,-121.8052,9,"wild bird",1
+53035,"WA","kitsap county",47.613,-122.6716,7,"non-poultry",6
+53035,"WA","kitsap county",47.613,-122.6716,8,"non-poultry",10
+53035,"WA","kitsap county",47.613,-122.6716,8,"wild bird",2
+53043,"WA","lincoln county",47.5762,-118.4187,12,"wild bird",1
+53047,"WA","okanogan county",48.5488,-119.7408,5,"non-poultry",20
+53049,"WA","pacific county",46.5557,-123.7041,10,"wild bird",1
+53049,"WA","pacific county",46.5557,-123.7041,11,"wild bird",1
+53049,"WA","pacific county",46.5557,-123.7041,12,"wild bird",1
+53049,"WA","pacific county",46.5557,-123.7041,5,"poultry",40
+53053,"WA","pierce county",47.0241,-122.1046,12,"non-poultry",40
+53053,"WA","pierce county",47.0241,-122.1046,5,"non-poultry",40
+53053,"WA","pierce county",47.0241,-122.1046,5,"wild bird",1
+53053,"WA","pierce county",47.0241,-122.1046,6,"non-poultry",50
+53053,"WA","pierce county",47.0241,-122.1046,6,"wild bird",1
+53053,"WA","pierce county",47.0241,-122.1046,8,"non-poultry",70
+53053,"WA","pierce county",47.0241,-122.1046,8,"wild bird",1
+53053,"WA","pierce county",47.0241,-122.1046,9,"non-poultry",30
+53055,"WA","san juan county",48.5782,-122.965,5,"wild bird",1
+53055,"WA","san juan county",48.5782,-122.965,9,"wild bird",5
+53057,"WA","skagit county",48.4793,-121.7305,11,"wild bird",6
+53057,"WA","skagit county",48.4793,-121.7305,12,"wild bird",6
+53057,"WA","skagit county",48.4793,-121.7305,13,"wild bird",1
+53057,"WA","skagit county",48.4793,-121.7305,5,"wild bird",1
+53057,"WA","skagit county",48.4793,-121.7305,9,"wild bird",1
+53061,"WA","snohomish county",48.0475,-121.6975,11,"non-poultry",150
+53061,"WA","snohomish county",48.0475,-121.6975,11,"wild bird",2
+53061,"WA","snohomish county",48.0475,-121.6975,12,"poultry",180
+53061,"WA","snohomish county",48.0475,-121.6975,12,"wild bird",2
+53061,"WA","snohomish county",48.0475,-121.6975,13,"non-poultry",20
+53061,"WA","snohomish county",48.0475,-121.6975,5,"non-poultry",40
+53061,"WA","snohomish county",48.0475,-121.6975,5,"wild bird",3
+53061,"WA","snohomish county",48.0475,-121.6975,6,"non-poultry",269
+53061,"WA","snohomish county",48.0475,-121.6975,6,"wild bird",1
+53061,"WA","snohomish county",48.0475,-121.6975,7,"poultry",340
+53061,"WA","snohomish county",48.0475,-121.6975,9,"wild bird",1
+53063,"WA","spokane county",47.6207,-117.404,5,"non-poultry",80
+53063,"WA","spokane county",47.6207,-117.404,5,"wild bird",2
+53065,"WA","stevens county",48.3991,-117.8552,5,"wild bird",1
+53067,"WA","thurston county",46.9258,-122.8332,11,"wild bird",2
+53067,"WA","thurston county",46.9258,-122.8332,12,"wild bird",1
+53067,"WA","thurston county",46.9258,-122.8332,13,"non-poultry",120
+53067,"WA","thurston county",46.9258,-122.8332,5,"non-poultry",410
+53071,"WA","walla walla county",46.2298,-118.4784,10,"wild bird",2
+53071,"WA","walla walla county",46.2298,-118.4784,13,"wild bird",1
+53071,"WA","walla walla county",46.2298,-118.4784,5,"wild bird",1
+53071,"WA","walla walla county",46.2298,-118.4784,8,"non-poultry",2
+53073,"WA","whatcom county",48.8258,-121.7196,11,"wild bird",5
+53073,"WA","whatcom county",48.8258,-121.7196,5,"non-poultry",80
+53073,"WA","whatcom county",48.8258,-121.7196,6,"wild bird",1
+53073,"WA","whatcom county",48.8258,-121.7196,9,"wild bird",10
+53075,"WA","whitman county",46.9012,-117.523,12,"wild bird",1
+53075,"WA","whitman county",46.9012,-117.523,13,"captive wild bird",1
+53075,"WA","whitman county",46.9012,-117.523,13,"wild bird",1
+53075,"WA","whitman county",46.9012,-117.523,8,"wild bird",3
+53077,"WA","yakima county",46.457,-120.7385,6,"non-poultry",196
+53077,"WA","yakima county",46.457,-120.7385,6,"wild bird",3
+53077,"WA","yakima county",46.457,-120.7385,7,"wild bird",1
+53077,"WA","yakima county",46.457,-120.7385,9,"wild bird",48
+55005,"WI","barron county",45.4237,-91.8483,4,"non-poultry",150
+55005,"WI","barron county",45.4237,-91.8483,4,"poultry",157200
+55005,"WI","barron county",45.4237,-91.8483,5,"poultry",96600
+55005,"WI","barron county",45.4237,-91.8483,5,"wild bird",4
+55007,"WI","bayfield county",46.5237,-91.2009,5,"non-poultry",40
+55007,"WI","bayfield county",46.5237,-91.2009,5,"wild bird",1
+55009,"WI","brown county",44.4525,-88.0037,4,"wild bird",5
+55009,"WI","brown county",44.4525,-88.0037,5,"wild bird",4
+55009,"WI","brown county",44.4525,-88.0037,9,"captive wild bird",1
+55009,"WI","brown county",44.4525,-88.0037,9,"wild bird",6
+55011,"WI","buffalo county",44.3798,-91.7545,10,"wild bird",2
+55011,"WI","buffalo county",44.3798,-91.7545,12,"wild bird",1
+55011,"WI","buffalo county",44.3798,-91.7545,5,"wild bird",2
+55013,"WI","burnett county",45.8627,-92.3676,10,"wild bird",27
+55013,"WI","burnett county",45.8627,-92.3676,5,"wild bird",1
+55015,"WI","calumet county",44.0816,-88.2181,10,"wild bird",1
+55015,"WI","calumet county",44.0816,-88.2181,5,"wild bird",1
+55015,"WI","calumet county",44.0816,-88.2181,6,"wild bird",1
+55017,"WI","chippewa county",45.0694,-91.2799,5,"wild bird",1
+55017,"WI","chippewa county",45.0694,-91.2799,9,"wild bird",1
+55019,"WI","clark county",44.7347,-90.6121,5,"wild bird",3
+55021,"WI","columbia county",43.4666,-89.3337,10,"wild bird",2
+55021,"WI","columbia county",43.4666,-89.3337,3,"wild bird",1
+55021,"WI","columbia county",43.4666,-89.3337,4,"non-poultry",70
+55021,"WI","columbia county",43.4666,-89.3337,4,"wild bird",1
+55021,"WI","columbia county",43.4666,-89.3337,5,"wild bird",1
+55025,"WI","dane county",43.0673,-89.4181,12,"captive wild bird",3
+55025,"WI","dane county",43.0673,-89.4181,12,"wild bird",1
+55025,"WI","dane county",43.0673,-89.4181,3,"wild bird",2
+55025,"WI","dane county",43.0673,-89.4181,4,"wild bird",5
+55025,"WI","dane county",43.0673,-89.4181,5,"wild bird",2
+55025,"WI","dane county",43.0673,-89.4181,8,"wild bird",1
+55025,"WI","dane county",43.0673,-89.4181,9,"captive wild bird",2
+55027,"WI","dodge county",43.4163,-88.7075,4,"wild bird",3
+55027,"WI","dodge county",43.4163,-88.7075,6,"wild bird",2
+55027,"WI","dodge county",43.4163,-88.7075,9,"wild bird",5
+55029,"WI","door county",44.9473,-87.3135,4,"wild bird",1
+55029,"WI","door county",44.9473,-87.3135,5,"wild bird",2
+55029,"WI","door county",44.9473,-87.3135,6,"wild bird",14
+55031,"WI","douglas county",46.4329,-91.9161,5,"wild bird",1
+55033,"WI","dunn county",44.9466,-91.8964,5,"captive wild bird",1
+55033,"WI","dunn county",44.9466,-91.8964,5,"non-poultry",150
+55033,"WI","dunn county",44.9466,-91.8964,9,"poultry",79500
+55035,"WI","eau claire county",44.7268,-91.286,5,"wild bird",1
+55037,"WI","florence county",45.8485,-88.3981,5,"wild bird",1
+55039,"WI","fond du lac county",43.7536,-88.4882,4,"wild bird",1
+55039,"WI","fond du lac county",43.7536,-88.4882,5,"non-poultry",20
+55039,"WI","fond du lac county",43.7536,-88.4882,5,"wild bird",3
+55041,"WI","forest county",45.6673,-88.7704,10,"wild bird",1
+55043,"WI","grant county",42.8675,-90.7062,3,"wild bird",1
+55047,"WI","green lake county",43.8004,-89.0448,11,"wild bird",1
+55047,"WI","green lake county",43.8004,-89.0448,5,"wild bird",1
+55047,"WI","green lake county",43.8004,-89.0448,9,"wild bird",1
+55055,"WI","jefferson county",43.0208,-88.7759,11,"poultry",187900
+55055,"WI","jefferson county",43.0208,-88.7759,3,"poultry",2750700
+55055,"WI","jefferson county",43.0208,-88.7759,4,"wild bird",1
+55057,"WI","juneau county",43.9246,-90.1138,4,"wild bird",2
+55063,"WI","la crosse county",43.9066,-91.1152,8,"wild bird",1
+55065,"WI","lafayette county",42.6605,-90.1317,5,"wild bird",1
+55067,"WI","langlade county",45.2623,-89.0719,5,"wild bird",2
+55069,"WI","lincoln county",45.3375,-89.7346,4,"wild bird",4
+55071,"WI","manitowoc county",44.1199,-87.8097,5,"wild bird",1
+55071,"WI","manitowoc county",44.1199,-87.8097,9,"wild bird",1
+55073,"WI","marathon county",44.8983,-89.7591,10,"wild bird",1
+55073,"WI","marathon county",44.8983,-89.7591,11,"non-poultry",30
+55075,"WI","marinette county",45.3833,-88.0337,10,"wild bird",1
+55075,"WI","marinette county",45.3833,-88.0337,5,"non-poultry",90
+55077,"WI","marquette county",43.8196,-89.3987,5,"wild bird",1
+55079,"WI","milwaukee county",43.0072,-87.9669,10,"wild bird",1
+55079,"WI","milwaukee county",43.0072,-87.9669,3,"wild bird",1
+55079,"WI","milwaukee county",43.0072,-87.9669,5,"wild bird",4
+55079,"WI","milwaukee county",43.0072,-87.9669,6,"wild bird",1
+55083,"WI","oconto county",45.0263,-88.2697,4,"non-poultry",220
+55087,"WI","outagamie county",44.4161,-88.4649,4,"wild bird",1
+55091,"WI","pepin county",44.5829,-92.0015,4,"wild bird",1
+55091,"WI","pepin county",44.5829,-92.0015,5,"wild bird",1
+55093,"WI","pierce county",44.7194,-92.4224,5,"captive wild bird",3
+55093,"WI","pierce county",44.7194,-92.4224,5,"non-poultry",30
+55095,"WI","polk county",45.4614,-92.4413,3,"wild bird",1
+55095,"WI","polk county",45.4614,-92.4413,4,"captive wild bird",2
+55095,"WI","polk county",45.4614,-92.4413,4,"non-poultry",40
+55095,"WI","polk county",45.4614,-92.4413,4,"poultry",22000
+55095,"WI","polk county",45.4614,-92.4413,5,"non-poultry",120
+55095,"WI","polk county",45.4614,-92.4413,5,"wild bird",2
+55097,"WI","portage county",44.476,-89.5014,5,"wild bird",2
+55099,"WI","price county",45.6804,-90.3614,5,"wild bird",1
+55101,"WI","racine county",42.7475,-88.0612,4,"poultry",220
+55101,"WI","racine county",42.7475,-88.0612,4,"wild bird",1
+55101,"WI","racine county",42.7475,-88.0612,9,"poultry",10000
+55103,"WI","richland county",43.3756,-90.4295,4,"wild bird",1
+55105,"WI","rock county",42.6712,-89.0716,4,"non-poultry",20
+55105,"WI","rock county",42.6712,-89.0716,4,"wild bird",1
+55105,"WI","rock county",42.6712,-89.0716,5,"wild bird",1
+55107,"WI","rusk county",45.4752,-91.1331,5,"wild bird",2
+55111,"WI","sauk county",43.4267,-89.9482,5,"non-poultry",40
+55113,"WI","sawyer county",45.88,-91.1446,5,"captive wild bird",1
+55117,"WI","sheboygan county",43.7212,-87.9454,10,"wild bird",1
+55117,"WI","sheboygan county",43.7212,-87.9454,12,"wild bird",1
+55117,"WI","sheboygan county",43.7212,-87.9454,4,"non-poultry",20
+55117,"WI","sheboygan county",43.7212,-87.9454,4,"wild bird",1
+55117,"WI","sheboygan county",43.7212,-87.9454,5,"wild bird",4
+55117,"WI","sheboygan county",43.7212,-87.9454,9,"wild bird",2
+55109,"WI","st. croix county",45.034,-92.4526,10,"non-poultry",20
+55109,"WI","st. croix county",45.034,-92.4526,11,"captive wild bird",1
+55109,"WI","st. croix county",45.034,-92.4526,13,"captive wild bird",1
+55109,"WI","st. croix county",45.034,-92.4526,4,"captive wild bird",1
+55109,"WI","st. croix county",45.034,-92.4526,5,"captive wild bird",3
+55109,"WI","st. croix county",45.034,-92.4526,5,"wild bird",3
+55109,"WI","st. croix county",45.034,-92.4526,9,"captive wild bird",1
+55121,"WI","trempealeau county",44.304,-91.3585,5,"captive wild bird",2
+55123,"WI","vernon county",43.5939,-90.8344,4,"wild bird",1
+55127,"WI","walworth county",42.6685,-88.5419,5,"wild bird",1
+55129,"WI","washburn county",45.8992,-91.7913,5,"wild bird",2
+55131,"WI","washington county",43.3685,-88.2307,9,"poultry",120
+55133,"WI","waukesha county",43.0182,-88.3045,11,"non-poultry",10
+55133,"WI","waukesha county",43.0182,-88.3045,4,"wild bird",1
+55133,"WI","waukesha county",43.0182,-88.3045,9,"wild bird",4
+55135,"WI","waupaca county",44.4705,-88.9648,5,"wild bird",1
+55139,"WI","winnebago county",44.0689,-88.6447,4,"wild bird",1
+55139,"WI","winnebago county",44.0689,-88.6447,5,"wild bird",7
+55139,"WI","winnebago county",44.0689,-88.6447,9,"wild bird",1
+55141,"WI","wood county",44.4553,-90.0416,13,"wild bird",1
+55141,"WI","wood county",44.4553,-90.0416,5,"wild bird",1
+54075,"WV","pocahontas county",38.3318,-80.0078,12,"wild bird",1
+56001,"WY","albany county",41.6544,-105.7239,10,"wild bird",4
+56001,"WY","albany county",41.6544,-105.7239,11,"wild bird",1
+56001,"WY","albany county",41.6544,-105.7239,4,"wild bird",3
+56001,"WY","albany county",41.6544,-105.7239,5,"wild bird",3
+56001,"WY","albany county",41.6544,-105.7239,9,"wild bird",2
+56003,"WY","big horn county",44.5267,-107.9952,10,"wild bird",1
+56005,"WY","campbell county",44.2483,-105.5483,10,"wild bird",1
+56005,"WY","campbell county",44.2483,-105.5483,5,"non-poultry",30
+56005,"WY","campbell county",44.2483,-105.5483,5,"wild bird",2
+56005,"WY","campbell county",44.2483,-105.5483,9,"wild bird",1
+56007,"WY","carbon county",41.6946,-106.9307,5,"wild bird",2
+56009,"WY","converse county",42.9724,-105.5071,10,"wild bird",1
+56009,"WY","converse county",42.9724,-105.5071,11,"non-poultry",20
+56009,"WY","converse county",42.9724,-105.5071,4,"wild bird",1
+56013,"WY","fremont county",43.0405,-108.6304,10,"non-poultry",30
+56013,"WY","fremont county",43.0405,-108.6304,11,"wild bird",1
+56013,"WY","fremont county",43.0405,-108.6304,12,"wild bird",2
+56013,"WY","fremont county",43.0405,-108.6304,13,"wild bird",4
+56013,"WY","fremont county",43.0405,-108.6304,4,"non-poultry",50
+56013,"WY","fremont county",43.0405,-108.6304,4,"wild bird",3
+56013,"WY","fremont county",43.0405,-108.6304,5,"wild bird",2
+56013,"WY","fremont county",43.0405,-108.6304,9,"wild bird",1
+56015,"WY","goshen county",42.0879,-104.3533,12,"wild bird",2
+56015,"WY","goshen county",42.0879,-104.3533,13,"wild bird",3
+56017,"WY","hot springs county",43.7189,-108.4421,13,"wild bird",3
+56019,"WY","johnson county",44.0388,-106.5847,10,"wild bird",1
+56019,"WY","johnson county",44.0388,-106.5847,13,"wild bird",3
+56019,"WY","johnson county",44.0388,-106.5847,3,"non-poultry",40
+56019,"WY","johnson county",44.0388,-106.5847,4,"wild bird",12
+56019,"WY","johnson county",44.0388,-106.5847,9,"wild bird",1
+56021,"WY","laramie county",41.3071,-104.6896,10,"wild bird",1
+56021,"WY","laramie county",41.3071,-104.6896,11,"wild bird",1
+56021,"WY","laramie county",41.3071,-104.6896,12,"wild bird",2
+56021,"WY","laramie county",41.3071,-104.6896,13,"wild bird",3
+56021,"WY","laramie county",41.3071,-104.6896,5,"wild bird",1
+56023,"WY","lincoln county",42.2639,-110.656,5,"non-poultry",40
+56025,"WY","natrona county",42.9622,-106.7985,13,"wild bird",2
+56025,"WY","natrona county",42.9622,-106.7985,5,"wild bird",1
+56025,"WY","natrona county",42.9622,-106.7985,9,"wild bird",1
+56029,"WY","park county",44.5205,-109.5879,10,"wild bird",3
+56029,"WY","park county",44.5205,-109.5879,11,"wild bird",1
+56029,"WY","park county",44.5205,-109.5879,13,"wild bird",4
+56029,"WY","park county",44.5205,-109.5879,3,"non-poultry",40
+56029,"WY","park county",44.5205,-109.5879,4,"non-poultry",100
+56029,"WY","park county",44.5205,-109.5879,4,"wild bird",7
+56029,"WY","park county",44.5205,-109.5879,5,"wild bird",4
+56029,"WY","park county",44.5205,-109.5879,9,"wild bird",2
+56031,"WY","platte county",42.1332,-104.9659,13,"wild bird",3
+56031,"WY","platte county",42.1332,-104.9659,5,"wild bird",1
+56033,"WY","sheridan county",44.79,-106.8793,10,"wild bird",3
+56033,"WY","sheridan county",44.79,-106.8793,12,"wild bird",1
+56033,"WY","sheridan county",44.79,-106.8793,4,"non-poultry",50
+56033,"WY","sheridan county",44.79,-106.8793,4,"wild bird",3
+56033,"WY","sheridan county",44.79,-106.8793,5,"non-poultry",20
+56033,"WY","sheridan county",44.79,-106.8793,5,"wild bird",1
+56035,"WY","sublette county",42.7669,-109.9147,5,"wild bird",4
+56035,"WY","sublette county",42.7669,-109.9147,6,"wild bird",3
+56037,"WY","sweetwater county",41.6595,-108.8795,5,"wild bird",1
+56039,"WY","teton county",43.9347,-110.5898,10,"wild bird",1
+56039,"WY","teton county",43.9347,-110.5898,12,"captive wild bird",2
+56039,"WY","teton county",43.9347,-110.5898,4,"wild bird",3
+56039,"WY","teton county",43.9347,-110.5898,5,"wild bird",6
+56039,"WY","teton county",43.9347,-110.5898,6,"wild bird",1
+56039,"WY","teton county",43.9347,-110.5898,9,"wild bird",1
+56043,"WY","washakie county",43.905,-107.6829,13,"wild bird",1
