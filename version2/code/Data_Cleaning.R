@@ -23,7 +23,7 @@
 ####################################################################
 
 # Github address:
-# https://github.com/GitData-GA/usresp2023/blob/main/code/Data_Cleaning.R
+# https://github.com/GitData-GA/h5n1/blob/master/version2/code/Data_Cleaning.R
 
 # Library
 rm(list=ls())
@@ -50,7 +50,7 @@ library(car)
 ########## Data 1: us.county ##########################################################
 #######################################################################################
 # Import data
-us.county = read.csv("https://usresp2023.gd.edu.kg/dataset/uscounties.csv", 
+us.county = read.csv("https://h5n1.gd.edu.kg/version2/dataset/uscounties.csv", 
                      header = TRUE)
 # Change column location
 us.county = us.county %>%
@@ -70,7 +70,7 @@ us.county$state[dc.index] = "DC"
 ########## Data 2: h5n1.poultry.cdc.o #################################################
 #######################################################################################
 # Import data
-h5n1.poultry.cdc.o = read.csv("https://usresp2023.gd.edu.kg/dataset/hpai-poultry.csv",
+h5n1.poultry.cdc.o = read.csv("https://h5n1.gd.edu.kg/version2/dataset/hpai-poultry.csv",
                               header = TRUE)
 # Ignore cases after March 30, 2023
 h5n1.poultry.cdc = h5n1.poultry.cdc.o %>% 
@@ -91,7 +91,7 @@ colnames(h5n1.poultry.cdc) = c("state", "county", "year_month",
 ########## Data 3: h5n1.wild.cdc.o ####################################################
 #######################################################################################
 # Import data
-h5n1.wild.cdc.o = read.csv("https://usresp2023.gd.edu.kg/dataset/hpai-wild-birds.csv",
+h5n1.wild.cdc.o = read.csv("https://h5n1.gd.edu.kg/version2/dataset/hpai-wild-birds.csv",
                            header = TRUE)
 # Seprate year month day
 h5n1.wild.cdc = h5n1.wild.cdc.o %>% 
@@ -123,79 +123,79 @@ colnames(h5n1.wild.cdc) = c("state", "county", "year_month",
 ########## Data 4: Average Temperature by Month in each County ########################
 #######################################################################################
 # JAN 2022
-avg_temp_01_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_01_22.csv",
+avg_temp_01_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_01_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_01_22 = avg_temp_01_22[-c(1:4),]
 avg_temp_01_22 = cbind(avg_temp_01_22, 1)
 names(avg_temp_01_22)[7] = "month.index"
 # FEB 2022
-avg_temp_02_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_02_22.csv",
+avg_temp_02_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_02_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_02_22 = avg_temp_02_22[-c(1:4),]
 avg_temp_02_22 = cbind(avg_temp_02_22, 2)
 names(avg_temp_02_22)[7] = "month.index"
 # MAR 2022
-avg_temp_03_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_03_22.csv",
+avg_temp_03_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_03_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_03_22 = cbind(avg_temp_03_22[-c(1:4),], 3)
 names(avg_temp_03_22)[7] = "month.index"
 # APR 2022
-avg_temp_04_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_04_22.csv",
+avg_temp_04_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_04_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_04_22 = cbind(avg_temp_04_22[-c(1:4),], 4)
 names(avg_temp_04_22)[7] = "month.index"
 # MAY 2022
-avg_temp_05_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_05_22.csv",
+avg_temp_05_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_05_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_05_22 = cbind(avg_temp_05_22[-c(1:4),], 5)
 names(avg_temp_05_22)[7] = "month.index"
 # JUN 2022
-avg_temp_06_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_06_22.csv",
+avg_temp_06_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_06_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_06_22 = cbind(avg_temp_06_22[-c(1:4),], 6)
 names(avg_temp_06_22)[7] = "month.index"
 # JUL 2022
-avg_temp_07_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_07_22.csv",
+avg_temp_07_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_07_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_07_22 = cbind(avg_temp_07_22[-c(1:4),], 7)
 names(avg_temp_07_22)[7] = "month.index"
 # AUG 2022
-avg_temp_08_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_08_22.csv",
+avg_temp_08_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_08_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_08_22 = cbind(avg_temp_08_22[-c(1:4),], 8)
 names(avg_temp_08_22)[7] = "month.index"
 # SEP 2022
-avg_temp_09_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_09_22.csv",
+avg_temp_09_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_09_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_09_22 = cbind(avg_temp_09_22[-c(1:4),], 9)
 names(avg_temp_09_22)[7] = "month.index"
 # OCT 2022
-avg_temp_10_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_10_22.csv",
+avg_temp_10_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_10_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_10_22 = cbind(avg_temp_10_22[-c(1:4),], 10)
 names(avg_temp_10_22)[7] = "month.index"
 # NOV 2022
-avg_temp_11_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_11_22.csv",
+avg_temp_11_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_11_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_11_22 = cbind(avg_temp_11_22[-c(1:4),], 11)
 names(avg_temp_11_22)[7] = "month.index"
 # DEC 2022
-avg_temp_12_22 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_12_22.csv",
+avg_temp_12_22 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_12_22.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_12_22 = cbind(avg_temp_12_22[-c(1:4),], 12)
 names(avg_temp_12_22)[7] = "month.index"
 # JAN 2023
-avg_temp_01_23 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_01_23.csv",
+avg_temp_01_23 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_01_23.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_01_23 = cbind(avg_temp_01_23[-c(1:4),], 13)
 names(avg_temp_01_23)[7] = "month.index"
 # Feb 2023
-avg_temp_02_23 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_02_23.csv",
+avg_temp_02_23 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_02_23.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_02_23 = cbind(avg_temp_02_23[-c(1:4),], 14)
 names(avg_temp_02_23)[7] = "month.index"
 # MAR 2023
-avg_temp_03_23 = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp_03_23.csv",
+avg_temp_03_23 = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp_03_23.csv",
                           header=F, quote="\"", comment.char="")
 avg_temp_03_23 = cbind(avg_temp_03_23[-c(1:4),], 15)
 names(avg_temp_03_23)[7] = "month.index"
