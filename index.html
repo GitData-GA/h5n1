@@ -227,25 +227,38 @@
                                     There are 188,580 observations and 10 variables in the curated 
                                     dataset.
                                     <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">fips</code>: Each FIPS code represents a unique county in the United States, so it is a categorical variable with 3,143 unique values, each unique value has 60 entries.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">state</code>: Abbreviation of each state in the United States, so it is a categorical variable with 51 unique values, each states has its own number of counties.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">county</code>: The names of counties, independent cities, census areas, and same administrative level regions in the United States, so it is a categorical variable with 3,143 unique values with respect to states, each unique value has 60 entries (note that some sates have some counties with the same name).
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">lat</code>: The latitude of each county.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">lng</code>: The longitude of each county.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">month.index</code>: The order of month of avian influenza outbreak from 1 (January 2022) to 15 (March 2023). Each month.index has 12,572 entries. Every month.index has the same number of entries because the cleaned dataset contains all counties’ H5N1 situations regardless of how many cases they have, if there is no cases in a county, then the case number is just 0.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">type</code>: The type of outbreak in a specific county and month, so it is a categorical variable with 4 unique values, including poultry (47,145 entries), non-poultry (47,145 entries), wild bird (47,145 entries), and captive wild bird (47,145 entries). Every type has the same number of entries because the cleaned dataset contains all counties’ H5N1 situations regardless of how many cases they have, if there is no cases in a county, then the case number is just 0.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">avg.temp</code>: The average temperature in a specific county and month in Fahrenheit degree (°F).
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">cases</code>: The number of H5N1 cases detected in a specific county and month.
-                                    <br>
-                                    &nbsp;&nbsp;&nbsp;- <code style="color:white;">binary.case</code>: If the case of a type of outbreak in a specific county and month is 0, then it is marked as uninfected (185,907 entries). Otherwise, it is marked as infected (2,673).
+                                    <ul>
+                                        <li>
+                                            <code style="color:white;">fips</code>: Each FIPS code represents a unique county in the United States, so it is a categorical variable with 3,143 unique values, each unique value has 60 entries.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">state</code>: Abbreviation of each state in the United States, so it is a categorical variable with 51 unique values, each states has its own number of counties.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">county</code>: The names of counties, independent cities, census areas, and same administrative level regions in the United States, so it is a categorical variable with 3,143 unique values with respect to states, each unique value has 60 entries (note that some sates have some counties with the same name).
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">lat</code>: The latitude of each county.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">lng</code>: The longitude of each county.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">month.index</code>: The order of month of avian influenza outbreak from 1 (January 2022) to 15 (March 2023). Each month.index has 12,572 entries. Every month.index has the same number of entries because the cleaned dataset contains all counties’ H5N1 situations regardless of how many cases they have, if there is no cases in a county, then the case number is just 0.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">type</code>: The type of outbreak in a specific county and month, so it is a categorical variable with 4 unique values, including poultry (47,145 entries), non-poultry (47,145 entries), wild bird (47,145 entries), and captive wild bird (47,145 entries). Every type has the same number of entries because the cleaned dataset contains all counties’ H5N1 situations regardless of how many cases they have, if there is no cases in a county, then the case number is just 0.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">avg.temp</code>: The average temperature in a specific county and month in Fahrenheit degree (°F).
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">cases</code>: The number of H5N1 cases detected in a specific county and month.
+                                        </li>
+                                        <li>
+                                            <code style="color:white;">binary.case</code>: If the case of a type of outbreak in a specific county and month is 0, then it is marked as uninfected (185,907 entries). Otherwise, it is marked as infected (2,673).
+                                        </li>
+                                    </ul>
                                 </p>
                                 <p>
                                     This cleaned dataset will be used to train our classification model to predict which counties might be likely to experience H5N1 infection in the upcoming months.
@@ -378,11 +391,13 @@
                     <h2 class="mb-4">2. eXtreme Gradient Boosting (XGBoost) Model</h2>
                     <p>In contemporary times, XGBoost has emerged as a robust ensemble learning technique, garnering widespread acclaim for its exceptional predictive prowess. The algorithm methodically assembles a set of weak learners, typically manifested as decision trees, and amalgamates their predictions to bolster accuracy and exhibit strong generalization performance on unseen data. </p>
                     <p>The XGBoost model was trained utilizing the exact tree method, and its performance was systematically monitored through the negative log-likelihood loss at each iteration of the training process. In order to ensure both performance and robustness, a 10-fold cross-validation strategy was implemented at each training round, and certain hyperparameters were systematically adjusted and applied as delineated below:</p>
-                    <li>The learning rate ($\eta$) was designated as 0.02, serving as the step size shrinkage to mitigate overfitting during the training process.</li>
-                    <li>The subsample ratio was established at 0.75, indicating that the XGBoost algorithm would stochastically select 75% of the training data for each tree's growth.</li>
-                    <li>The column subsample ratio for each tree was configured to 0.8, signifying that the XGBoost algorithm would randomly consider 80% of predictors when developing a new tree.</li>
-                    <li>The maximum depth of the trees was restricted to 10.</li>
-                    <li>The number of training rounds was predetermined to be 700.</li>
+                    <ul>
+                        <li>The learning rate ($\eta$) was designated as 0.02, serving as the step size shrinkage to mitigate overfitting during the training process.</li>
+                        <li>The subsample ratio was established at 0.75, indicating that the XGBoost algorithm would stochastically select 75% of the training data for each tree's growth.</li>
+                        <li>The column subsample ratio for each tree was configured to 0.8, signifying that the XGBoost algorithm would randomly consider 80% of predictors when developing a new tree.</li>
+                        <li>The maximum depth of the trees was restricted to 10.</li>
+                        <li>The number of training rounds was predetermined to be 700.</li>
+                    </ul>
                     <center>
                         <p style="color:white;">Figure 7:  Training and Validation Losses of XGBoost Model over 700 Rounds of Training</p>
                     </center>
