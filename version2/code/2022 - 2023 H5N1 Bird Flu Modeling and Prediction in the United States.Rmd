@@ -28,9 +28,9 @@ output:
 >
 >Project Website: https://h5n1.gd.edu.kg/
 >
->Project Dashboard: https://usresp2023.gd.edu.kg/dashboard/
+>Project Dashboard: https://h5n1.gd.edu.kg/version2/
 >
->GitHub Repository: https://github.com/GitData-GA/usresp2023
+>GitHub Repository: https://github.com/GitData-GA/h5n1/tree/master/version2
 
 \clearpage
 
@@ -99,7 +99,7 @@ The cleaned dataset will be used to train our classification model to predict wh
 ########## Data 1: us.county ##########################################################
 #######################################################################################
 # Import data
-us.county = read.csv("https://usresp2023.gd.edu.kg/dataset/uscounties.csv", 
+us.county = read.csv("https://h5n1.gd.edu.kg/version2/dataset/uscounties.csv", 
                      header = TRUE)
 # Change column location
 us.county = us.county %>%
@@ -142,7 +142,7 @@ You can access this public dataset from [https://simplemaps.com/data/us-counties
 ########## Data 2: h5n1.poultry.cdc.o #################################################
 #######################################################################################
 # Import data
-h5n1.poultry.cdc.o = read.csv("https://usresp2023.gd.edu.kg/dataset/hpai-poultry.csv",
+h5n1.poultry.cdc.o = read.csv("https://h5n1.gd.edu.kg/version2/dataset/hpai-poultry.csv",
                               header = TRUE)
 # Ignore cases after March 30, 2023
 h5n1.poultry.cdc = h5n1.poultry.cdc.o %>% 
@@ -194,7 +194,7 @@ You can access this public dataset from [https://www.cdc.gov/flu/avianflu/data-m
 ########## Data 3: h5n1.wild.cdc.o ####################################################
 #######################################################################################
 # Import data
-h5n1.wild.cdc.o = read.csv("https://usresp2023.gd.edu.kg/dataset/hpai-wild-birds.csv",
+h5n1.wild.cdc.o = read.csv("https://h5n1.gd.edu.kg/version2/dataset/hpai-wild-birds.csv",
                            header = TRUE)
 # Seprate year month day
 h5n1.wild.cdc = h5n1.wild.cdc.o %>% 
@@ -265,7 +265,7 @@ You can access this public dataset from [https://www.cdc.gov/flu/avianflu/data-m
 # https://github.com/GitData-GA/usresp2023/blob/main/code/Data_Cleaning.R             #
 #######################################################################################
 # Import Data
-avg.temp = read.csv("https://usresp2023.gd.edu.kg/dataset/avg_temp.csv",
+avg.temp = read.csv("https://h5n1.gd.edu.kg/version2/dataset/avg_temp.csv",
                     header = TRUE)
 ```
 
@@ -303,9 +303,9 @@ You can access these public datasets from [https://www.ncei.noaa.gov/access/moni
 # https://github.com/GitData-GA/usresp2023/blob/main/code/Data_Cleaning.R             #
 #######################################################################################
 # Import Data
-h5n1.cdc = read.csv("https://usresp2023.gd.edu.kg/dataset/h5n1_cdc.csv",
+h5n1.cdc = read.csv("https://h5n1.gd.edu.kg/version2/dataset/h5n1_cdc.csv",
                     header = TRUE)
-h5n1.cdc.clean = read.csv("https://usresp2023.gd.edu.kg/dataset/h5n1_cdc_clean.csv",
+h5n1.cdc.clean = read.csv("https://h5n1.gd.edu.kg/version2/dataset/h5n1_cdc_clean.csv",
                           header = TRUE)
 ```
 
