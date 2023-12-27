@@ -1,7 +1,5 @@
 # 2022 - 2023 H5N1 Bird Flu Modeling and Prediction in the United States
 
-<hr>
-
 <img src="https://h5n1.gd.edu.kg/images/bg-1.jpg" width=400px />
 
 [Version 3 (current)](https://h5n1.gd.edu.kg/)  |  [Version 2](https://h5n1.gd.edu.kg/version2/)  |  [Version 1](https://h5n1.gd.edu.kg/version1/)
