@@ -19,4 +19,4 @@ techniques and machine learning models.
 4. Sida Tian (<img src="https://www.gd.edu.kg/images/emails/startian.png"/>)
 5. Li Yuan (<img src="https://www.gd.edu.kg/images/emails/leeyuan.png"/>)
 <hr>
-[cc-by-shield](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+<img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" />
