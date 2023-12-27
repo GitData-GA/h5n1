@@ -9,3 +9,7 @@ University of California, Davis, and the University of Michigan, Ann Arbor. The 
 and predicting H5N1 bird flu outbreaks in the United States at the county level, utilizing diverse statistical 
 techniques and machine learning models.
 
+## Authors 
+
+1. Name: Weilin Cheng
+   Email: <img src="https://www.gd.edu.kg/images/emails/wncheng.png"/>
